@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+            <author>Ron Naiweld</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2018-02-22</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>eRabbinica and the Digital Mishnah Project</publisher>
+            <pubPlace>Department of History and Joseph and Rebecca Meyerhoff Center for Jewish
+               Studies</pubPlace>
+            <address>
+               <addrLine>2115 Francis Scott Key Hall</addrLine>
+               <addrLine>University of Maryland</addrLine>
+               <addrLine>College Park, MD</addrLine>
+            </address>
+            <idno type="local">fr_RN</idno>
+            <availability status="restricted">
+               <p>Daniel Stökl Ben Ezra, the École pratique des hautes études (Paris, France),
+                  and Hayim Lapin and the Joseph and Rebecca Meyerhoff Center for Jewish
+                  Studies and licensed under a and licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative
+                     Commons Attribution International 4.0
+                     Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA
+                     4.0)</ref>.</p>
+            </availability>
+            <date>2018-10-05</date>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Converted from a Word document</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <appInfo>
+            <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+               <label>DOCX to TEI</label>
+            </application>
+         </appInfo>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <date>2018-02-22T20:35:51Z</date>
+               <name>Ron Naiweld</name>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+    <text>
+        <body>
+            <div xmlns="" xml:id="M_fr_RN.M.S07106.1v"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S07106.9r"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S07106.9v"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S07106.15r"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S07106.15v"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S07106.21r"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S07106.22r"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S07106.27r"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S07106.33r"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S07106.33v"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S07106.37v"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S07106.38r"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S07106.49r"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S07106.49v"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S07106.56v"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S07106.57r"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S07106.67v"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S07106.68r"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S07106.170"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S07106.171"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S07106.186"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S07106.187"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S07106.199"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S07106.200"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S07106.218"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S07106.219"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S07106.236"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S07106.244"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S07106.245"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S07106.261"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S07106.262"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S07106.272"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S07106.273"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S07106.288"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S07106.289"/>
+        </body>
+    </text>
+</TEI>

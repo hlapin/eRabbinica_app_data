@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Taxonomy for eRabbinica</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy xml:id="iiif">
+                   <category xml:id="bodleian">
+                      <catDesc>Bodleian</catDesc>
+                      <desc><ptr ref="https://iiif.bodleian.ox.ac.uk/iiif/image/"/></desc>
+                   </category>
+                   <category xml:id="munichBSB">
+                    <catDesc>Munich BSB</catDesc>
+                    <desc><ptr ref="https://api.digitale-sammlungen.de/iiif/image/v2/"/></desc>
+                 </category>
+                 <category xml:id="vatican">
+                    <catDesc>Vatican</catDesc>
+                    <desc><ptr ref="https://digi.vatlib.it/iiifimage/"/></desc>
+                 </category>
+                </taxonomy>
+         </classDecl>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p/>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,1364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Canonical reference and versification for MekhY</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <div xml:id="ref.MekhY.1" type="level1" subtype="Massekhet" ana="Pisḥa">
+            <div xml:id="ref.MekhY.1.1" type="level2" subtype="Parasha" ana="1">
+               <div xml:id="ref.MekhY.1.1.1" n="1" type="level3" subtype="Pisqa" ana="1"/>
+               <div xml:id="ref.MekhY.1.1.2" n="2" type="level3" subtype="Pisqa" ana="2"/>
+               <div xml:id="ref.MekhY.1.1.3" n="3" type="level3" subtype="Pisqa" ana="3"/>
+               <div xml:id="ref.MekhY.1.1.4" n="4" type="level3" subtype="Pisqa" ana="4"/>
+            </div>
+            <div xml:id="ref.MekhY.1.2" type="level2" subtype="Parasha" ana="2">
+               <div xml:id="ref.MekhY.1.2.1" n="5" type="level3" subtype="Pisqa" ana="1"/>
+               <div xml:id="ref.MekhY.1.2.2" n="6" type="level3" subtype="Pisqa" ana="2"/>
+               <div xml:id="ref.MekhY.1.2.3" n="7" type="level3" subtype="Pisqa" ana="3"/>
+               <div xml:id="ref.MekhY.1.2.4" n="8" type="level3" subtype="Pisqa" ana="4"/>
+               <div xml:id="ref.MekhY.1.2.5" n="9" type="level3" subtype="Pisqa" ana="5"/>
+               <div xml:id="ref.MekhY.1.2.6" n="10" type="level3" subtype="Pisqa" ana="6"/>
+               <div xml:id="ref.MekhY.1.2.7" n="11" type="level3" subtype="Pisqa" ana="7"/>
+            </div>
+            <div xml:id="ref.MekhY.1.3" type="level2" subtype="Parasha" ana="3">
+               <div xml:id="ref.MekhY.1.3.1" n="12" type="level3" subtype="Pisqa" ana="1"/>
+               <div xml:id="ref.MekhY.1.3.2" n="13" type="level3" subtype="Pisqa" ana="2"/>
+               <div xml:id="ref.MekhY.1.3.3" n="14" type="level3" subtype="Pisqa" ana="3"/>
+               <div xml:id="ref.MekhY.1.3.4" n="15" type="level3" subtype="Pisqa" ana="4"/>
+               <div xml:id="ref.MekhY.1.3.5" n="16" type="level3" subtype="Pisqa" ana="5"/>
+               <div xml:id="ref.MekhY.1.3.6" n="17" type="level3" subtype="Pisqa" ana="6"/>
+               <div xml:id="ref.MekhY.1.3.7" n="18" type="level3" subtype="Pisqa" ana="7"/>
+               <div xml:id="ref.MekhY.1.3.8" n="19" type="level3" subtype="Pisqa" ana="8"/>
+               <div xml:id="ref.MekhY.1.3.9" n="20" type="level3" subtype="Pisqa" ana="9"/>
+               <div xml:id="ref.MekhY.1.3.10" n="21" type="level3" subtype="Pisqa" ana="10"/>
+               <div xml:id="ref.MekhY.1.3.11" n="22" type="level3" subtype="Pisqa" ana="11"/>
+               <div xml:id="ref.MekhY.1.3.12" n="23" type="level3" subtype="Pisqa" ana="12"/>
+               <div xml:id="ref.MekhY.1.3.13" n="24" type="level3" subtype="Pisqa" ana="13"/>
+               <div xml:id="ref.MekhY.1.3.14" n="25" type="level3" subtype="Pisqa" ana="14"/>
+            </div>
+            <div xml:id="ref.MekhY.1.4" type="level2" subtype="Parasha" ana="4">
+               <div xml:id="ref.MekhY.1.4.1" n="26" type="level3" subtype="Pisqa" ana="1"/>
+               <div xml:id="ref.MekhY.1.4.2" n="27" type="level3" subtype="Pisqa" ana="2"/>
+               <div xml:id="ref.MekhY.1.4.3" n="28" type="level3" subtype="Pisqa" ana="3"/>
+               <div xml:id="ref.MekhY.1.4.4" n="29" type="level3" subtype="Pisqa" ana="4"/>
+               <div xml:id="ref.MekhY.1.4.5" n="30" type="level3" subtype="Pisqa" ana="5"/>
+               <div xml:id="ref.MekhY.1.4.6" n="31" type="level3" subtype="Pisqa" ana="6"/>
+            </div>
+            <div xml:id="ref.MekhY.1.5" type="level2" subtype="Parasha" ana="5">
+               <div xml:id="ref.MekhY.1.5.1" n="32" type="level3" subtype="Pisqa" ana="1"/>
+               <div xml:id="ref.MekhY.1.5.2" n="33" type="level3" subtype="Pisqa" ana="2"/>
+               <div xml:id="ref.MekhY.1.5.3" n="34" type="level3" subtype="Pisqa" ana="3"/>
+               <div xml:id="ref.MekhY.1.5.4" n="35" type="level3" subtype="Pisqa" ana="4"/>
+               <div xml:id="ref.MekhY.1.5.5" n="36" type="level3" subtype="Pisqa" ana="5"/>
+               <div xml:id="ref.MekhY.1.5.6" n="37" type="level3" subtype="Pisqa" ana="6"/>
+               <div xml:id="ref.MekhY.1.5.7" n="38" type="level3" subtype="Pisqa" ana="7"/>
+               <div xml:id="ref.MekhY.1.5.8" n="39" type="level3" subtype="Pisqa" ana="8"/>
+               <div xml:id="ref.MekhY.1.5.9" n="40" type="level3" subtype="Pisqa" ana="9"/>
+               <div xml:id="ref.MekhY.1.5.10" n="41" type="level3" subtype="Pisqa" ana="10"/>
+               <div xml:id="ref.MekhY.1.5.11" n="42" type="level3" subtype="Pisqa" ana="11"/>
+            </div>
+            <div xml:id="ref.MekhY.1.6" type="level2" subtype="Parasha" ana="6">
+               <div xml:id="ref.MekhY.1.6.1" n="43" type="level3" subtype="Pisqa" ana="1"/>
+               <div xml:id="ref.MekhY.1.6.2" n="44" type="level3" subtype="Pisqa" ana="2"/>
+               <div xml:id="ref.MekhY.1.6.3" n="45" type="level3" subtype="Pisqa" ana="3"/>
+               <div xml:id="ref.MekhY.1.6.4" n="46" type="level3" subtype="Pisqa" ana="4"/>
+               <div xml:id="ref.MekhY.1.6.5" n="47" type="level3" subtype="Pisqa" ana="5"/>
+               <div xml:id="ref.MekhY.1.6.6" n="48" type="level3" subtype="Pisqa" ana="6"/>
+               <div xml:id="ref.MekhY.1.6.7" n="49" type="level3" subtype="Pisqa" ana="7"/>
+               <div xml:id="ref.MekhY.1.6.8" n="50" type="level3" subtype="Pisqa" ana="8"/>
+               <div xml:id="ref.MekhY.1.6.9" n="51" type="level3" subtype="Pisqa" ana="9"/>
+               <div xml:id="ref.MekhY.1.6.10" n="52" type="level3" subtype="Pisqa" ana="10"/>
+               <div xml:id="ref.MekhY.1.6.11" n="53" type="level3" subtype="Pisqa" ana="11"/>
+               <div xml:id="ref.MekhY.1.6.12" n="54" type="level3" subtype="Pisqa" ana="12"/>
+               <div xml:id="ref.MekhY.1.6.13" n="55" type="level3" subtype="Pisqa" ana="13"/>
+               <div xml:id="ref.MekhY.1.6.14" n="56" type="level3" subtype="Pisqa" ana="14"/>
+               <div xml:id="ref.MekhY.1.6.15" n="57" type="level3" subtype="Pisqa" ana="15"/>
+               <div xml:id="ref.MekhY.1.6.16" n="58" type="level3" subtype="Pisqa" ana="16"/>
+               <div xml:id="ref.MekhY.1.6.17" n="59" type="level3" subtype="Pisqa" ana="17"/>
+               <div xml:id="ref.MekhY.1.6.18" n="60" type="level3" subtype="Pisqa" ana="18"/>
+            </div>
+            <div xml:id="ref.MekhY.1.7" type="level2" subtype="Parasha" ana="7">
+               <div xml:id="ref.MekhY.1.7.1" n="61" type="level3" subtype="Pisqa" ana="1"/>
+               <div xml:id="ref.MekhY.1.7.2" n="62" type="level3" subtype="Pisqa" ana="2"/>
+               <div xml:id="ref.MekhY.1.7.3" n="63" type="level3" subtype="Pisqa" ana="3"/>
+               <div xml:id="ref.MekhY.1.7.4" n="64" type="level3" subtype="Pisqa" ana="4"/>
+               <div xml:id="ref.MekhY.1.7.5" n="65" type="level3" subtype="Pisqa" ana="5"/>
+               <div xml:id="ref.MekhY.1.7.6" n="66" type="level3" subtype="Pisqa" ana="6"/>
+               <div xml:id="ref.MekhY.1.7.7" n="67" type="level3" subtype="Pisqa" ana="7"/>
+               <div xml:id="ref.MekhY.1.7.8" n="68" type="level3" subtype="Pisqa" ana="8"/>
+               <div xml:id="ref.MekhY.1.7.9" n="69" type="level3" subtype="Pisqa" ana="9"/>
+               <div xml:id="ref.MekhY.1.7.10" n="70" type="level3" subtype="Pisqa" ana="10"/>
+               <div xml:id="ref.MekhY.1.7.11" n="71" type="level3" subtype="Pisqa" ana="11"/>
+               <div xml:id="ref.MekhY.1.7.12" n="72" type="level3" subtype="Pisqa" ana="12"/>
+               <div xml:id="ref.MekhY.1.7.13" n="73" type="level3" subtype="Pisqa" ana="13"/>
+               <div xml:id="ref.MekhY.1.7.14" n="74" type="level3" subtype="Pisqa" ana="14"/>
+               <div xml:id="ref.MekhY.1.7.15" n="75" type="level3" subtype="Pisqa" ana="15"/>
+               <div xml:id="ref.MekhY.1.7.16" n="76" type="level3" subtype="Pisqa" ana="16"/>
+               <div xml:id="ref.MekhY.1.7.17" n="77" type="level3" subtype="Pisqa" ana="17"/>
+               <div xml:id="ref.MekhY.1.7.18" n="78" type="level3" subtype="Pisqa" ana="18"/>
+               <div xml:id="ref.MekhY.1.7.19" n="79" type="level3" subtype="Pisqa" ana="19"/>
+               <div xml:id="ref.MekhY.1.7.20" n="80" type="level3" subtype="Pisqa" ana="20"/>
+               <div xml:id="ref.MekhY.1.7.21" n="81" type="level3" subtype="Pisqa" ana="21"/>
+            </div>
+            <div xml:id="ref.MekhY.1.8" type="level2" subtype="Parasha" ana="8">
+               <div xml:id="ref.MekhY.1.8.1" n="82" type="level3" subtype="Pisqa" ana="1"/>
+               <div xml:id="ref.MekhY.1.8.2" n="83" type="level3" subtype="Pisqa" ana="2"/>
+               <div xml:id="ref.MekhY.1.8.3" n="84" type="level3" subtype="Pisqa" ana="3"/>
+               <div xml:id="ref.MekhY.1.8.4" n="85" type="level3" subtype="Pisqa" ana="4"/>
+               <div xml:id="ref.MekhY.1.8.5" n="86" type="level3" subtype="Pisqa" ana="5"/>
+               <div xml:id="ref.MekhY.1.8.6" n="87" type="level3" subtype="Pisqa" ana="6"/>
+               <div xml:id="ref.MekhY.1.8.7" n="88" type="level3" subtype="Pisqa" ana="7"/>
+               <div xml:id="ref.MekhY.1.8.8" n="89" type="level3" subtype="Pisqa" ana="8"/>
+               <div xml:id="ref.MekhY.1.8.9" n="90" type="level3" subtype="Pisqa" ana="9"/>
+               <div xml:id="ref.MekhY.1.8.10" n="91" type="level3" subtype="Pisqa" ana="10"/>
+               <div xml:id="ref.MekhY.1.8.11" n="92" type="level3" subtype="Pisqa" ana="11"/>
+            </div>
+            <div xml:id="ref.MekhY.1.9" type="level2" subtype="Parasha" ana="9">
+               <div xml:id="ref.MekhY.1.9.1" n="93" type="level3" subtype="Pisqa" ana="1"/>
+               <div xml:id="ref.MekhY.1.9.2" n="94" type="level3" subtype="Pisqa" ana="2"/>
+               <div xml:id="ref.MekhY.1.9.3" n="95" type="level3" subtype="Pisqa" ana="3"/>
+               <div xml:id="ref.MekhY.1.9.4" n="96" type="level3" subtype="Pisqa" ana="4"/>
+               <div xml:id="ref.MekhY.1.9.5" n="97" type="level3" subtype="Pisqa" ana="5"/>
+               <div xml:id="ref.MekhY.1.9.6" n="98" type="level3" subtype="Pisqa" ana="6"/>
+               <div xml:id="ref.MekhY.1.9.7" n="99" type="level3" subtype="Pisqa" ana="7"/>
+               <div xml:id="ref.MekhY.1.9.8" n="100" type="level3" subtype="Pisqa" ana="8"/>
+               <div xml:id="ref.MekhY.1.9.9" n="101" type="level3" subtype="Pisqa" ana="9"/>
+               <div xml:id="ref.MekhY.1.9.10" n="102" type="level3" subtype="Pisqa" ana="10"/>
+               <div xml:id="ref.MekhY.1.9.11" n="103" type="level3" subtype="Pisqa" ana="11"/>
+            </div>
+            <div xml:id="ref.MekhY.1.10" type="level2" subtype="Parasha" ana="10">
+               <div xml:id="ref.MekhY.1.10.1" n="104" type="level3" subtype="Pisqa" ana="1"/>
+               <div xml:id="ref.MekhY.1.10.2" n="105" type="level3" subtype="Pisqa" ana="2"/>
+               <div xml:id="ref.MekhY.1.10.3" n="106" type="level3" subtype="Pisqa" ana="3"/>
+               <div xml:id="ref.MekhY.1.10.4" n="107" type="level3" subtype="Pisqa" ana="4"/>
+               <div xml:id="ref.MekhY.1.10.5" n="108" type="level3" subtype="Pisqa" ana="5"/>
+               <div xml:id="ref.MekhY.1.10.6" n="109" type="level3" subtype="Pisqa" ana="6"/>
+               <div xml:id="ref.MekhY.1.10.7" n="110" type="level3" subtype="Pisqa" ana="7"/>
+               <div xml:id="ref.MekhY.1.10.8" n="111" type="level3" subtype="Pisqa" ana="8"/>
+               <div xml:id="ref.MekhY.1.10.9" n="112" type="level3" subtype="Pisqa" ana="9"/>
+               <div xml:id="ref.MekhY.1.10.10" n="113" type="level3" subtype="Pisqa" ana="10"/>
+            </div>
+            <div xml:id="ref.MekhY.1.11" type="level2" subtype="Parasha" ana="11">
+               <div xml:id="ref.MekhY.1.11.1" n="114" type="level3" subtype="Pisqa" ana="1"/>
+               <div xml:id="ref.MekhY.1.11.2" n="115" type="level3" subtype="Pisqa" ana="2"/>
+               <div xml:id="ref.MekhY.1.11.3" n="116" type="level3" subtype="Pisqa" ana="3"/>
+               <div xml:id="ref.MekhY.1.11.4" n="117" type="level3" subtype="Pisqa" ana="4"/>
+               <div xml:id="ref.MekhY.1.11.5" n="118" type="level3" subtype="Pisqa" ana="5"/>
+               <div xml:id="ref.MekhY.1.11.6" n="119" type="level3" subtype="Pisqa" ana="6"/>
+               <div xml:id="ref.MekhY.1.11.7" n="120" type="level3" subtype="Pisqa" ana="7"/>
+               <div xml:id="ref.MekhY.1.11.8" n="121" type="level3" subtype="Pisqa" ana="8"/>
+               <div xml:id="ref.MekhY.1.11.9" n="122" type="level3" subtype="Pisqa" ana="9"/>
+               <div xml:id="ref.MekhY.1.11.10" n="123" type="level3" subtype="Pisqa" ana="10"/>
+               <div xml:id="ref.MekhY.1.11.11" n="124" type="level3" subtype="Pisqa" ana="11"/>
+               <div xml:id="ref.MekhY.1.11.12" n="125" type="level3" subtype="Pisqa" ana="12"/>
+               <div xml:id="ref.MekhY.1.11.13" n="126" type="level3" subtype="Pisqa" ana="13"/>
+               <div xml:id="ref.MekhY.1.11.14" n="127" type="level3" subtype="Pisqa" ana="14"/>
+               <div xml:id="ref.MekhY.1.11.15" n="128" type="level3" subtype="Pisqa" ana="15"/>
+               <div xml:id="ref.MekhY.1.11.16" n="129" type="level3" subtype="Pisqa" ana="16"/>
+               <div xml:id="ref.MekhY.1.11.17" n="130" type="level3" subtype="Pisqa" ana="17"/>
+               <div xml:id="ref.MekhY.1.11.18" n="131" type="level3" subtype="Pisqa" ana="18"/>
+               <div xml:id="ref.MekhY.1.11.19" n="132" type="level3" subtype="Pisqa" ana="19"/>
+            </div>
+            <div xml:id="ref.MekhY.1.12" type="level2" subtype="Parasha" ana="12">
+               <div xml:id="ref.MekhY.1.12.1" n="133" type="level3" subtype="Pisqa" ana="1"/>
+               <div xml:id="ref.MekhY.1.12.2" n="134" type="level3" subtype="Pisqa" ana="2"/>
+               <div xml:id="ref.MekhY.1.12.3" n="135" type="level3" subtype="Pisqa" ana="3"/>
+               <div xml:id="ref.MekhY.1.12.4" n="136" type="level3" subtype="Pisqa" ana="4"/>
+               <div xml:id="ref.MekhY.1.12.5" n="137" type="level3" subtype="Pisqa" ana="5"/>
+               <div xml:id="ref.MekhY.1.12.6" n="138" type="level3" subtype="Pisqa" ana="6"/>
+               <div xml:id="ref.MekhY.1.12.7" n="139" type="level3" subtype="Pisqa" ana="7"/>
+               <div xml:id="ref.MekhY.1.12.8" n="140" type="level3" subtype="Pisqa" ana="8"/>
+               <div xml:id="ref.MekhY.1.12.9" n="141" type="level3" subtype="Pisqa" ana="9"/>
+               <div xml:id="ref.MekhY.1.12.10" n="142" type="level3" subtype="Pisqa" ana="10"/>
+            </div>
+            <div xml:id="ref.MekhY.1.13" type="level2" subtype="Parasha" ana="13">
+               <div xml:id="ref.MekhY.1.13.1" n="143" type="level3" subtype="Pisqa" ana="1"/>
+               <div xml:id="ref.MekhY.1.13.2" n="144" type="level3" subtype="Pisqa" ana="2"/>
+               <div xml:id="ref.MekhY.1.13.3" n="145" type="level3" subtype="Pisqa" ana="3"/>
+               <div xml:id="ref.MekhY.1.13.4" n="146" type="level3" subtype="Pisqa" ana="4"/>
+               <div xml:id="ref.MekhY.1.13.5" n="147" type="level3" subtype="Pisqa" ana="5"/>
+               <div xml:id="ref.MekhY.1.13.6" n="148" type="level3" subtype="Pisqa" ana="6"/>
+               <div xml:id="ref.MekhY.1.13.7" n="149" type="level3" subtype="Pisqa" ana="7"/>
+               <div xml:id="ref.MekhY.1.13.8" n="150" type="level3" subtype="Pisqa" ana="8"/>
+               <div xml:id="ref.MekhY.1.13.9" n="151" type="level3" subtype="Pisqa" ana="9"/>
+               <div xml:id="ref.MekhY.1.13.10" n="152" type="level3" subtype="Pisqa" ana="10"/>
+               <div xml:id="ref.MekhY.1.13.11" n="153" type="level3" subtype="Pisqa" ana="11"/>
+               <div xml:id="ref.MekhY.1.13.12" n="154" type="level3" subtype="Pisqa" ana="12"/>
+               <div xml:id="ref.MekhY.1.13.13" n="155" type="level3" subtype="Pisqa" ana="13"/>
+               <div xml:id="ref.MekhY.1.13.14" n="156" type="level3" subtype="Pisqa" ana="14"/>
+               <div xml:id="ref.MekhY.1.13.15" n="157" type="level3" subtype="Pisqa" ana="15"/>
+               <div xml:id="ref.MekhY.1.13.16" n="158" type="level3" subtype="Pisqa" ana="16"/>
+               <div xml:id="ref.MekhY.1.13.17" n="159" type="level3" subtype="Pisqa" ana="17"/>
+               <div xml:id="ref.MekhY.1.13.18" n="160" type="level3" subtype="Pisqa" ana="18"/>
+               <div xml:id="ref.MekhY.1.13.19" n="161" type="level3" subtype="Pisqa" ana="19"/>
+               <div xml:id="ref.MekhY.1.13.20" n="162" type="level3" subtype="Pisqa" ana="20"/>
+               <div xml:id="ref.MekhY.1.13.21" n="163" type="level3" subtype="Pisqa" ana="21"/>
+               <div xml:id="ref.MekhY.1.13.22" n="164" type="level3" subtype="Pisqa" ana="22"/>
+            </div>
+            <div xml:id="ref.MekhY.1.14" type="level2" subtype="Parasha" ana="14">
+               <div xml:id="ref.MekhY.1.14.1" n="165" type="level3" subtype="Pisqa" ana="1"/>
+               <div xml:id="ref.MekhY.1.14.2" n="166" type="level3" subtype="Pisqa" ana="2"/>
+               <div xml:id="ref.MekhY.1.14.3" n="167" type="level3" subtype="Pisqa" ana="3"/>
+               <div xml:id="ref.MekhY.1.14.4" n="168" type="level3" subtype="Pisqa" ana="4"/>
+               <div xml:id="ref.MekhY.1.14.5" n="169" type="level3" subtype="Pisqa" ana="5"/>
+               <div xml:id="ref.MekhY.1.14.6" n="170" type="level3" subtype="Pisqa" ana="6"/>
+               <div xml:id="ref.MekhY.1.14.7" n="171" type="level3" subtype="Pisqa" ana="7"/>
+               <div xml:id="ref.MekhY.1.14.8" n="172" type="level3" subtype="Pisqa" ana="8"/>
+               <div xml:id="ref.MekhY.1.14.9" n="173" type="level3" subtype="Pisqa" ana="9"/>
+               <div xml:id="ref.MekhY.1.14.10" n="174" type="level3" subtype="Pisqa" ana="10"/>
+               <div xml:id="ref.MekhY.1.14.11" n="175" type="level3" subtype="Pisqa" ana="11"/>
+               <div xml:id="ref.MekhY.1.14.12" n="176" type="level3" subtype="Pisqa" ana="12"/>
+               <div xml:id="ref.MekhY.1.14.13" n="177" type="level3" subtype="Pisqa" ana="13"/>
+               <div xml:id="ref.MekhY.1.14.14" n="178" type="level3" subtype="Pisqa" ana="14"/>
+               <div xml:id="ref.MekhY.1.14.15" n="179" type="level3" subtype="Pisqa" ana="15"/>
+            </div>
+            <div xml:id="ref.MekhY.1.15" type="level2" subtype="Parasha" ana="15">
+               <div xml:id="ref.MekhY.1.15.1" n="180" type="level3" subtype="Pisqa" ana="1"/>
+               <div xml:id="ref.MekhY.1.15.2" n="181" type="level3" subtype="Pisqa" ana="2"/>
+               <div xml:id="ref.MekhY.1.15.3" n="182" type="level3" subtype="Pisqa" ana="3"/>
+               <div xml:id="ref.MekhY.1.15.4" n="183" type="level3" subtype="Pisqa" ana="4"/>
+               <div xml:id="ref.MekhY.1.15.5" n="184" type="level3" subtype="Pisqa" ana="5"/>
+               <div xml:id="ref.MekhY.1.15.6" n="185" type="level3" subtype="Pisqa" ana="6"/>
+               <div xml:id="ref.MekhY.1.15.7" n="186" type="level3" subtype="Pisqa" ana="7"/>
+               <div xml:id="ref.MekhY.1.15.8" n="187" type="level3" subtype="Pisqa" ana="8"/>
+               <div xml:id="ref.MekhY.1.15.9" n="188" type="level3" subtype="Pisqa" ana="9"/>
+               <div xml:id="ref.MekhY.1.15.10" n="189" type="level3" subtype="Pisqa" ana="10"/>
+               <div xml:id="ref.MekhY.1.15.11" n="190" type="level3" subtype="Pisqa" ana="11"/>
+               <div xml:id="ref.MekhY.1.15.12" n="191" type="level3" subtype="Pisqa" ana="12"/>
+               <div xml:id="ref.MekhY.1.15.13" n="192" type="level3" subtype="Pisqa" ana="13"/>
+               <div xml:id="ref.MekhY.1.15.14" n="193" type="level3" subtype="Pisqa" ana="14"/>
+               <div xml:id="ref.MekhY.1.15.15" n="194" type="level3" subtype="Pisqa" ana="15"/>
+               <div xml:id="ref.MekhY.1.15.16" n="195" type="level3" subtype="Pisqa" ana="16"/>
+               <div xml:id="ref.MekhY.1.15.17" n="196" type="level3" subtype="Pisqa" ana="17"/>
+            </div>
+            <div xml:id="ref.MekhY.1.16" type="level2" subtype="Parasha" ana="16">
+               <div xml:id="ref.MekhY.1.16.1" n="197" type="level3" subtype="Pisqa" ana="1"/>
+               <div xml:id="ref.MekhY.1.16.2" n="198" type="level3" subtype="Pisqa" ana="2"/>
+               <div xml:id="ref.MekhY.1.16.3" n="199" type="level3" subtype="Pisqa" ana="3"/>
+               <div xml:id="ref.MekhY.1.16.4" n="200" type="level3" subtype="Pisqa" ana="4"/>
+               <div xml:id="ref.MekhY.1.16.5" n="201" type="level3" subtype="Pisqa" ana="5"/>
+               <div xml:id="ref.MekhY.1.16.6" n="202" type="level3" subtype="Pisqa" ana="6"/>
+               <div xml:id="ref.MekhY.1.16.7" n="203" type="level3" subtype="Pisqa" ana="7"/>
+               <div xml:id="ref.MekhY.1.16.8" n="204" type="level3" subtype="Pisqa" ana="8"/>
+               <div xml:id="ref.MekhY.1.16.9" n="205" type="level3" subtype="Pisqa" ana="9"/>
+            </div>
+            <div xml:id="ref.MekhY.1.17" type="level2" subtype="Parasha" ana="17">
+               <div xml:id="ref.MekhY.1.17.1" n="206" type="level3" subtype="Pisqa" ana="1"/>
+               <div xml:id="ref.MekhY.1.17.2" n="207" type="level3" subtype="Pisqa" ana="2"/>
+               <div xml:id="ref.MekhY.1.17.3" n="208" type="level3" subtype="Pisqa" ana="3"/>
+               <div xml:id="ref.MekhY.1.17.4" n="209" type="level3" subtype="Pisqa" ana="4"/>
+               <div xml:id="ref.MekhY.1.17.5" n="210" type="level3" subtype="Pisqa" ana="5"/>
+               <div xml:id="ref.MekhY.1.17.6" n="211" type="level3" subtype="Pisqa" ana="6"/>
+               <div xml:id="ref.MekhY.1.17.7" n="212" type="level3" subtype="Pisqa" ana="7"/>
+               <div xml:id="ref.MekhY.1.17.8" n="213" type="level3" subtype="Pisqa" ana="8"/>
+               <div xml:id="ref.MekhY.1.17.9" n="214" type="level3" subtype="Pisqa" ana="9"/>
+               <div xml:id="ref.MekhY.1.17.10" n="215" type="level3" subtype="Pisqa" ana="10"/>
+               <div xml:id="ref.MekhY.1.17.11" n="216" type="level3" subtype="Pisqa" ana="11"/>
+               <div xml:id="ref.MekhY.1.17.12" n="217" type="level3" subtype="Pisqa" ana="12"/>
+               <div xml:id="ref.MekhY.1.17.13" n="218" type="level3" subtype="Pisqa" ana="13"/>
+               <div xml:id="ref.MekhY.1.17.14" n="219" type="level3" subtype="Pisqa" ana="14"/>
+               <div xml:id="ref.MekhY.1.17.15" n="220" type="level3" subtype="Pisqa" ana="15"/>
+               <div xml:id="ref.MekhY.1.17.16" n="221" type="level3" subtype="Pisqa" ana="16"/>
+               <div xml:id="ref.MekhY.1.17.17" n="222" type="level3" subtype="Pisqa" ana="17"/>
+               <div xml:id="ref.MekhY.1.17.18" n="223" type="level3" subtype="Pisqa" ana="18"/>
+               <div xml:id="ref.MekhY.1.17.19" n="224" type="level3" subtype="Pisqa" ana="19"/>
+               <div xml:id="ref.MekhY.1.17.20" n="225" type="level3" subtype="Pisqa" ana="20"/>
+               <div xml:id="ref.MekhY.1.17.21" n="226" type="level3" subtype="Pisqa" ana="21"/>
+               <div xml:id="ref.MekhY.1.17.22" n="227" type="level3" subtype="Pisqa" ana="22"/>
+               <div xml:id="ref.MekhY.1.17.23" n="228" type="level3" subtype="Pisqa" ana="23"/>
+               <div xml:id="ref.MekhY.1.17.24" n="229" type="level3" subtype="Pisqa" ana="24"/>
+               <div xml:id="ref.MekhY.1.17.25" n="230" type="level3" subtype="Pisqa" ana="25"/>
+               <div xml:id="ref.MekhY.1.17.26" n="231" type="level3" subtype="Pisqa" ana="26"/>
+            </div>
+            <div xml:id="ref.MekhY.1.18" type="level2" subtype="Parasha" ana="18">
+               <div xml:id="ref.MekhY.1.18.1" n="232" type="level3" subtype="Pisqa" ana="1"/>
+               <div xml:id="ref.MekhY.1.18.2" n="233" type="level3" subtype="Pisqa" ana="2"/>
+               <div xml:id="ref.MekhY.1.18.3" n="234" type="level3" subtype="Pisqa" ana="3"/>
+               <div xml:id="ref.MekhY.1.18.4" n="235" type="level3" subtype="Pisqa" ana="4"/>
+               <div xml:id="ref.MekhY.1.18.5" n="236" type="level3" subtype="Pisqa" ana="5"/>
+               <div xml:id="ref.MekhY.1.18.6" n="237" type="level3" subtype="Pisqa" ana="6"/>
+               <div xml:id="ref.MekhY.1.18.7" n="238" type="level3" subtype="Pisqa" ana="7"/>
+               <div xml:id="ref.MekhY.1.18.8" n="239" type="level3" subtype="Pisqa" ana="8"/>
+               <div xml:id="ref.MekhY.1.18.9" n="240" type="level3" subtype="Pisqa" ana="9"/>
+               <div xml:id="ref.MekhY.1.18.10" n="241" type="level3" subtype="Pisqa" ana="10"/>
+               <div xml:id="ref.MekhY.1.18.11" n="242" type="level3" subtype="Pisqa" ana="11"/>
+               <div xml:id="ref.MekhY.1.18.12" n="243" type="level3" subtype="Pisqa" ana="12"/>
+               <div xml:id="ref.MekhY.1.18.13" n="244" type="level3" subtype="Pisqa" ana="13"/>
+               <div xml:id="ref.MekhY.1.18.14" n="245" type="level3" subtype="Pisqa" ana="14"/>
+               <div xml:id="ref.MekhY.1.18.15" n="246" type="level3" subtype="Pisqa" ana="15"/>
+               <div xml:id="ref.MekhY.1.18.16" n="247" type="level3" subtype="Pisqa" ana="16"/>
+               <div xml:id="ref.MekhY.1.18.17" n="248" type="level3" subtype="Pisqa" ana="17"/>
+               <div xml:id="ref.MekhY.1.18.18" n="249" type="level3" subtype="Pisqa" ana="18"/>
+               <div xml:id="ref.MekhY.1.18.19" n="250" type="level3" subtype="Pisqa" ana="19"/>
+            </div>
+         </div>
+         <div xml:id="ref.MekhY.2" type="level1" subtype="Massekhet" ana="Beshallaḥ">
+            <div xml:id="ref.MekhY.2.1" type="level2" subtype="Parasha" ana="1">
+               <div xml:id="ref.MekhY.2.1.1" n="251" type="level3" subtype="Pisqa" ana="1"/>
+               <div xml:id="ref.MekhY.2.1.2" n="252" type="level3" subtype="Pisqa" ana="2"/>
+               <div xml:id="ref.MekhY.2.1.3" n="253" type="level3" subtype="Pisqa" ana="3"/>
+               <div xml:id="ref.MekhY.2.1.4" n="254" type="level3" subtype="Pisqa" ana="4"/>
+               <div xml:id="ref.MekhY.2.1.5" n="255" type="level3" subtype="Pisqa" ana="5"/>
+               <div xml:id="ref.MekhY.2.1.6" n="256" type="level3" subtype="Pisqa" ana="6"/>
+               <div xml:id="ref.MekhY.2.1.7" n="257" type="level3" subtype="Pisqa" ana="7"/>
+               <div xml:id="ref.MekhY.2.1.8" n="258" type="level3" subtype="Pisqa" ana="8"/>
+               <div xml:id="ref.MekhY.2.1.9" n="259" type="level3" subtype="Pisqa" ana="9"/>
+               <div xml:id="ref.MekhY.2.1.10" n="260" type="level3" subtype="Pisqa" ana="10"/>
+               <div xml:id="ref.MekhY.2.1.11" n="261" type="level3" subtype="Pisqa" ana="11"/>
+               <div xml:id="ref.MekhY.2.1.12" n="262" type="level3" subtype="Pisqa" ana="12"/>
+               <div xml:id="ref.MekhY.2.1.13" n="263" type="level3" subtype="Pisqa" ana="13"/>
+               <div xml:id="ref.MekhY.2.1.14" n="264" type="level3" subtype="Pisqa" ana="14"/>
+               <div xml:id="ref.MekhY.2.1.15" n="265" type="level3" subtype="Pisqa" ana="15"/>
+               <div xml:id="ref.MekhY.2.1.16" n="266" type="level3" subtype="Pisqa" ana="16"/>
+               <div xml:id="ref.MekhY.2.1.17" n="267" type="level3" subtype="Pisqa" ana="17"/>
+               <div xml:id="ref.MekhY.2.1.18" n="268" type="level3" subtype="Pisqa" ana="18"/>
+               <div xml:id="ref.MekhY.2.1.19" n="269" type="level3" subtype="Pisqa" ana="19"/>
+               <div xml:id="ref.MekhY.2.1.20" n="270" type="level3" subtype="Pisqa" ana="20"/>
+               <div xml:id="ref.MekhY.2.1.21" n="271" type="level3" subtype="Pisqa" ana="21"/>
+               <div xml:id="ref.MekhY.2.1.22" n="272" type="level3" subtype="Pisqa" ana="22"/>
+               <div xml:id="ref.MekhY.2.1.23" n="273" type="level3" subtype="Pisqa" ana="23"/>
+               <div xml:id="ref.MekhY.2.1.24" n="274" type="level3" subtype="Pisqa" ana="24"/>
+               <div xml:id="ref.MekhY.2.1.25" n="275" type="level3" subtype="Pisqa" ana="25"/>
+               <div xml:id="ref.MekhY.2.1.26" n="276" type="level3" subtype="Pisqa" ana="26"/>
+               <div xml:id="ref.MekhY.2.1.27" n="277" type="level3" subtype="Pisqa" ana="27"/>
+               <div xml:id="ref.MekhY.2.1.28" n="278" type="level3" subtype="Pisqa" ana="28"/>
+            </div>
+            <div xml:id="ref.MekhY.2.2" type="level2" subtype="Parasha" ana="2">
+               <div xml:id="ref.MekhY.2.2.1" n="279" type="level3" subtype="Pisqa" ana="1"/>
+               <div xml:id="ref.MekhY.2.2.2" n="280" type="level3" subtype="Pisqa" ana="2"/>
+               <div xml:id="ref.MekhY.2.2.3" n="281" type="level3" subtype="Pisqa" ana="3"/>
+               <div xml:id="ref.MekhY.2.2.4" n="282" type="level3" subtype="Pisqa" ana="4"/>
+               <div xml:id="ref.MekhY.2.2.5" n="283" type="level3" subtype="Pisqa" ana="5"/>
+               <div xml:id="ref.MekhY.2.2.6" n="284" type="level3" subtype="Pisqa" ana="6"/>
+               <div xml:id="ref.MekhY.2.2.7" n="285" type="level3" subtype="Pisqa" ana="7"/>
+               <div xml:id="ref.MekhY.2.2.8" n="286" type="level3" subtype="Pisqa" ana="8"/>
+               <div xml:id="ref.MekhY.2.2.9" n="287" type="level3" subtype="Pisqa" ana="9"/>
+               <div xml:id="ref.MekhY.2.2.10" n="288" type="level3" subtype="Pisqa" ana="10"/>
+               <div xml:id="ref.MekhY.2.2.11" n="289" type="level3" subtype="Pisqa" ana="11"/>
+               <div xml:id="ref.MekhY.2.2.12" n="290" type="level3" subtype="Pisqa" ana="12"/>
+               <div xml:id="ref.MekhY.2.2.13" n="291" type="level3" subtype="Pisqa" ana="13"/>
+               <div xml:id="ref.MekhY.2.2.14" n="292" type="level3" subtype="Pisqa" ana="14"/>
+               <div xml:id="ref.MekhY.2.2.15" n="293" type="level3" subtype="Pisqa" ana="15"/>
+               <div xml:id="ref.MekhY.2.2.16" n="294" type="level3" subtype="Pisqa" ana="16"/>
+               <div xml:id="ref.MekhY.2.2.17" n="295" type="level3" subtype="Pisqa" ana="17"/>
+               <div xml:id="ref.MekhY.2.2.18" n="296" type="level3" subtype="Pisqa" ana="18"/>
+               <div xml:id="ref.MekhY.2.2.19" n="297" type="level3" subtype="Pisqa" ana="19"/>
+               <div xml:id="ref.MekhY.2.2.20" n="298" type="level3" subtype="Pisqa" ana="20"/>
+               <div xml:id="ref.MekhY.2.2.21" n="299" type="level3" subtype="Pisqa" ana="21"/>
+               <div xml:id="ref.MekhY.2.2.22" n="300" type="level3" subtype="Pisqa" ana="22"/>
+               <div xml:id="ref.MekhY.2.2.23" n="301" type="level3" subtype="Pisqa" ana="23"/>
+               <div xml:id="ref.MekhY.2.2.24" n="302" type="level3" subtype="Pisqa" ana="24"/>
+               <div xml:id="ref.MekhY.2.2.25" n="303" type="level3" subtype="Pisqa" ana="25"/>
+               <div xml:id="ref.MekhY.2.2.26" n="304" type="level3" subtype="Pisqa" ana="26"/>
+               <div xml:id="ref.MekhY.2.2.27" n="305" type="level3" subtype="Pisqa" ana="27"/>
+               <div xml:id="ref.MekhY.2.2.28" n="306" type="level3" subtype="Pisqa" ana="28"/>
+               <div xml:id="ref.MekhY.2.2.29" n="307" type="level3" subtype="Pisqa" ana="29"/>
+               <div xml:id="ref.MekhY.2.2.30" n="308" type="level3" subtype="Pisqa" ana="30"/>
+               <div xml:id="ref.MekhY.2.2.31" n="309" type="level3" subtype="Pisqa" ana="31"/>
+               <div xml:id="ref.MekhY.2.2.32" n="310" type="level3" subtype="Pisqa" ana="32"/>
+               <div xml:id="ref.MekhY.2.2.33" n="311" type="level3" subtype="Pisqa" ana="33"/>
+               <div xml:id="ref.MekhY.2.2.34" n="312" type="level3" subtype="Pisqa" ana="34"/>
+               <div xml:id="ref.MekhY.2.2.35" n="313" type="level3" subtype="Pisqa" ana="35"/>
+               <div xml:id="ref.MekhY.2.2.36" n="314" type="level3" subtype="Pisqa" ana="36"/>
+            </div>
+            <div xml:id="ref.MekhY.2.3" type="level2" subtype="Parasha" ana="3">
+               <div xml:id="ref.MekhY.2.3.1" n="315" type="level3" subtype="Pisqa" ana="1"/>
+               <div xml:id="ref.MekhY.2.3.2" n="316" type="level3" subtype="Pisqa" ana="2"/>
+               <div xml:id="ref.MekhY.2.3.3" n="317" type="level3" subtype="Pisqa" ana="3"/>
+               <div xml:id="ref.MekhY.2.3.4" n="318" type="level3" subtype="Pisqa" ana="4"/>
+               <div xml:id="ref.MekhY.2.3.5" n="319" type="level3" subtype="Pisqa" ana="5"/>
+               <div xml:id="ref.MekhY.2.3.6" n="320" type="level3" subtype="Pisqa" ana="6"/>
+               <div xml:id="ref.MekhY.2.3.7" n="321" type="level3" subtype="Pisqa" ana="7"/>
+               <div xml:id="ref.MekhY.2.3.8" n="322" type="level3" subtype="Pisqa" ana="8"/>
+               <div xml:id="ref.MekhY.2.3.9" n="323" type="level3" subtype="Pisqa" ana="9"/>
+               <div xml:id="ref.MekhY.2.3.10" n="324" type="level3" subtype="Pisqa" ana="10"/>
+               <div xml:id="ref.MekhY.2.3.11" n="325" type="level3" subtype="Pisqa" ana="11"/>
+               <div xml:id="ref.MekhY.2.3.12" n="326" type="level3" subtype="Pisqa" ana="12"/>
+               <div xml:id="ref.MekhY.2.3.13" n="327" type="level3" subtype="Pisqa" ana="13"/>
+               <div xml:id="ref.MekhY.2.3.14" n="328" type="level3" subtype="Pisqa" ana="14"/>
+               <div xml:id="ref.MekhY.2.3.15" n="329" type="level3" subtype="Pisqa" ana="15"/>
+               <div xml:id="ref.MekhY.2.3.16" n="330" type="level3" subtype="Pisqa" ana="16"/>
+            </div>
+            <div xml:id="ref.MekhY.2.4" type="level2" subtype="Parasha" ana="4">
+               <div xml:id="ref.MekhY.2.4.1" n="331" type="level3" subtype="Pisqa" ana="1"/>
+               <div xml:id="ref.MekhY.2.4.2" n="332" type="level3" subtype="Pisqa" ana="2"/>
+               <div xml:id="ref.MekhY.2.4.3" n="333" type="level3" subtype="Pisqa" ana="3"/>
+            </div>
+            <div xml:id="ref.MekhY.2.5" type="level2" subtype="Parasha" ana="5">
+               <div xml:id="ref.MekhY.2.5.1" n="334" type="level3" subtype="Pisqa" ana="1"/>
+               <div xml:id="ref.MekhY.2.5.2" n="335" type="level3" subtype="Pisqa" ana="2"/>
+               <div xml:id="ref.MekhY.2.5.3" n="336" type="level3" subtype="Pisqa" ana="3"/>
+               <div xml:id="ref.MekhY.2.5.4" n="337" type="level3" subtype="Pisqa" ana="4"/>
+               <div xml:id="ref.MekhY.2.5.5" n="338" type="level3" subtype="Pisqa" ana="5"/>
+               <div xml:id="ref.MekhY.2.5.6" n="339" type="level3" subtype="Pisqa" ana="6"/>
+               <div xml:id="ref.MekhY.2.5.7" n="340" type="level3" subtype="Pisqa" ana="7"/>
+               <div xml:id="ref.MekhY.2.5.8" n="341" type="level3" subtype="Pisqa" ana="8"/>
+               <div xml:id="ref.MekhY.2.5.9" n="342" type="level3" subtype="Pisqa" ana="9"/>
+            </div>
+            <div xml:id="ref.MekhY.2.6" type="level2" subtype="Parasha" ana="6">
+               <div xml:id="ref.MekhY.2.6.1" n="343" type="level3" subtype="Pisqa" ana="1"/>
+               <div xml:id="ref.MekhY.2.6.2" n="344" type="level3" subtype="Pisqa" ana="2"/>
+               <div xml:id="ref.MekhY.2.6.3" n="345" type="level3" subtype="Pisqa" ana="3"/>
+               <div xml:id="ref.MekhY.2.6.4" n="346" type="level3" subtype="Pisqa" ana="4"/>
+               <div xml:id="ref.MekhY.2.6.5" n="347" type="level3" subtype="Pisqa" ana="5"/>
+               <div xml:id="ref.MekhY.2.6.6" n="348" type="level3" subtype="Pisqa" ana="6"/>
+               <div xml:id="ref.MekhY.2.6.7" n="349" type="level3" subtype="Pisqa" ana="7"/>
+               <div xml:id="ref.MekhY.2.6.8" n="350" type="level3" subtype="Pisqa" ana="8"/>
+               <div xml:id="ref.MekhY.2.6.9" n="351" type="level3" subtype="Pisqa" ana="9"/>
+               <div xml:id="ref.MekhY.2.6.10" n="352" type="level3" subtype="Pisqa" ana="10"/>
+               <div xml:id="ref.MekhY.2.6.11" n="353" type="level3" subtype="Pisqa" ana="11"/>
+               <div xml:id="ref.MekhY.2.6.12" n="354" type="level3" subtype="Pisqa" ana="12"/>
+            </div>
+            <div xml:id="ref.MekhY.2.7" type="level2" subtype="Parasha" ana="7">
+               <div xml:id="ref.MekhY.2.7.1" n="355" type="level3" subtype="Pisqa" ana="1"/>
+               <div xml:id="ref.MekhY.2.7.2" n="356" type="level3" subtype="Pisqa" ana="2"/>
+               <div xml:id="ref.MekhY.2.7.3" n="357" type="level3" subtype="Pisqa" ana="3"/>
+               <div xml:id="ref.MekhY.2.7.4" n="358" type="level3" subtype="Pisqa" ana="4"/>
+               <div xml:id="ref.MekhY.2.7.5" n="359" type="level3" subtype="Pisqa" ana="5"/>
+               <div xml:id="ref.MekhY.2.7.6" n="360" type="level3" subtype="Pisqa" ana="6"/>
+               <div xml:id="ref.MekhY.2.7.7" n="361" type="level3" subtype="Pisqa" ana="7"/>
+               <div xml:id="ref.MekhY.2.7.8" n="362" type="level3" subtype="Pisqa" ana="8"/>
+               <div xml:id="ref.MekhY.2.7.9" n="363" type="level3" subtype="Pisqa" ana="9"/>
+               <div xml:id="ref.MekhY.2.7.10" n="364" type="level3" subtype="Pisqa" ana="10"/>
+               <div xml:id="ref.MekhY.2.7.11" n="365" type="level3" subtype="Pisqa" ana="11"/>
+               <div xml:id="ref.MekhY.2.7.12" n="366" type="level3" subtype="Pisqa" ana="12"/>
+               <div xml:id="ref.MekhY.2.7.13" n="367" type="level3" subtype="Pisqa" ana="13"/>
+               <div xml:id="ref.MekhY.2.7.14" n="368" type="level3" subtype="Pisqa" ana="14"/>
+               <div xml:id="ref.MekhY.2.7.15" n="369" type="level3" subtype="Pisqa" ana="15"/>
+            </div>
+         </div>
+         <div xml:id="ref.MekhY.3" type="level1" subtype="Massekhet" ana="Shirata">
+            <div xml:id="ref.MekhY.3.1" type="level2" subtype="Parasha" ana="1">
+               <div xml:id="ref.MekhY.3.1.1" n="370" type="level3" subtype="Pisqa" ana="1"/>
+               <div xml:id="ref.MekhY.3.1.2" n="371" type="level3" subtype="Pisqa" ana="2"/>
+               <div xml:id="ref.MekhY.3.1.3" n="372" type="level3" subtype="Pisqa" ana="3"/>
+               <div xml:id="ref.MekhY.3.1.4" n="373" type="level3" subtype="Pisqa" ana="4"/>
+               <div xml:id="ref.MekhY.3.1.5" n="374" type="level3" subtype="Pisqa" ana="5"/>
+               <div xml:id="ref.MekhY.3.1.6" n="375" type="level3" subtype="Pisqa" ana="6"/>
+               <div xml:id="ref.MekhY.3.1.7" n="376" type="level3" subtype="Pisqa" ana="7"/>
+               <div xml:id="ref.MekhY.3.1.8" n="377" type="level3" subtype="Pisqa" ana="8"/>
+            </div>
+            <div xml:id="ref.MekhY.3.2" type="level2" subtype="Parasha" ana="2">
+               <div xml:id="ref.MekhY.3.2.1" n="378" type="level3" subtype="Pisqa" ana="1"/>
+               <div xml:id="ref.MekhY.3.2.2" n="379" type="level3" subtype="Pisqa" ana="2"/>
+               <div xml:id="ref.MekhY.3.2.3" n="380" type="level3" subtype="Pisqa" ana="3"/>
+               <div xml:id="ref.MekhY.3.2.4" n="381" type="level3" subtype="Pisqa" ana="4"/>
+               <div xml:id="ref.MekhY.3.2.5" n="382" type="level3" subtype="Pisqa" ana="5"/>
+               <div xml:id="ref.MekhY.3.2.6" n="383" type="level3" subtype="Pisqa" ana="6"/>
+               <div xml:id="ref.MekhY.3.2.7" n="384" type="level3" subtype="Pisqa" ana="7"/>
+               <div xml:id="ref.MekhY.3.2.8" n="385" type="level3" subtype="Pisqa" ana="8"/>
+            </div>
+            <div xml:id="ref.MekhY.3.3" type="level2" subtype="Parasha" ana="3">
+               <div xml:id="ref.MekhY.3.3.1" n="386" type="level3" subtype="Pisqa" ana="1"/>
+               <div xml:id="ref.MekhY.3.3.2" n="387" type="level3" subtype="Pisqa" ana="2"/>
+               <div xml:id="ref.MekhY.3.3.3" n="388" type="level3" subtype="Pisqa" ana="3"/>
+               <div xml:id="ref.MekhY.3.3.4" n="389" type="level3" subtype="Pisqa" ana="4"/>
+               <div xml:id="ref.MekhY.3.3.5" n="390" type="level3" subtype="Pisqa" ana="5"/>
+               <div xml:id="ref.MekhY.3.3.6" n="391" type="level3" subtype="Pisqa" ana="6"/>
+               <div xml:id="ref.MekhY.3.3.7" n="392" type="level3" subtype="Pisqa" ana="7"/>
+               <div xml:id="ref.MekhY.3.3.8" n="393" type="level3" subtype="Pisqa" ana="8"/>
+               <div xml:id="ref.MekhY.3.3.9" n="394" type="level3" subtype="Pisqa" ana="9"/>
+               <div xml:id="ref.MekhY.3.3.10" n="395" type="level3" subtype="Pisqa" ana="10"/>
+               <div xml:id="ref.MekhY.3.3.11" n="396" type="level3" subtype="Pisqa" ana="11"/>
+               <div xml:id="ref.MekhY.3.3.12" n="397" type="level3" subtype="Pisqa" ana="12"/>
+            </div>
+            <div xml:id="ref.MekhY.3.4" type="level2" subtype="Parasha" ana="4">
+               <div xml:id="ref.MekhY.3.4.1" n="398" type="level3" subtype="Pisqa" ana="1"/>
+               <div xml:id="ref.MekhY.3.4.2" n="399" type="level3" subtype="Pisqa" ana="2"/>
+               <div xml:id="ref.MekhY.3.4.3" n="400" type="level3" subtype="Pisqa" ana="3"/>
+               <div xml:id="ref.MekhY.3.4.4" n="401" type="level3" subtype="Pisqa" ana="4"/>
+               <div xml:id="ref.MekhY.3.4.5" n="402" type="level3" subtype="Pisqa" ana="5"/>
+               <div xml:id="ref.MekhY.3.4.6" n="403" type="level3" subtype="Pisqa" ana="6"/>
+               <div xml:id="ref.MekhY.3.4.7" n="404" type="level3" subtype="Pisqa" ana="7"/>
+               <div xml:id="ref.MekhY.3.4.8" n="405" type="level3" subtype="Pisqa" ana="8"/>
+            </div>
+            <div xml:id="ref.MekhY.3.5" type="level2" subtype="Parasha" ana="5">
+               <div xml:id="ref.MekhY.3.5.1" n="406" type="level3" subtype="Pisqa" ana="1"/>
+               <div xml:id="ref.MekhY.3.5.2" n="407" type="level3" subtype="Pisqa" ana="2"/>
+               <div xml:id="ref.MekhY.3.5.3" n="408" type="level3" subtype="Pisqa" ana="3"/>
+               <div xml:id="ref.MekhY.3.5.4" n="409" type="level3" subtype="Pisqa" ana="4"/>
+               <div xml:id="ref.MekhY.3.5.5" n="410" type="level3" subtype="Pisqa" ana="5"/>
+               <div xml:id="ref.MekhY.3.5.6" n="411" type="level3" subtype="Pisqa" ana="6"/>
+               <div xml:id="ref.MekhY.3.5.7" n="412" type="level3" subtype="Pisqa" ana="7"/>
+               <div xml:id="ref.MekhY.3.5.8" n="413" type="level3" subtype="Pisqa" ana="8"/>
+               <div xml:id="ref.MekhY.3.5.9" n="414" type="level3" subtype="Pisqa" ana="9"/>
+               <div xml:id="ref.MekhY.3.5.10" n="415" type="level3" subtype="Pisqa" ana="10"/>
+               <div xml:id="ref.MekhY.3.5.11" n="416" type="level3" subtype="Pisqa" ana="11"/>
+            </div>
+            <div xml:id="ref.MekhY.3.6" type="level2" subtype="Parasha" ana="6">
+               <div xml:id="ref.MekhY.3.6.1" n="417" type="level3" subtype="Pisqa" ana="1"/>
+               <div xml:id="ref.MekhY.3.6.2" n="418" type="level3" subtype="Pisqa" ana="2"/>
+               <div xml:id="ref.MekhY.3.6.3" n="419" type="level3" subtype="Pisqa" ana="3"/>
+               <div xml:id="ref.MekhY.3.6.4" n="420" type="level3" subtype="Pisqa" ana="4"/>
+               <div xml:id="ref.MekhY.3.6.5" n="421" type="level3" subtype="Pisqa" ana="5"/>
+               <div xml:id="ref.MekhY.3.6.6" n="422" type="level3" subtype="Pisqa" ana="6"/>
+               <div xml:id="ref.MekhY.3.6.7" n="423" type="level3" subtype="Pisqa" ana="7"/>
+               <div xml:id="ref.MekhY.3.6.8" n="424" type="level3" subtype="Pisqa" ana="8"/>
+               <div xml:id="ref.MekhY.3.6.9" n="425" type="level3" subtype="Pisqa" ana="9"/>
+               <div xml:id="ref.MekhY.3.6.10" n="426" type="level3" subtype="Pisqa" ana="10"/>
+            </div>
+            <div xml:id="ref.MekhY.3.7" type="level2" subtype="Parasha" ana="7">
+               <div xml:id="ref.MekhY.3.7.1" n="427" type="level3" subtype="Pisqa" ana="1"/>
+               <div xml:id="ref.MekhY.3.7.2" n="428" type="level3" subtype="Pisqa" ana="2"/>
+               <div xml:id="ref.MekhY.3.7.3" n="429" type="level3" subtype="Pisqa" ana="3"/>
+               <div xml:id="ref.MekhY.3.7.4" n="430" type="level3" subtype="Pisqa" ana="4"/>
+            </div>
+            <div xml:id="ref.MekhY.3.8" type="level2" subtype="Parasha" ana="8">
+               <div xml:id="ref.MekhY.3.8.1" n="431" type="level3" subtype="Pisqa" ana="1"/>
+               <div xml:id="ref.MekhY.3.8.2" n="432" type="level3" subtype="Pisqa" ana="2"/>
+               <div xml:id="ref.MekhY.3.8.3" n="433" type="level3" subtype="Pisqa" ana="3"/>
+               <div xml:id="ref.MekhY.3.8.4" n="434" type="level3" subtype="Pisqa" ana="4"/>
+               <div xml:id="ref.MekhY.3.8.5" n="435" type="level3" subtype="Pisqa" ana="5"/>
+               <div xml:id="ref.MekhY.3.8.6" n="436" type="level3" subtype="Pisqa" ana="6"/>
+               <div xml:id="ref.MekhY.3.8.7" n="437" type="level3" subtype="Pisqa" ana="7"/>
+               <div xml:id="ref.MekhY.3.8.8" n="438" type="level3" subtype="Pisqa" ana="8"/>
+               <div xml:id="ref.MekhY.3.8.9" n="439" type="level3" subtype="Pisqa" ana="9"/>
+            </div>
+            <div xml:id="ref.MekhY.3.9" type="level2" subtype="Parasha" ana="9">
+               <div xml:id="ref.MekhY.3.9.1" n="440" type="level3" subtype="Pisqa" ana="1"/>
+               <div xml:id="ref.MekhY.3.9.2" n="441" type="level3" subtype="Pisqa" ana="2"/>
+               <div xml:id="ref.MekhY.3.9.3" n="442" type="level3" subtype="Pisqa" ana="3"/>
+               <div xml:id="ref.MekhY.3.9.4" n="443" type="level3" subtype="Pisqa" ana="4"/>
+               <div xml:id="ref.MekhY.3.9.5" n="444" type="level3" subtype="Pisqa" ana="5"/>
+               <div xml:id="ref.MekhY.3.9.6" n="445" type="level3" subtype="Pisqa" ana="6"/>
+               <div xml:id="ref.MekhY.3.9.7" n="446" type="level3" subtype="Pisqa" ana="7"/>
+               <div xml:id="ref.MekhY.3.9.8" n="447" type="level3" subtype="Pisqa" ana="8"/>
+               <div xml:id="ref.MekhY.3.9.9" n="448" type="level3" subtype="Pisqa" ana="9"/>
+               <div xml:id="ref.MekhY.3.9.10" n="449" type="level3" subtype="Pisqa" ana="10"/>
+               <div xml:id="ref.MekhY.3.9.11" n="450" type="level3" subtype="Pisqa" ana="11"/>
+               <div xml:id="ref.MekhY.3.9.12" n="451" type="level3" subtype="Pisqa" ana="12"/>
+               <div xml:id="ref.MekhY.3.9.13" n="452" type="level3" subtype="Pisqa" ana="13"/>
+               <div xml:id="ref.MekhY.3.9.14" n="453" type="level3" subtype="Pisqa" ana="14"/>
+               <div xml:id="ref.MekhY.3.9.15" n="454" type="level3" subtype="Pisqa" ana="15"/>
+               <div xml:id="ref.MekhY.3.9.16" n="455" type="level3" subtype="Pisqa" ana="16"/>
+               <div xml:id="ref.MekhY.3.9.17" n="456" type="level3" subtype="Pisqa" ana="17"/>
+               <div xml:id="ref.MekhY.3.9.18" n="457" type="level3" subtype="Pisqa" ana="18"/>
+               <div xml:id="ref.MekhY.3.9.19" n="458" type="level3" subtype="Pisqa" ana="19"/>
+               <div xml:id="ref.MekhY.3.9.20" n="459" type="level3" subtype="Pisqa" ana="20"/>
+               <div xml:id="ref.MekhY.3.9.21" n="460" type="level3" subtype="Pisqa" ana="21"/>
+               <div xml:id="ref.MekhY.3.9.22" n="461" type="level3" subtype="Pisqa" ana="22"/>
+               <div xml:id="ref.MekhY.3.9.23" n="462" type="level3" subtype="Pisqa" ana="23"/>
+            </div>
+            <div xml:id="ref.MekhY.3.10" type="level2" subtype="Parasha" ana="10">
+               <div xml:id="ref.MekhY.3.10.1" n="463" type="level3" subtype="Pisqa" ana="1"/>
+               <div xml:id="ref.MekhY.3.10.2" n="464" type="level3" subtype="Pisqa" ana="2"/>
+               <div xml:id="ref.MekhY.3.10.3" n="465" type="level3" subtype="Pisqa" ana="3"/>
+               <div xml:id="ref.MekhY.3.10.4" n="466" type="level3" subtype="Pisqa" ana="4"/>
+               <div xml:id="ref.MekhY.3.10.5" n="467" type="level3" subtype="Pisqa" ana="5"/>
+               <div xml:id="ref.MekhY.3.10.6" n="468" type="level3" subtype="Pisqa" ana="6"/>
+               <div xml:id="ref.MekhY.3.10.7" n="469" type="level3" subtype="Pisqa" ana="7"/>
+               <div xml:id="ref.MekhY.3.10.8" n="470" type="level3" subtype="Pisqa" ana="8"/>
+               <div xml:id="ref.MekhY.3.10.9" n="471" type="level3" subtype="Pisqa" ana="9"/>
+               <div xml:id="ref.MekhY.3.10.10" n="472" type="level3" subtype="Pisqa" ana="10"/>
+               <div xml:id="ref.MekhY.3.10.11" n="473" type="level3" subtype="Pisqa" ana="11"/>
+               <div xml:id="ref.MekhY.3.10.12" n="474" type="level3" subtype="Pisqa" ana="12"/>
+               <div xml:id="ref.MekhY.3.10.13" n="475" type="level3" subtype="Pisqa" ana="13"/>
+            </div>
+         </div>
+         <div xml:id="ref.MekhY.4" type="level1" subtype="Massekhet" ana="Wayassa">
+            <div xml:id="ref.MekhY.4.1" type="level2" subtype="Parasha" ana="1">
+               <div xml:id="ref.MekhY.4.1.1" n="476" type="level3" subtype="Pisqa" ana="1"/>
+               <div xml:id="ref.MekhY.4.1.2" n="477" type="level3" subtype="Pisqa" ana="2"/>
+               <div xml:id="ref.MekhY.4.1.3" n="478" type="level3" subtype="Pisqa" ana="3"/>
+               <div xml:id="ref.MekhY.4.1.4" n="479" type="level3" subtype="Pisqa" ana="4"/>
+               <div xml:id="ref.MekhY.4.1.5" n="480" type="level3" subtype="Pisqa" ana="5"/>
+               <div xml:id="ref.MekhY.4.1.6" n="481" type="level3" subtype="Pisqa" ana="6"/>
+               <div xml:id="ref.MekhY.4.1.7" n="482" type="level3" subtype="Pisqa" ana="7"/>
+               <div xml:id="ref.MekhY.4.1.8" n="483" type="level3" subtype="Pisqa" ana="8"/>
+               <div xml:id="ref.MekhY.4.1.9" n="484" type="level3" subtype="Pisqa" ana="9"/>
+               <div xml:id="ref.MekhY.4.1.10" n="485" type="level3" subtype="Pisqa" ana="10"/>
+               <div xml:id="ref.MekhY.4.1.11" n="486" type="level3" subtype="Pisqa" ana="11"/>
+               <div xml:id="ref.MekhY.4.1.12" n="487" type="level3" subtype="Pisqa" ana="12"/>
+            </div>
+            <div xml:id="ref.MekhY.4.2" type="level2" subtype="Parasha" ana="2">
+               <div xml:id="ref.MekhY.4.2.1" n="488" type="level3" subtype="Pisqa" ana="1"/>
+               <div xml:id="ref.MekhY.4.2.2" n="489" type="level3" subtype="Pisqa" ana="2"/>
+               <div xml:id="ref.MekhY.4.2.3" n="490" type="level3" subtype="Pisqa" ana="3"/>
+               <div xml:id="ref.MekhY.4.2.4" n="491" type="level3" subtype="Pisqa" ana="4"/>
+               <div xml:id="ref.MekhY.4.2.5" n="492" type="level3" subtype="Pisqa" ana="5"/>
+               <div xml:id="ref.MekhY.4.2.6" n="493" type="level3" subtype="Pisqa" ana="6"/>
+               <div xml:id="ref.MekhY.4.2.7" n="494" type="level3" subtype="Pisqa" ana="7"/>
+               <div xml:id="ref.MekhY.4.2.8" n="495" type="level3" subtype="Pisqa" ana="8"/>
+               <div xml:id="ref.MekhY.4.2.9" n="496" type="level3" subtype="Pisqa" ana="9"/>
+               <div xml:id="ref.MekhY.4.2.10" n="497" type="level3" subtype="Pisqa" ana="10"/>
+            </div>
+            <div xml:id="ref.MekhY.4.3" type="level2" subtype="Parasha" ana="3">
+               <div xml:id="ref.MekhY.4.3.1" n="498" type="level3" subtype="Pisqa" ana="1"/>
+               <div xml:id="ref.MekhY.4.3.2" n="499" type="level3" subtype="Pisqa" ana="2"/>
+               <div xml:id="ref.MekhY.4.3.3" n="500" type="level3" subtype="Pisqa" ana="3"/>
+               <div xml:id="ref.MekhY.4.3.4" n="501" type="level3" subtype="Pisqa" ana="4"/>
+               <div xml:id="ref.MekhY.4.3.5" n="502" type="level3" subtype="Pisqa" ana="5"/>
+               <div xml:id="ref.MekhY.4.3.6" n="503" type="level3" subtype="Pisqa" ana="6"/>
+               <div xml:id="ref.MekhY.4.3.7" n="504" type="level3" subtype="Pisqa" ana="7"/>
+               <div xml:id="ref.MekhY.4.3.8" n="505" type="level3" subtype="Pisqa" ana="8"/>
+               <div xml:id="ref.MekhY.4.3.9" n="506" type="level3" subtype="Pisqa" ana="9"/>
+               <div xml:id="ref.MekhY.4.3.10" n="507" type="level3" subtype="Pisqa" ana="10"/>
+               <div xml:id="ref.MekhY.4.3.11" n="508" type="level3" subtype="Pisqa" ana="11"/>
+               <div xml:id="ref.MekhY.4.3.12" n="509" type="level3" subtype="Pisqa" ana="12"/>
+               <div xml:id="ref.MekhY.4.3.13" n="510" type="level3" subtype="Pisqa" ana="13"/>
+               <div xml:id="ref.MekhY.4.3.14" n="511" type="level3" subtype="Pisqa" ana="14"/>
+               <div xml:id="ref.MekhY.4.3.15" n="512" type="level3" subtype="Pisqa" ana="15"/>
+               <div xml:id="ref.MekhY.4.3.16" n="513" type="level3" subtype="Pisqa" ana="16"/>
+               <div xml:id="ref.MekhY.4.3.17" n="514" type="level3" subtype="Pisqa" ana="17"/>
+            </div>
+            <div xml:id="ref.MekhY.4.4" type="level2" subtype="Parasha" ana="4">
+               <div xml:id="ref.MekhY.4.4.1" n="515" type="level3" subtype="Pisqa" ana="1"/>
+               <div xml:id="ref.MekhY.4.4.2" n="516" type="level3" subtype="Pisqa" ana="2"/>
+               <div xml:id="ref.MekhY.4.4.3" n="517" type="level3" subtype="Pisqa" ana="3"/>
+               <div xml:id="ref.MekhY.4.4.4" n="518" type="level3" subtype="Pisqa" ana="4"/>
+               <div xml:id="ref.MekhY.4.4.5" n="519" type="level3" subtype="Pisqa" ana="5"/>
+               <div xml:id="ref.MekhY.4.4.6" n="520" type="level3" subtype="Pisqa" ana="6"/>
+               <div xml:id="ref.MekhY.4.4.7" n="521" type="level3" subtype="Pisqa" ana="7"/>
+               <div xml:id="ref.MekhY.4.4.8" n="522" type="level3" subtype="Pisqa" ana="8"/>
+               <div xml:id="ref.MekhY.4.4.9" n="523" type="level3" subtype="Pisqa" ana="9"/>
+               <div xml:id="ref.MekhY.4.4.10" n="524" type="level3" subtype="Pisqa" ana="10"/>
+               <div xml:id="ref.MekhY.4.4.11" n="525" type="level3" subtype="Pisqa" ana="11"/>
+            </div>
+            <div xml:id="ref.MekhY.4.5" type="level2" subtype="Parasha" ana="5">
+               <div xml:id="ref.MekhY.4.5.1" n="526" type="level3" subtype="Pisqa" ana="1"/>
+               <div xml:id="ref.MekhY.4.5.2" n="527" type="level3" subtype="Pisqa" ana="2"/>
+               <div xml:id="ref.MekhY.4.5.3" n="528" type="level3" subtype="Pisqa" ana="3"/>
+               <div xml:id="ref.MekhY.4.5.4" n="529" type="level3" subtype="Pisqa" ana="4"/>
+               <div xml:id="ref.MekhY.4.5.5" n="530" type="level3" subtype="Pisqa" ana="5"/>
+               <div xml:id="ref.MekhY.4.5.6" n="531" type="level3" subtype="Pisqa" ana="6"/>
+               <div xml:id="ref.MekhY.4.5.7" n="532" type="level3" subtype="Pisqa" ana="7"/>
+               <div xml:id="ref.MekhY.4.5.8" n="533" type="level3" subtype="Pisqa" ana="8"/>
+               <div xml:id="ref.MekhY.4.5.9" n="534" type="level3" subtype="Pisqa" ana="9"/>
+               <div xml:id="ref.MekhY.4.5.10" n="535" type="level3" subtype="Pisqa" ana="10"/>
+               <div xml:id="ref.MekhY.4.5.11" n="536" type="level3" subtype="Pisqa" ana="11"/>
+               <div xml:id="ref.MekhY.4.5.12" n="537" type="level3" subtype="Pisqa" ana="12"/>
+               <div xml:id="ref.MekhY.4.5.13" n="538" type="level3" subtype="Pisqa" ana="13"/>
+               <div xml:id="ref.MekhY.4.5.14" n="539" type="level3" subtype="Pisqa" ana="14"/>
+               <div xml:id="ref.MekhY.4.5.15" n="540" type="level3" subtype="Pisqa" ana="15"/>
+               <div xml:id="ref.MekhY.4.5.16" n="541" type="level3" subtype="Pisqa" ana="16"/>
+               <div xml:id="ref.MekhY.4.5.17" n="542" type="level3" subtype="Pisqa" ana="17"/>
+            </div>
+            <div xml:id="ref.MekhY.4.6" type="level2" subtype="Parasha" ana="6">
+               <div xml:id="ref.MekhY.4.6.1" n="543" type="level3" subtype="Pisqa" ana="1"/>
+               <div xml:id="ref.MekhY.4.6.2" n="544" type="level3" subtype="Pisqa" ana="2"/>
+               <div xml:id="ref.MekhY.4.6.3" n="545" type="level3" subtype="Pisqa" ana="3"/>
+               <div xml:id="ref.MekhY.4.6.4" n="546" type="level3" subtype="Pisqa" ana="4"/>
+               <div xml:id="ref.MekhY.4.6.5" n="547" type="level3" subtype="Pisqa" ana="5"/>
+               <div xml:id="ref.MekhY.4.6.6" n="548" type="level3" subtype="Pisqa" ana="6"/>
+               <div xml:id="ref.MekhY.4.6.7" n="549" type="level3" subtype="Pisqa" ana="7"/>
+               <div xml:id="ref.MekhY.4.6.8" n="550" type="level3" subtype="Pisqa" ana="8"/>
+               <div xml:id="ref.MekhY.4.6.9" n="551" type="level3" subtype="Pisqa" ana="9"/>
+               <div xml:id="ref.MekhY.4.6.10" n="552" type="level3" subtype="Pisqa" ana="10"/>
+               <div xml:id="ref.MekhY.4.6.11" n="553" type="level3" subtype="Pisqa" ana="11"/>
+               <div xml:id="ref.MekhY.4.6.12" n="554" type="level3" subtype="Pisqa" ana="12"/>
+               <div xml:id="ref.MekhY.4.6.13" n="555" type="level3" subtype="Pisqa" ana="13"/>
+            </div>
+            <div xml:id="ref.MekhY.4.7" type="level2" subtype="Parasha" ana="7">
+               <div xml:id="ref.MekhY.4.7.1" n="556" type="level3" subtype="Pisqa" ana="1"/>
+               <div xml:id="ref.MekhY.4.7.2" n="557" type="level3" subtype="Pisqa" ana="2"/>
+               <div xml:id="ref.MekhY.4.7.3" n="558" type="level3" subtype="Pisqa" ana="3"/>
+               <div xml:id="ref.MekhY.4.7.4" n="559" type="level3" subtype="Pisqa" ana="4"/>
+               <div xml:id="ref.MekhY.4.7.5" n="560" type="level3" subtype="Pisqa" ana="5"/>
+               <div xml:id="ref.MekhY.4.7.6" n="561" type="level3" subtype="Pisqa" ana="6"/>
+               <div xml:id="ref.MekhY.4.7.7" n="562" type="level3" subtype="Pisqa" ana="7"/>
+               <div xml:id="ref.MekhY.4.7.8" n="563" type="level3" subtype="Pisqa" ana="8"/>
+               <div xml:id="ref.MekhY.4.7.9" n="564" type="level3" subtype="Pisqa" ana="9"/>
+               <div xml:id="ref.MekhY.4.7.10" n="565" type="level3" subtype="Pisqa" ana="10"/>
+               <div xml:id="ref.MekhY.4.7.11" n="566" type="level3" subtype="Pisqa" ana="11"/>
+               <div xml:id="ref.MekhY.4.7.12" n="567" type="level3" subtype="Pisqa" ana="12"/>
+               <div xml:id="ref.MekhY.4.7.13" n="568" type="level3" subtype="Pisqa" ana="13"/>
+               <div xml:id="ref.MekhY.4.7.14" n="569" type="level3" subtype="Pisqa" ana="14"/>
+               <div xml:id="ref.MekhY.4.7.15" n="570" type="level3" subtype="Pisqa" ana="15"/>
+            </div>
+         </div>
+         <div xml:id="ref.MekhY.5" type="level1" subtype="Massekhet" ana="Amaleq">
+            <div xml:id="ref.MekhY.5.1" type="level2" subtype="Parasha" ana="1">
+               <div xml:id="ref.MekhY.5.1.1" n="571" type="level3" subtype="Pisqa" ana="1"/>
+               <div xml:id="ref.MekhY.5.1.2" n="572" type="level3" subtype="Pisqa" ana="2"/>
+               <div xml:id="ref.MekhY.5.1.3" n="573" type="level3" subtype="Pisqa" ana="3"/>
+               <div xml:id="ref.MekhY.5.1.4" n="574" type="level3" subtype="Pisqa" ana="4"/>
+               <div xml:id="ref.MekhY.5.1.5" n="575" type="level3" subtype="Pisqa" ana="5"/>
+               <div xml:id="ref.MekhY.5.1.6" n="576" type="level3" subtype="Pisqa" ana="6"/>
+               <div xml:id="ref.MekhY.5.1.7" n="577" type="level3" subtype="Pisqa" ana="7"/>
+               <div xml:id="ref.MekhY.5.1.8" n="578" type="level3" subtype="Pisqa" ana="8"/>
+               <div xml:id="ref.MekhY.5.1.9" n="579" type="level3" subtype="Pisqa" ana="9"/>
+               <div xml:id="ref.MekhY.5.1.10" n="580" type="level3" subtype="Pisqa" ana="10"/>
+               <div xml:id="ref.MekhY.5.1.11" n="581" type="level3" subtype="Pisqa" ana="11"/>
+               <div xml:id="ref.MekhY.5.1.12" n="582" type="level3" subtype="Pisqa" ana="12"/>
+               <div xml:id="ref.MekhY.5.1.13" n="583" type="level3" subtype="Pisqa" ana="13"/>
+               <div xml:id="ref.MekhY.5.1.14" n="584" type="level3" subtype="Pisqa" ana="14"/>
+               <div xml:id="ref.MekhY.5.1.15" n="585" type="level3" subtype="Pisqa" ana="15"/>
+               <div xml:id="ref.MekhY.5.1.16" n="586" type="level3" subtype="Pisqa" ana="16"/>
+            </div>
+            <div xml:id="ref.MekhY.5.2" type="level2" subtype="Parasha" ana="2">
+               <div xml:id="ref.MekhY.5.2.1" n="587" type="level3" subtype="Pisqa" ana="1"/>
+               <div xml:id="ref.MekhY.5.2.2" n="588" type="level3" subtype="Pisqa" ana="2"/>
+               <div xml:id="ref.MekhY.5.2.3" n="589" type="level3" subtype="Pisqa" ana="3"/>
+               <div xml:id="ref.MekhY.5.2.4" n="590" type="level3" subtype="Pisqa" ana="4"/>
+               <div xml:id="ref.MekhY.5.2.5" n="591" type="level3" subtype="Pisqa" ana="5"/>
+               <div xml:id="ref.MekhY.5.2.6" n="592" type="level3" subtype="Pisqa" ana="6"/>
+               <div xml:id="ref.MekhY.5.2.7" n="593" type="level3" subtype="Pisqa" ana="7"/>
+               <div xml:id="ref.MekhY.5.2.8" n="594" type="level3" subtype="Pisqa" ana="8"/>
+               <div xml:id="ref.MekhY.5.2.9" n="595" type="level3" subtype="Pisqa" ana="9"/>
+               <div xml:id="ref.MekhY.5.2.10" n="596" type="level3" subtype="Pisqa" ana="10"/>
+               <div xml:id="ref.MekhY.5.2.11" n="597" type="level3" subtype="Pisqa" ana="11"/>
+               <div xml:id="ref.MekhY.5.2.12" n="598" type="level3" subtype="Pisqa" ana="12"/>
+            </div>
+            <div xml:id="ref.MekhY.5.3" type="level2" subtype="Parasha" ana="3">
+               <div xml:id="ref.MekhY.5.3.1" n="599" type="level3" subtype="Pisqa" ana="1"/>
+               <div xml:id="ref.MekhY.5.3.2" n="600" type="level3" subtype="Pisqa" ana="2"/>
+               <div xml:id="ref.MekhY.5.3.3" n="601" type="level3" subtype="Pisqa" ana="3"/>
+               <div xml:id="ref.MekhY.5.3.4" n="602" type="level3" subtype="Pisqa" ana="4"/>
+               <div xml:id="ref.MekhY.5.3.5" n="603" type="level3" subtype="Pisqa" ana="5"/>
+               <div xml:id="ref.MekhY.5.3.6" n="604" type="level3" subtype="Pisqa" ana="6"/>
+               <div xml:id="ref.MekhY.5.3.7" n="605" type="level3" subtype="Pisqa" ana="7"/>
+               <div xml:id="ref.MekhY.5.3.8" n="606" type="level3" subtype="Pisqa" ana="8"/>
+               <div xml:id="ref.MekhY.5.3.9" n="607" type="level3" subtype="Pisqa" ana="9"/>
+               <div xml:id="ref.MekhY.5.3.10" n="608" type="level3" subtype="Pisqa" ana="10"/>
+               <div xml:id="ref.MekhY.5.3.11" n="609" type="level3" subtype="Pisqa" ana="11"/>
+               <div xml:id="ref.MekhY.5.3.12" n="610" type="level3" subtype="Pisqa" ana="12"/>
+               <div xml:id="ref.MekhY.5.3.13" n="611" type="level3" subtype="Pisqa" ana="13"/>
+               <div xml:id="ref.MekhY.5.3.14" n="612" type="level3" subtype="Pisqa" ana="14"/>
+               <div xml:id="ref.MekhY.5.3.15" n="613" type="level3" subtype="Pisqa" ana="15"/>
+               <div xml:id="ref.MekhY.5.3.16" n="614" type="level3" subtype="Pisqa" ana="16"/>
+               <div xml:id="ref.MekhY.5.3.17" n="615" type="level3" subtype="Pisqa" ana="17"/>
+               <div xml:id="ref.MekhY.5.3.18" n="616" type="level3" subtype="Pisqa" ana="18"/>
+               <div xml:id="ref.MekhY.5.3.19" n="617" type="level3" subtype="Pisqa" ana="19"/>
+               <div xml:id="ref.MekhY.5.3.20" n="618" type="level3" subtype="Pisqa" ana="20"/>
+               <div xml:id="ref.MekhY.5.3.21" n="619" type="level3" subtype="Pisqa" ana="21"/>
+               <div xml:id="ref.MekhY.5.3.22" n="620" type="level3" subtype="Pisqa" ana="22"/>
+               <div xml:id="ref.MekhY.5.3.23" n="621" type="level3" subtype="Pisqa" ana="23"/>
+               <div xml:id="ref.MekhY.5.3.24" n="622" type="level3" subtype="Pisqa" ana="24"/>
+               <div xml:id="ref.MekhY.5.3.25" n="623" type="level3" subtype="Pisqa" ana="25"/>
+               <div xml:id="ref.MekhY.5.3.26" n="624" type="level3" subtype="Pisqa" ana="26"/>
+               <div xml:id="ref.MekhY.5.3.27" n="625" type="level3" subtype="Pisqa" ana="27"/>
+               <div xml:id="ref.MekhY.5.3.28" n="626" type="level3" subtype="Pisqa" ana="28"/>
+               <div xml:id="ref.MekhY.5.3.29" n="627" type="level3" subtype="Pisqa" ana="29"/>
+            </div>
+            <div xml:id="ref.MekhY.5.4" type="level2" subtype="Parasha" ana="4">
+               <div xml:id="ref.MekhY.5.4.1" n="628" type="level3" subtype="Pisqa" ana="1"/>
+               <div xml:id="ref.MekhY.5.4.2" n="629" type="level3" subtype="Pisqa" ana="2"/>
+               <div xml:id="ref.MekhY.5.4.3" n="630" type="level3" subtype="Pisqa" ana="3"/>
+               <div xml:id="ref.MekhY.5.4.4" n="631" type="level3" subtype="Pisqa" ana="4"/>
+               <div xml:id="ref.MekhY.5.4.5" n="632" type="level3" subtype="Pisqa" ana="5"/>
+               <div xml:id="ref.MekhY.5.4.6" n="633" type="level3" subtype="Pisqa" ana="6"/>
+               <div xml:id="ref.MekhY.5.4.7" n="634" type="level3" subtype="Pisqa" ana="7"/>
+               <div xml:id="ref.MekhY.5.4.8" n="635" type="level3" subtype="Pisqa" ana="8"/>
+               <div xml:id="ref.MekhY.5.4.9" n="636" type="level3" subtype="Pisqa" ana="9"/>
+               <div xml:id="ref.MekhY.5.4.10" n="637" type="level3" subtype="Pisqa" ana="10"/>
+               <div xml:id="ref.MekhY.5.4.11" n="638" type="level3" subtype="Pisqa" ana="11"/>
+               <div xml:id="ref.MekhY.5.4.12" n="639" type="level3" subtype="Pisqa" ana="12"/>
+               <div xml:id="ref.MekhY.5.4.13" n="640" type="level3" subtype="Pisqa" ana="13"/>
+               <div xml:id="ref.MekhY.5.4.14" n="641" type="level3" subtype="Pisqa" ana="14"/>
+               <div xml:id="ref.MekhY.5.4.15" n="642" type="level3" subtype="Pisqa" ana="15"/>
+               <div xml:id="ref.MekhY.5.4.16" n="643" type="level3" subtype="Pisqa" ana="16"/>
+               <div xml:id="ref.MekhY.5.4.17" n="644" type="level3" subtype="Pisqa" ana="17"/>
+               <div xml:id="ref.MekhY.5.4.18" n="645" type="level3" subtype="Pisqa" ana="18"/>
+               <div xml:id="ref.MekhY.5.4.19" n="646" type="level3" subtype="Pisqa" ana="19"/>
+            </div>
+         </div>
+         <div xml:id="ref.MekhY.6" type="level1" subtype="Massekhet" ana="Baḥodesh">
+            <div xml:id="ref.MekhY.6.1" type="level2" subtype="Parasha" ana="1">
+               <div xml:id="ref.MekhY.6.1.1" n="647" type="level3" subtype="Pisqa" ana="1"/>
+               <div xml:id="ref.MekhY.6.1.2" n="648" type="level3" subtype="Pisqa" ana="2"/>
+               <div xml:id="ref.MekhY.6.1.3" n="649" type="level3" subtype="Pisqa" ana="3"/>
+               <div xml:id="ref.MekhY.6.1.4" n="650" type="level3" subtype="Pisqa" ana="4"/>
+               <div xml:id="ref.MekhY.6.1.5" n="651" type="level3" subtype="Pisqa" ana="5"/>
+               <div xml:id="ref.MekhY.6.1.6" n="652" type="level3" subtype="Pisqa" ana="6"/>
+               <div xml:id="ref.MekhY.6.1.7" n="653" type="level3" subtype="Pisqa" ana="7"/>
+               <div xml:id="ref.MekhY.6.1.8" n="654" type="level3" subtype="Pisqa" ana="8"/>
+               <div xml:id="ref.MekhY.6.1.9" n="655" type="level3" subtype="Pisqa" ana="9"/>
+            </div>
+            <div xml:id="ref.MekhY.6.2" type="level2" subtype="Parasha" ana="2">
+               <div xml:id="ref.MekhY.6.2.1" n="656" type="level3" subtype="Pisqa" ana="1"/>
+               <div xml:id="ref.MekhY.6.2.2" n="657" type="level3" subtype="Pisqa" ana="2"/>
+               <div xml:id="ref.MekhY.6.2.3" n="658" type="level3" subtype="Pisqa" ana="3"/>
+               <div xml:id="ref.MekhY.6.2.4" n="659" type="level3" subtype="Pisqa" ana="4"/>
+               <div xml:id="ref.MekhY.6.2.5" n="660" type="level3" subtype="Pisqa" ana="5"/>
+               <div xml:id="ref.MekhY.6.2.6" n="661" type="level3" subtype="Pisqa" ana="6"/>
+               <div xml:id="ref.MekhY.6.2.7" n="662" type="level3" subtype="Pisqa" ana="7"/>
+               <div xml:id="ref.MekhY.6.2.8" n="663" type="level3" subtype="Pisqa" ana="8"/>
+               <div xml:id="ref.MekhY.6.2.9" n="664" type="level3" subtype="Pisqa" ana="9"/>
+               <div xml:id="ref.MekhY.6.2.10" n="665" type="level3" subtype="Pisqa" ana="10"/>
+               <div xml:id="ref.MekhY.6.2.11" n="666" type="level3" subtype="Pisqa" ana="11"/>
+               <div xml:id="ref.MekhY.6.2.12" n="667" type="level3" subtype="Pisqa" ana="12"/>
+               <div xml:id="ref.MekhY.6.2.13" n="668" type="level3" subtype="Pisqa" ana="13"/>
+               <div xml:id="ref.MekhY.6.2.14" n="669" type="level3" subtype="Pisqa" ana="14"/>
+               <div xml:id="ref.MekhY.6.2.15" n="670" type="level3" subtype="Pisqa" ana="15"/>
+               <div xml:id="ref.MekhY.6.2.16" n="671" type="level3" subtype="Pisqa" ana="16"/>
+               <div xml:id="ref.MekhY.6.2.17" n="672" type="level3" subtype="Pisqa" ana="17"/>
+               <div xml:id="ref.MekhY.6.2.18" n="673" type="level3" subtype="Pisqa" ana="18"/>
+               <div xml:id="ref.MekhY.6.2.19" n="674" type="level3" subtype="Pisqa" ana="19"/>
+               <div xml:id="ref.MekhY.6.2.20" n="675" type="level3" subtype="Pisqa" ana="20"/>
+               <div xml:id="ref.MekhY.6.2.21" n="676" type="level3" subtype="Pisqa" ana="21"/>
+               <div xml:id="ref.MekhY.6.2.22" n="677" type="level3" subtype="Pisqa" ana="22"/>
+               <div xml:id="ref.MekhY.6.2.23" n="678" type="level3" subtype="Pisqa" ana="23"/>
+               <div xml:id="ref.MekhY.6.2.24" n="679" type="level3" subtype="Pisqa" ana="24"/>
+               <div xml:id="ref.MekhY.6.2.25" n="680" type="level3" subtype="Pisqa" ana="25"/>
+               <div xml:id="ref.MekhY.6.2.26" n="681" type="level3" subtype="Pisqa" ana="26"/>
+               <div xml:id="ref.MekhY.6.2.27" n="682" type="level3" subtype="Pisqa" ana="27"/>
+               <div xml:id="ref.MekhY.6.2.28" n="683" type="level3" subtype="Pisqa" ana="28"/>
+            </div>
+            <div xml:id="ref.MekhY.6.3" type="level2" subtype="Parasha" ana="3">
+               <div xml:id="ref.MekhY.6.3.1" n="684" type="level3" subtype="Pisqa" ana="1"/>
+               <div xml:id="ref.MekhY.6.3.2" n="685" type="level3" subtype="Pisqa" ana="2"/>
+               <div xml:id="ref.MekhY.6.3.3" n="686" type="level3" subtype="Pisqa" ana="3"/>
+               <div xml:id="ref.MekhY.6.3.4" n="687" type="level3" subtype="Pisqa" ana="4"/>
+               <div xml:id="ref.MekhY.6.3.5" n="688" type="level3" subtype="Pisqa" ana="5"/>
+               <div xml:id="ref.MekhY.6.3.6" n="689" type="level3" subtype="Pisqa" ana="6"/>
+               <div xml:id="ref.MekhY.6.3.7" n="690" type="level3" subtype="Pisqa" ana="7"/>
+               <div xml:id="ref.MekhY.6.3.8" n="691" type="level3" subtype="Pisqa" ana="8"/>
+               <div xml:id="ref.MekhY.6.3.9" n="692" type="level3" subtype="Pisqa" ana="9"/>
+               <div xml:id="ref.MekhY.6.3.10" n="693" type="level3" subtype="Pisqa" ana="10"/>
+               <div xml:id="ref.MekhY.6.3.11" n="694" type="level3" subtype="Pisqa" ana="11"/>
+               <div xml:id="ref.MekhY.6.3.12" n="695" type="level3" subtype="Pisqa" ana="12"/>
+               <div xml:id="ref.MekhY.6.3.13" n="696" type="level3" subtype="Pisqa" ana="13"/>
+               <div xml:id="ref.MekhY.6.3.14" n="697" type="level3" subtype="Pisqa" ana="14"/>
+               <div xml:id="ref.MekhY.6.3.15" n="698" type="level3" subtype="Pisqa" ana="15"/>
+               <div xml:id="ref.MekhY.6.3.16" n="699" type="level3" subtype="Pisqa" ana="16"/>
+               <div xml:id="ref.MekhY.6.3.17" n="700" type="level3" subtype="Pisqa" ana="17"/>
+               <div xml:id="ref.MekhY.6.3.18" n="701" type="level3" subtype="Pisqa" ana="18"/>
+               <div xml:id="ref.MekhY.6.3.19" n="702" type="level3" subtype="Pisqa" ana="19"/>
+               <div xml:id="ref.MekhY.6.3.20" n="703" type="level3" subtype="Pisqa" ana="20"/>
+               <div xml:id="ref.MekhY.6.3.21" n="704" type="level3" subtype="Pisqa" ana="21"/>
+               <div xml:id="ref.MekhY.6.3.22" n="705" type="level3" subtype="Pisqa" ana="22"/>
+               <div xml:id="ref.MekhY.6.3.23" n="706" type="level3" subtype="Pisqa" ana="23"/>
+               <div xml:id="ref.MekhY.6.3.24" n="707" type="level3" subtype="Pisqa" ana="24"/>
+               <div xml:id="ref.MekhY.6.3.25" n="708" type="level3" subtype="Pisqa" ana="25"/>
+               <div xml:id="ref.MekhY.6.3.26" n="709" type="level3" subtype="Pisqa" ana="26"/>
+               <div xml:id="ref.MekhY.6.3.27" n="710" type="level3" subtype="Pisqa" ana="27"/>
+               <div xml:id="ref.MekhY.6.3.28" n="711" type="level3" subtype="Pisqa" ana="28"/>
+               <div xml:id="ref.MekhY.6.3.29" n="712" type="level3" subtype="Pisqa" ana="29"/>
+               <div xml:id="ref.MekhY.6.3.30" n="713" type="level3" subtype="Pisqa" ana="30"/>
+            </div>
+            <div xml:id="ref.MekhY.6.4" type="level2" subtype="Parasha" ana="4">
+               <div xml:id="ref.MekhY.6.4.1" n="714" type="level3" subtype="Pisqa" ana="1"/>
+               <div xml:id="ref.MekhY.6.4.2" n="715" type="level3" subtype="Pisqa" ana="2"/>
+               <div xml:id="ref.MekhY.6.4.3" n="716" type="level3" subtype="Pisqa" ana="3"/>
+               <div xml:id="ref.MekhY.6.4.4" n="717" type="level3" subtype="Pisqa" ana="4"/>
+               <div xml:id="ref.MekhY.6.4.5" n="718" type="level3" subtype="Pisqa" ana="5"/>
+               <div xml:id="ref.MekhY.6.4.6" n="719" type="level3" subtype="Pisqa" ana="6"/>
+               <div xml:id="ref.MekhY.6.4.7" n="720" type="level3" subtype="Pisqa" ana="7"/>
+               <div xml:id="ref.MekhY.6.4.8" n="721" type="level3" subtype="Pisqa" ana="8"/>
+               <div xml:id="ref.MekhY.6.4.9" n="722" type="level3" subtype="Pisqa" ana="9"/>
+               <div xml:id="ref.MekhY.6.4.10" n="723" type="level3" subtype="Pisqa" ana="10"/>
+               <div xml:id="ref.MekhY.6.4.11" n="724" type="level3" subtype="Pisqa" ana="11"/>
+               <div xml:id="ref.MekhY.6.4.12" n="725" type="level3" subtype="Pisqa" ana="12"/>
+               <div xml:id="ref.MekhY.6.4.13" n="726" type="level3" subtype="Pisqa" ana="13"/>
+               <div xml:id="ref.MekhY.6.4.14" n="727" type="level3" subtype="Pisqa" ana="14"/>
+               <div xml:id="ref.MekhY.6.4.15" n="728" type="level3" subtype="Pisqa" ana="15"/>
+               <div xml:id="ref.MekhY.6.4.16" n="729" type="level3" subtype="Pisqa" ana="16"/>
+               <div xml:id="ref.MekhY.6.4.17" n="730" type="level3" subtype="Pisqa" ana="17"/>
+               <div xml:id="ref.MekhY.6.4.18" n="731" type="level3" subtype="Pisqa" ana="18"/>
+               <div xml:id="ref.MekhY.6.4.19" n="732" type="level3" subtype="Pisqa" ana="19"/>
+               <div xml:id="ref.MekhY.6.4.20" n="733" type="level3" subtype="Pisqa" ana="20"/>
+               <div xml:id="ref.MekhY.6.4.21" n="734" type="level3" subtype="Pisqa" ana="21"/>
+            </div>
+            <div xml:id="ref.MekhY.6.5" type="level2" subtype="Parasha" ana="5">
+               <div xml:id="ref.MekhY.6.5.1" n="735" type="level3" subtype="Pisqa" ana="1"/>
+               <div xml:id="ref.MekhY.6.5.2" n="736" type="level3" subtype="Pisqa" ana="2"/>
+               <div xml:id="ref.MekhY.6.5.3" n="737" type="level3" subtype="Pisqa" ana="3"/>
+               <div xml:id="ref.MekhY.6.5.4" n="738" type="level3" subtype="Pisqa" ana="4"/>
+               <div xml:id="ref.MekhY.6.5.5" n="739" type="level3" subtype="Pisqa" ana="5"/>
+               <div xml:id="ref.MekhY.6.5.6" n="740" type="level3" subtype="Pisqa" ana="6"/>
+            </div>
+            <div xml:id="ref.MekhY.6.6" type="level2" subtype="Parasha" ana="6">
+               <div xml:id="ref.MekhY.6.6.1" n="741" type="level3" subtype="Pisqa" ana="1"/>
+               <div xml:id="ref.MekhY.6.6.2" n="742" type="level3" subtype="Pisqa" ana="2"/>
+               <div xml:id="ref.MekhY.6.6.3" n="743" type="level3" subtype="Pisqa" ana="3"/>
+               <div xml:id="ref.MekhY.6.6.4" n="744" type="level3" subtype="Pisqa" ana="4"/>
+               <div xml:id="ref.MekhY.6.6.5" n="745" type="level3" subtype="Pisqa" ana="5"/>
+               <div xml:id="ref.MekhY.6.6.6" n="746" type="level3" subtype="Pisqa" ana="6"/>
+               <div xml:id="ref.MekhY.6.6.7" n="747" type="level3" subtype="Pisqa" ana="7"/>
+               <div xml:id="ref.MekhY.6.6.8" n="748" type="level3" subtype="Pisqa" ana="8"/>
+               <div xml:id="ref.MekhY.6.6.9" n="749" type="level3" subtype="Pisqa" ana="9"/>
+               <div xml:id="ref.MekhY.6.6.10" n="750" type="level3" subtype="Pisqa" ana="10"/>
+               <div xml:id="ref.MekhY.6.6.11" n="751" type="level3" subtype="Pisqa" ana="11"/>
+               <div xml:id="ref.MekhY.6.6.12" n="752" type="level3" subtype="Pisqa" ana="12"/>
+               <div xml:id="ref.MekhY.6.6.13" n="753" type="level3" subtype="Pisqa" ana="13"/>
+               <div xml:id="ref.MekhY.6.6.14" n="754" type="level3" subtype="Pisqa" ana="14"/>
+            </div>
+            <div xml:id="ref.MekhY.6.7" type="level2" subtype="Parasha" ana="7">
+               <div xml:id="ref.MekhY.6.7.1" n="755" type="level3" subtype="Pisqa" ana="1"/>
+               <div xml:id="ref.MekhY.6.7.2" n="756" type="level3" subtype="Pisqa" ana="2"/>
+               <div xml:id="ref.MekhY.6.7.3" n="757" type="level3" subtype="Pisqa" ana="3"/>
+               <div xml:id="ref.MekhY.6.7.4" n="758" type="level3" subtype="Pisqa" ana="4"/>
+               <div xml:id="ref.MekhY.6.7.5" n="759" type="level3" subtype="Pisqa" ana="5"/>
+               <div xml:id="ref.MekhY.6.7.6" n="760" type="level3" subtype="Pisqa" ana="6"/>
+               <div xml:id="ref.MekhY.6.7.7" n="761" type="level3" subtype="Pisqa" ana="7"/>
+               <div xml:id="ref.MekhY.6.7.8" n="762" type="level3" subtype="Pisqa" ana="8"/>
+               <div xml:id="ref.MekhY.6.7.9" n="763" type="level3" subtype="Pisqa" ana="9"/>
+               <div xml:id="ref.MekhY.6.7.10" n="764" type="level3" subtype="Pisqa" ana="10"/>
+               <div xml:id="ref.MekhY.6.7.11" n="765" type="level3" subtype="Pisqa" ana="11"/>
+               <div xml:id="ref.MekhY.6.7.12" n="766" type="level3" subtype="Pisqa" ana="12"/>
+               <div xml:id="ref.MekhY.6.7.13" n="767" type="level3" subtype="Pisqa" ana="13"/>
+            </div>
+            <div xml:id="ref.MekhY.6.8" type="level2" subtype="Parasha" ana="8">
+               <div xml:id="ref.MekhY.6.8.1" n="768" type="level3" subtype="Pisqa" ana="1"/>
+               <div xml:id="ref.MekhY.6.8.2" n="769" type="level3" subtype="Pisqa" ana="2"/>
+               <div xml:id="ref.MekhY.6.8.3" n="770" type="level3" subtype="Pisqa" ana="3"/>
+               <div xml:id="ref.MekhY.6.8.4" n="771" type="level3" subtype="Pisqa" ana="4"/>
+               <div xml:id="ref.MekhY.6.8.5" n="772" type="level3" subtype="Pisqa" ana="5"/>
+               <div xml:id="ref.MekhY.6.8.6" n="773" type="level3" subtype="Pisqa" ana="6"/>
+               <div xml:id="ref.MekhY.6.8.7" n="774" type="level3" subtype="Pisqa" ana="7"/>
+               <div xml:id="ref.MekhY.6.8.8" n="775" type="level3" subtype="Pisqa" ana="8"/>
+               <div xml:id="ref.MekhY.6.8.9" n="776" type="level3" subtype="Pisqa" ana="9"/>
+               <div xml:id="ref.MekhY.6.8.10" n="777" type="level3" subtype="Pisqa" ana="10"/>
+               <div xml:id="ref.MekhY.6.8.11" n="778" type="level3" subtype="Pisqa" ana="11"/>
+            </div>
+            <div xml:id="ref.MekhY.6.9" type="level2" subtype="Parasha" ana="9">
+               <div xml:id="ref.MekhY.6.9.1" n="779" type="level3" subtype="Pisqa" ana="1"/>
+               <div xml:id="ref.MekhY.6.9.2" n="780" type="level3" subtype="Pisqa" ana="2"/>
+               <div xml:id="ref.MekhY.6.9.3" n="781" type="level3" subtype="Pisqa" ana="3"/>
+               <div xml:id="ref.MekhY.6.9.4" n="782" type="level3" subtype="Pisqa" ana="4"/>
+               <div xml:id="ref.MekhY.6.9.5" n="783" type="level3" subtype="Pisqa" ana="5"/>
+               <div xml:id="ref.MekhY.6.9.6" n="784" type="level3" subtype="Pisqa" ana="6"/>
+               <div xml:id="ref.MekhY.6.9.7" n="785" type="level3" subtype="Pisqa" ana="7"/>
+               <div xml:id="ref.MekhY.6.9.8" n="786" type="level3" subtype="Pisqa" ana="8"/>
+               <div xml:id="ref.MekhY.6.9.9" n="787" type="level3" subtype="Pisqa" ana="9"/>
+               <div xml:id="ref.MekhY.6.9.10" n="788" type="level3" subtype="Pisqa" ana="10"/>
+               <div xml:id="ref.MekhY.6.9.11" n="789" type="level3" subtype="Pisqa" ana="11"/>
+               <div xml:id="ref.MekhY.6.9.12" n="790" type="level3" subtype="Pisqa" ana="12"/>
+               <div xml:id="ref.MekhY.6.9.13" n="791" type="level3" subtype="Pisqa" ana="13"/>
+               <div xml:id="ref.MekhY.6.9.14" n="792" type="level3" subtype="Pisqa" ana="14"/>
+               <div xml:id="ref.MekhY.6.9.15" n="793" type="level3" subtype="Pisqa" ana="15"/>
+               <div xml:id="ref.MekhY.6.9.16" n="794" type="level3" subtype="Pisqa" ana="16"/>
+            </div>
+            <div xml:id="ref.MekhY.6.10" type="level2" subtype="Parasha" ana="10">
+               <div xml:id="ref.MekhY.6.10.1" n="795" type="level3" subtype="Pisqa" ana="1"/>
+               <div xml:id="ref.MekhY.6.10.2" n="796" type="level3" subtype="Pisqa" ana="2"/>
+               <div xml:id="ref.MekhY.6.10.3" n="797" type="level3" subtype="Pisqa" ana="3"/>
+               <div xml:id="ref.MekhY.6.10.4" n="798" type="level3" subtype="Pisqa" ana="4"/>
+            </div>
+            <div xml:id="ref.MekhY.6.11" type="level2" subtype="Parasha" ana="11">
+               <div xml:id="ref.MekhY.6.11.1" n="799" type="level3" subtype="Pisqa" ana="1"/>
+               <div xml:id="ref.MekhY.6.11.2" n="800" type="level3" subtype="Pisqa" ana="2"/>
+               <div xml:id="ref.MekhY.6.11.3" n="801" type="level3" subtype="Pisqa" ana="3"/>
+               <div xml:id="ref.MekhY.6.11.4" n="802" type="level3" subtype="Pisqa" ana="4"/>
+               <div xml:id="ref.MekhY.6.11.5" n="803" type="level3" subtype="Pisqa" ana="5"/>
+               <div xml:id="ref.MekhY.6.11.6" n="804" type="level3" subtype="Pisqa" ana="6"/>
+               <div xml:id="ref.MekhY.6.11.7" n="805" type="level3" subtype="Pisqa" ana="7"/>
+               <div xml:id="ref.MekhY.6.11.8" n="806" type="level3" subtype="Pisqa" ana="8"/>
+               <div xml:id="ref.MekhY.6.11.9" n="807" type="level3" subtype="Pisqa" ana="9"/>
+               <div xml:id="ref.MekhY.6.11.10" n="808" type="level3" subtype="Pisqa" ana="10"/>
+               <div xml:id="ref.MekhY.6.11.11" n="809" type="level3" subtype="Pisqa" ana="11"/>
+            </div>
+         </div>
+         <div xml:id="ref.MekhY.7" type="level1" subtype="Massekhet" ana="Neziqin">
+            <div xml:id="ref.MekhY.7.1" type="level2" subtype="Parasha" ana="1">
+               <div xml:id="ref.MekhY.7.1.1" n="810" type="level3" subtype="Pisqa" ana="1"/>
+               <div xml:id="ref.MekhY.7.1.2" n="811" type="level3" subtype="Pisqa" ana="2"/>
+               <div xml:id="ref.MekhY.7.1.3" n="812" type="level3" subtype="Pisqa" ana="3"/>
+               <div xml:id="ref.MekhY.7.1.4" n="813" type="level3" subtype="Pisqa" ana="4"/>
+               <div xml:id="ref.MekhY.7.1.5" n="814" type="level3" subtype="Pisqa" ana="5"/>
+               <div xml:id="ref.MekhY.7.1.6" n="815" type="level3" subtype="Pisqa" ana="6"/>
+               <div xml:id="ref.MekhY.7.1.7" n="816" type="level3" subtype="Pisqa" ana="7"/>
+               <div xml:id="ref.MekhY.7.1.8" n="817" type="level3" subtype="Pisqa" ana="8"/>
+               <div xml:id="ref.MekhY.7.1.9" n="818" type="level3" subtype="Pisqa" ana="9"/>
+               <div xml:id="ref.MekhY.7.1.10" n="819" type="level3" subtype="Pisqa" ana="10"/>
+               <div xml:id="ref.MekhY.7.1.11" n="820" type="level3" subtype="Pisqa" ana="11"/>
+               <div xml:id="ref.MekhY.7.1.12" n="821" type="level3" subtype="Pisqa" ana="12"/>
+               <div xml:id="ref.MekhY.7.1.13" n="822" type="level3" subtype="Pisqa" ana="13"/>
+            </div>
+            <div xml:id="ref.MekhY.7.2" type="level2" subtype="Parasha" ana="2">
+               <div xml:id="ref.MekhY.7.2.1" n="823" type="level3" subtype="Pisqa" ana="1"/>
+               <div xml:id="ref.MekhY.7.2.2" n="824" type="level3" subtype="Pisqa" ana="2"/>
+               <div xml:id="ref.MekhY.7.2.3" n="825" type="level3" subtype="Pisqa" ana="3"/>
+               <div xml:id="ref.MekhY.7.2.4" n="826" type="level3" subtype="Pisqa" ana="4"/>
+               <div xml:id="ref.MekhY.7.2.5" n="827" type="level3" subtype="Pisqa" ana="5"/>
+               <div xml:id="ref.MekhY.7.2.6" n="828" type="level3" subtype="Pisqa" ana="6"/>
+               <div xml:id="ref.MekhY.7.2.7" n="829" type="level3" subtype="Pisqa" ana="7"/>
+               <div xml:id="ref.MekhY.7.2.8" n="830" type="level3" subtype="Pisqa" ana="8"/>
+               <div xml:id="ref.MekhY.7.2.9" n="831" type="level3" subtype="Pisqa" ana="9"/>
+               <div xml:id="ref.MekhY.7.2.10" n="832" type="level3" subtype="Pisqa" ana="10"/>
+               <div xml:id="ref.MekhY.7.2.11" n="833" type="level3" subtype="Pisqa" ana="11"/>
+               <div xml:id="ref.MekhY.7.2.12" n="834" type="level3" subtype="Pisqa" ana="12"/>
+               <div xml:id="ref.MekhY.7.2.13" n="835" type="level3" subtype="Pisqa" ana="13"/>
+               <div xml:id="ref.MekhY.7.2.14" n="836" type="level3" subtype="Pisqa" ana="14"/>
+               <div xml:id="ref.MekhY.7.2.15" n="837" type="level3" subtype="Pisqa" ana="15"/>
+               <div xml:id="ref.MekhY.7.2.16" n="838" type="level3" subtype="Pisqa" ana="16"/>
+               <div xml:id="ref.MekhY.7.2.17" n="839" type="level3" subtype="Pisqa" ana="17"/>
+               <div xml:id="ref.MekhY.7.2.18" n="840" type="level3" subtype="Pisqa" ana="18"/>
+            </div>
+            <div xml:id="ref.MekhY.7.3" type="level2" subtype="Parasha" ana="3">
+               <div xml:id="ref.MekhY.7.3.1" n="841" type="level3" subtype="Pisqa" ana="1"/>
+               <div xml:id="ref.MekhY.7.3.2" n="842" type="level3" subtype="Pisqa" ana="2"/>
+               <div xml:id="ref.MekhY.7.3.3" n="843" type="level3" subtype="Pisqa" ana="3"/>
+               <div xml:id="ref.MekhY.7.3.4" n="844" type="level3" subtype="Pisqa" ana="4"/>
+               <div xml:id="ref.MekhY.7.3.5" n="845" type="level3" subtype="Pisqa" ana="5"/>
+               <div xml:id="ref.MekhY.7.3.6" n="846" type="level3" subtype="Pisqa" ana="6"/>
+               <div xml:id="ref.MekhY.7.3.7" n="847" type="level3" subtype="Pisqa" ana="7"/>
+               <div xml:id="ref.MekhY.7.3.8" n="848" type="level3" subtype="Pisqa" ana="8"/>
+               <div xml:id="ref.MekhY.7.3.9" n="849" type="level3" subtype="Pisqa" ana="9"/>
+               <div xml:id="ref.MekhY.7.3.10" n="850" type="level3" subtype="Pisqa" ana="10"/>
+               <div xml:id="ref.MekhY.7.3.11" n="851" type="level3" subtype="Pisqa" ana="11"/>
+               <div xml:id="ref.MekhY.7.3.12" n="852" type="level3" subtype="Pisqa" ana="12"/>
+               <div xml:id="ref.MekhY.7.3.13" n="853" type="level3" subtype="Pisqa" ana="13"/>
+               <div xml:id="ref.MekhY.7.3.14" n="854" type="level3" subtype="Pisqa" ana="14"/>
+               <div xml:id="ref.MekhY.7.3.15" n="855" type="level3" subtype="Pisqa" ana="15"/>
+               <div xml:id="ref.MekhY.7.3.16" n="856" type="level3" subtype="Pisqa" ana="16"/>
+               <div xml:id="ref.MekhY.7.3.17" n="857" type="level3" subtype="Pisqa" ana="17"/>
+               <div xml:id="ref.MekhY.7.3.18" n="858" type="level3" subtype="Pisqa" ana="18"/>
+               <div xml:id="ref.MekhY.7.3.19" n="859" type="level3" subtype="Pisqa" ana="19"/>
+            </div>
+            <div xml:id="ref.MekhY.7.4" type="level2" subtype="Parasha" ana="4">
+               <div xml:id="ref.MekhY.7.4.1" n="860" type="level3" subtype="Pisqa" ana="1"/>
+               <div xml:id="ref.MekhY.7.4.2" n="861" type="level3" subtype="Pisqa" ana="2"/>
+               <div xml:id="ref.MekhY.7.4.3" n="862" type="level3" subtype="Pisqa" ana="3"/>
+               <div xml:id="ref.MekhY.7.4.4" n="863" type="level3" subtype="Pisqa" ana="4"/>
+               <div xml:id="ref.MekhY.7.4.5" n="864" type="level3" subtype="Pisqa" ana="5"/>
+               <div xml:id="ref.MekhY.7.4.6" n="865" type="level3" subtype="Pisqa" ana="6"/>
+               <div xml:id="ref.MekhY.7.4.7" n="866" type="level3" subtype="Pisqa" ana="7"/>
+               <div xml:id="ref.MekhY.7.4.8" n="867" type="level3" subtype="Pisqa" ana="8"/>
+               <div xml:id="ref.MekhY.7.4.9" n="868" type="level3" subtype="Pisqa" ana="9"/>
+               <div xml:id="ref.MekhY.7.4.10" n="869" type="level3" subtype="Pisqa" ana="10"/>
+               <div xml:id="ref.MekhY.7.4.11" n="870" type="level3" subtype="Pisqa" ana="11"/>
+               <div xml:id="ref.MekhY.7.4.12" n="871" type="level3" subtype="Pisqa" ana="12"/>
+               <div xml:id="ref.MekhY.7.4.13" n="872" type="level3" subtype="Pisqa" ana="13"/>
+            </div>
+            <div xml:id="ref.MekhY.7.5" type="level2" subtype="Parasha" ana="5">
+               <div xml:id="ref.MekhY.7.5.1" n="873" type="level3" subtype="Pisqa" ana="1"/>
+               <div xml:id="ref.MekhY.7.5.2" n="874" type="level3" subtype="Pisqa" ana="2"/>
+               <div xml:id="ref.MekhY.7.5.3" n="875" type="level3" subtype="Pisqa" ana="3"/>
+               <div xml:id="ref.MekhY.7.5.4" n="876" type="level3" subtype="Pisqa" ana="4"/>
+               <div xml:id="ref.MekhY.7.5.5" n="877" type="level3" subtype="Pisqa" ana="5"/>
+               <div xml:id="ref.MekhY.7.5.6" n="878" type="level3" subtype="Pisqa" ana="6"/>
+               <div xml:id="ref.MekhY.7.5.7" n="879" type="level3" subtype="Pisqa" ana="7"/>
+               <div xml:id="ref.MekhY.7.5.8" n="880" type="level3" subtype="Pisqa" ana="8"/>
+               <div xml:id="ref.MekhY.7.5.9" n="881" type="level3" subtype="Pisqa" ana="9"/>
+               <div xml:id="ref.MekhY.7.5.10" n="882" type="level3" subtype="Pisqa" ana="10"/>
+               <div xml:id="ref.MekhY.7.5.11" n="883" type="level3" subtype="Pisqa" ana="11"/>
+               <div xml:id="ref.MekhY.7.5.12" n="884" type="level3" subtype="Pisqa" ana="12"/>
+               <div xml:id="ref.MekhY.7.5.13" n="885" type="level3" subtype="Pisqa" ana="13"/>
+               <div xml:id="ref.MekhY.7.5.14" n="886" type="level3" subtype="Pisqa" ana="14"/>
+            </div>
+            <div xml:id="ref.MekhY.7.6" type="level2" subtype="Parasha" ana="6">
+               <div xml:id="ref.MekhY.7.6.1" n="887" type="level3" subtype="Pisqa" ana="1"/>
+               <div xml:id="ref.MekhY.7.6.2" n="888" type="level3" subtype="Pisqa" ana="2"/>
+               <div xml:id="ref.MekhY.7.6.3" n="889" type="level3" subtype="Pisqa" ana="3"/>
+               <div xml:id="ref.MekhY.7.6.4" n="890" type="level3" subtype="Pisqa" ana="4"/>
+               <div xml:id="ref.MekhY.7.6.5" n="891" type="level3" subtype="Pisqa" ana="5"/>
+               <div xml:id="ref.MekhY.7.6.6" n="892" type="level3" subtype="Pisqa" ana="6"/>
+               <div xml:id="ref.MekhY.7.6.7" n="893" type="level3" subtype="Pisqa" ana="7"/>
+               <div xml:id="ref.MekhY.7.6.8" n="894" type="level3" subtype="Pisqa" ana="8"/>
+               <div xml:id="ref.MekhY.7.6.9" n="895" type="level3" subtype="Pisqa" ana="9"/>
+               <div xml:id="ref.MekhY.7.6.10" n="896" type="level3" subtype="Pisqa" ana="10"/>
+               <div xml:id="ref.MekhY.7.6.11" n="897" type="level3" subtype="Pisqa" ana="11"/>
+               <div xml:id="ref.MekhY.7.6.12" n="898" type="level3" subtype="Pisqa" ana="12"/>
+            </div>
+            <div xml:id="ref.MekhY.7.7" type="level2" subtype="Parasha" ana="7">
+               <div xml:id="ref.MekhY.7.7.1" n="899" type="level3" subtype="Pisqa" ana="1"/>
+               <div xml:id="ref.MekhY.7.7.2" n="900" type="level3" subtype="Pisqa" ana="2"/>
+               <div xml:id="ref.MekhY.7.7.3" n="901" type="level3" subtype="Pisqa" ana="3"/>
+               <div xml:id="ref.MekhY.7.7.4" n="902" type="level3" subtype="Pisqa" ana="4"/>
+               <div xml:id="ref.MekhY.7.7.5" n="903" type="level3" subtype="Pisqa" ana="5"/>
+               <div xml:id="ref.MekhY.7.7.6" n="904" type="level3" subtype="Pisqa" ana="6"/>
+               <div xml:id="ref.MekhY.7.7.7" n="905" type="level3" subtype="Pisqa" ana="7"/>
+               <div xml:id="ref.MekhY.7.7.8" n="906" type="level3" subtype="Pisqa" ana="8"/>
+            </div>
+            <div xml:id="ref.MekhY.7.8" type="level2" subtype="Parasha" ana="8">
+               <div xml:id="ref.MekhY.7.8.1" n="907" type="level3" subtype="Pisqa" ana="1"/>
+               <div xml:id="ref.MekhY.7.8.2" n="908" type="level3" subtype="Pisqa" ana="2"/>
+               <div xml:id="ref.MekhY.7.8.3" n="909" type="level3" subtype="Pisqa" ana="3"/>
+               <div xml:id="ref.MekhY.7.8.4" n="910" type="level3" subtype="Pisqa" ana="4"/>
+               <div xml:id="ref.MekhY.7.8.5" n="911" type="level3" subtype="Pisqa" ana="5"/>
+               <div xml:id="ref.MekhY.7.8.6" n="912" type="level3" subtype="Pisqa" ana="6"/>
+               <div xml:id="ref.MekhY.7.8.7" n="913" type="level3" subtype="Pisqa" ana="7"/>
+               <div xml:id="ref.MekhY.7.8.8" n="914" type="level3" subtype="Pisqa" ana="8"/>
+               <div xml:id="ref.MekhY.7.8.9" n="915" type="level3" subtype="Pisqa" ana="9"/>
+               <div xml:id="ref.MekhY.7.8.10" n="916" type="level3" subtype="Pisqa" ana="10"/>
+               <div xml:id="ref.MekhY.7.8.11" n="917" type="level3" subtype="Pisqa" ana="11"/>
+               <div xml:id="ref.MekhY.7.8.12" n="918" type="level3" subtype="Pisqa" ana="12"/>
+               <div xml:id="ref.MekhY.7.8.13" n="919" type="level3" subtype="Pisqa" ana="13"/>
+               <div xml:id="ref.MekhY.7.8.14" n="920" type="level3" subtype="Pisqa" ana="14"/>
+               <div xml:id="ref.MekhY.7.8.15" n="921" type="level3" subtype="Pisqa" ana="15"/>
+            </div>
+            <div xml:id="ref.MekhY.7.9" type="level2" subtype="Parasha" ana="9">
+               <div xml:id="ref.MekhY.7.9.1" n="922" type="level3" subtype="Pisqa" ana="1"/>
+               <div xml:id="ref.MekhY.7.9.2" n="923" type="level3" subtype="Pisqa" ana="2"/>
+               <div xml:id="ref.MekhY.7.9.3" n="924" type="level3" subtype="Pisqa" ana="3"/>
+               <div xml:id="ref.MekhY.7.9.4" n="925" type="level3" subtype="Pisqa" ana="4"/>
+               <div xml:id="ref.MekhY.7.9.5" n="926" type="level3" subtype="Pisqa" ana="5"/>
+               <div xml:id="ref.MekhY.7.9.6" n="927" type="level3" subtype="Pisqa" ana="6"/>
+               <div xml:id="ref.MekhY.7.9.7" n="928" type="level3" subtype="Pisqa" ana="7"/>
+            </div>
+            <div xml:id="ref.MekhY.7.10" type="level2" subtype="Parasha" ana="10">
+               <div xml:id="ref.MekhY.7.10.1" n="929" type="level3" subtype="Pisqa" ana="1"/>
+               <div xml:id="ref.MekhY.7.10.2" n="930" type="level3" subtype="Pisqa" ana="2"/>
+               <div xml:id="ref.MekhY.7.10.3" n="931" type="level3" subtype="Pisqa" ana="3"/>
+               <div xml:id="ref.MekhY.7.10.4" n="932" type="level3" subtype="Pisqa" ana="4"/>
+               <div xml:id="ref.MekhY.7.10.5" n="933" type="level3" subtype="Pisqa" ana="5"/>
+               <div xml:id="ref.MekhY.7.10.6" n="934" type="level3" subtype="Pisqa" ana="6"/>
+               <div xml:id="ref.MekhY.7.10.7" n="935" type="level3" subtype="Pisqa" ana="7"/>
+               <div xml:id="ref.MekhY.7.10.8" n="936" type="level3" subtype="Pisqa" ana="8"/>
+               <div xml:id="ref.MekhY.7.10.9" n="937" type="level3" subtype="Pisqa" ana="9"/>
+               <div xml:id="ref.MekhY.7.10.10" n="938" type="level3" subtype="Pisqa" ana="10"/>
+               <div xml:id="ref.MekhY.7.10.11" n="939" type="level3" subtype="Pisqa" ana="11"/>
+               <div xml:id="ref.MekhY.7.10.12" n="940" type="level3" subtype="Pisqa" ana="12"/>
+               <div xml:id="ref.MekhY.7.10.13" n="941" type="level3" subtype="Pisqa" ana="13"/>
+               <div xml:id="ref.MekhY.7.10.14" n="942" type="level3" subtype="Pisqa" ana="14"/>
+            </div>
+            <div xml:id="ref.MekhY.7.11" type="level2" subtype="Parasha" ana="11">
+               <div xml:id="ref.MekhY.7.11.1" n="943" type="level3" subtype="Pisqa" ana="1"/>
+               <div xml:id="ref.MekhY.7.11.2" n="944" type="level3" subtype="Pisqa" ana="2"/>
+               <div xml:id="ref.MekhY.7.11.3" n="945" type="level3" subtype="Pisqa" ana="3"/>
+               <div xml:id="ref.MekhY.7.11.4" n="946" type="level3" subtype="Pisqa" ana="4"/>
+               <div xml:id="ref.MekhY.7.11.5" n="947" type="level3" subtype="Pisqa" ana="5"/>
+               <div xml:id="ref.MekhY.7.11.6" n="948" type="level3" subtype="Pisqa" ana="6"/>
+               <div xml:id="ref.MekhY.7.11.7" n="949" type="level3" subtype="Pisqa" ana="7"/>
+               <div xml:id="ref.MekhY.7.11.8" n="950" type="level3" subtype="Pisqa" ana="8"/>
+               <div xml:id="ref.MekhY.7.11.9" n="951" type="level3" subtype="Pisqa" ana="9"/>
+               <div xml:id="ref.MekhY.7.11.10" n="952" type="level3" subtype="Pisqa" ana="10"/>
+               <div xml:id="ref.MekhY.7.11.11" n="953" type="level3" subtype="Pisqa" ana="11"/>
+               <div xml:id="ref.MekhY.7.11.12" n="954" type="level3" subtype="Pisqa" ana="12"/>
+               <div xml:id="ref.MekhY.7.11.13" n="955" type="level3" subtype="Pisqa" ana="13"/>
+               <div xml:id="ref.MekhY.7.11.14" n="956" type="level3" subtype="Pisqa" ana="14"/>
+               <div xml:id="ref.MekhY.7.11.15" n="957" type="level3" subtype="Pisqa" ana="15"/>
+               <div xml:id="ref.MekhY.7.11.16" n="958" type="level3" subtype="Pisqa" ana="16"/>
+               <div xml:id="ref.MekhY.7.11.17" n="959" type="level3" subtype="Pisqa" ana="17"/>
+               <div xml:id="ref.MekhY.7.11.18" n="960" type="level3" subtype="Pisqa" ana="18"/>
+            </div>
+            <div xml:id="ref.MekhY.7.12" type="level2" subtype="Parasha" ana="12">
+               <div xml:id="ref.MekhY.7.12.1" n="961" type="level3" subtype="Pisqa" ana="1"/>
+               <div xml:id="ref.MekhY.7.12.2" n="962" type="level3" subtype="Pisqa" ana="2"/>
+               <div xml:id="ref.MekhY.7.12.3" n="963" type="level3" subtype="Pisqa" ana="3"/>
+               <div xml:id="ref.MekhY.7.12.4" n="964" type="level3" subtype="Pisqa" ana="4"/>
+               <div xml:id="ref.MekhY.7.12.5" n="965" type="level3" subtype="Pisqa" ana="5"/>
+               <div xml:id="ref.MekhY.7.12.6" n="966" type="level3" subtype="Pisqa" ana="6"/>
+               <div xml:id="ref.MekhY.7.12.7" n="967" type="level3" subtype="Pisqa" ana="7"/>
+               <div xml:id="ref.MekhY.7.12.8" n="968" type="level3" subtype="Pisqa" ana="8"/>
+               <div xml:id="ref.MekhY.7.12.9" n="969" type="level3" subtype="Pisqa" ana="9"/>
+               <div xml:id="ref.MekhY.7.12.10" n="970" type="level3" subtype="Pisqa" ana="10"/>
+               <div xml:id="ref.MekhY.7.12.11" n="971" type="level3" subtype="Pisqa" ana="11"/>
+               <div xml:id="ref.MekhY.7.12.12" n="972" type="level3" subtype="Pisqa" ana="12"/>
+               <div xml:id="ref.MekhY.7.12.13" n="973" type="level3" subtype="Pisqa" ana="13"/>
+               <div xml:id="ref.MekhY.7.12.14" n="974" type="level3" subtype="Pisqa" ana="14"/>
+               <div xml:id="ref.MekhY.7.12.15" n="975" type="level3" subtype="Pisqa" ana="15"/>
+               <div xml:id="ref.MekhY.7.12.16" n="976" type="level3" subtype="Pisqa" ana="16"/>
+            </div>
+            <div xml:id="ref.MekhY.7.13" type="level2" subtype="Parasha" ana="13">
+               <div xml:id="ref.MekhY.7.13.1" n="977" type="level3" subtype="Pisqa" ana="1"/>
+               <div xml:id="ref.MekhY.7.13.2" n="978" type="level3" subtype="Pisqa" ana="2"/>
+               <div xml:id="ref.MekhY.7.13.3" n="979" type="level3" subtype="Pisqa" ana="3"/>
+               <div xml:id="ref.MekhY.7.13.4" n="980" type="level3" subtype="Pisqa" ana="4"/>
+               <div xml:id="ref.MekhY.7.13.5" n="981" type="level3" subtype="Pisqa" ana="5"/>
+               <div xml:id="ref.MekhY.7.13.6" n="982" type="level3" subtype="Pisqa" ana="6"/>
+               <div xml:id="ref.MekhY.7.13.7" n="983" type="level3" subtype="Pisqa" ana="7"/>
+               <div xml:id="ref.MekhY.7.13.8" n="984" type="level3" subtype="Pisqa" ana="8"/>
+               <div xml:id="ref.MekhY.7.13.9" n="985" type="level3" subtype="Pisqa" ana="9"/>
+               <div xml:id="ref.MekhY.7.13.10" n="986" type="level3" subtype="Pisqa" ana="10"/>
+            </div>
+            <div xml:id="ref.MekhY.7.14" type="level2" subtype="Parasha" ana="14">
+               <div xml:id="ref.MekhY.7.14.1" n="987" type="level3" subtype="Pisqa" ana="1"/>
+               <div xml:id="ref.MekhY.7.14.2" n="988" type="level3" subtype="Pisqa" ana="2"/>
+               <div xml:id="ref.MekhY.7.14.3" n="989" type="level3" subtype="Pisqa" ana="3"/>
+               <div xml:id="ref.MekhY.7.14.4" n="990" type="level3" subtype="Pisqa" ana="4"/>
+               <div xml:id="ref.MekhY.7.14.5" n="991" type="level3" subtype="Pisqa" ana="5"/>
+               <div xml:id="ref.MekhY.7.14.6" n="992" type="level3" subtype="Pisqa" ana="6"/>
+               <div xml:id="ref.MekhY.7.14.7" n="993" type="level3" subtype="Pisqa" ana="7"/>
+               <div xml:id="ref.MekhY.7.14.8" n="994" type="level3" subtype="Pisqa" ana="8"/>
+               <div xml:id="ref.MekhY.7.14.9" n="995" type="level3" subtype="Pisqa" ana="9"/>
+               <div xml:id="ref.MekhY.7.14.10" n="996" type="level3" subtype="Pisqa" ana="10"/>
+               <div xml:id="ref.MekhY.7.14.11" n="997" type="level3" subtype="Pisqa" ana="11"/>
+               <div xml:id="ref.MekhY.7.14.12" n="998" type="level3" subtype="Pisqa" ana="12"/>
+            </div>
+            <div xml:id="ref.MekhY.7.15" type="level2" subtype="Parasha" ana="15">
+               <div xml:id="ref.MekhY.7.15.1" n="999" type="level3" subtype="Pisqa" ana="1"/>
+               <div xml:id="ref.MekhY.7.15.2" n="1000" type="level3" subtype="Pisqa" ana="2"/>
+               <div xml:id="ref.MekhY.7.15.3" n="1001" type="level3" subtype="Pisqa" ana="3"/>
+               <div xml:id="ref.MekhY.7.15.4" n="1002" type="level3" subtype="Pisqa" ana="4"/>
+               <div xml:id="ref.MekhY.7.15.5" n="1003" type="level3" subtype="Pisqa" ana="5"/>
+               <div xml:id="ref.MekhY.7.15.6" n="1004" type="level3" subtype="Pisqa" ana="6"/>
+               <div xml:id="ref.MekhY.7.15.7" n="1005" type="level3" subtype="Pisqa" ana="7"/>
+               <div xml:id="ref.MekhY.7.15.8" n="1006" type="level3" subtype="Pisqa" ana="8"/>
+               <div xml:id="ref.MekhY.7.15.9" n="1007" type="level3" subtype="Pisqa" ana="9"/>
+               <div xml:id="ref.MekhY.7.15.10" n="1008" type="level3" subtype="Pisqa" ana="10"/>
+               <div xml:id="ref.MekhY.7.15.11" n="1009" type="level3" subtype="Pisqa" ana="11"/>
+               <div xml:id="ref.MekhY.7.15.12" n="1010" type="level3" subtype="Pisqa" ana="12"/>
+               <div xml:id="ref.MekhY.7.15.13" n="1011" type="level3" subtype="Pisqa" ana="13"/>
+            </div>
+            <div xml:id="ref.MekhY.7.16" type="level2" subtype="Parasha" ana="16">
+               <div xml:id="ref.MekhY.7.16.1" n="1012" type="level3" subtype="Pisqa" ana="1"/>
+               <div xml:id="ref.MekhY.7.16.2" n="1013" type="level3" subtype="Pisqa" ana="2"/>
+               <div xml:id="ref.MekhY.7.16.3" n="1014" type="level3" subtype="Pisqa" ana="3"/>
+               <div xml:id="ref.MekhY.7.16.4" n="1015" type="level3" subtype="Pisqa" ana="4"/>
+               <div xml:id="ref.MekhY.7.16.5" n="1016" type="level3" subtype="Pisqa" ana="5"/>
+               <div xml:id="ref.MekhY.7.16.6" n="1017" type="level3" subtype="Pisqa" ana="6"/>
+               <div xml:id="ref.MekhY.7.16.7" n="1018" type="level3" subtype="Pisqa" ana="7"/>
+               <div xml:id="ref.MekhY.7.16.8" n="1019" type="level3" subtype="Pisqa" ana="8"/>
+               <div xml:id="ref.MekhY.7.16.9" n="1020" type="level3" subtype="Pisqa" ana="9"/>
+               <div xml:id="ref.MekhY.7.16.10" n="1021" type="level3" subtype="Pisqa" ana="10"/>
+               <div xml:id="ref.MekhY.7.16.11" n="1022" type="level3" subtype="Pisqa" ana="11"/>
+               <div xml:id="ref.MekhY.7.16.12" n="1023" type="level3" subtype="Pisqa" ana="12"/>
+               <div xml:id="ref.MekhY.7.16.13" n="1024" type="level3" subtype="Pisqa" ana="13"/>
+               <div xml:id="ref.MekhY.7.16.14" n="1025" type="level3" subtype="Pisqa" ana="14"/>
+               <div xml:id="ref.MekhY.7.16.15" n="1026" type="level3" subtype="Pisqa" ana="15"/>
+               <div xml:id="ref.MekhY.7.16.16" n="1027" type="level3" subtype="Pisqa" ana="16"/>
+               <div xml:id="ref.MekhY.7.16.17" n="1028" type="level3" subtype="Pisqa" ana="17"/>
+               <div xml:id="ref.MekhY.7.16.18" n="1029" type="level3" subtype="Pisqa" ana="18"/>
+            </div>
+            <div xml:id="ref.MekhY.7.17" type="level2" subtype="Parasha" ana="17">
+               <div xml:id="ref.MekhY.7.17.1" n="1030" type="level3" subtype="Pisqa" ana="1"/>
+               <div xml:id="ref.MekhY.7.17.2" n="1031" type="level3" subtype="Pisqa" ana="2"/>
+               <div xml:id="ref.MekhY.7.17.3" n="1032" type="level3" subtype="Pisqa" ana="3"/>
+               <div xml:id="ref.MekhY.7.17.4" n="1033" type="level3" subtype="Pisqa" ana="4"/>
+               <div xml:id="ref.MekhY.7.17.5" n="1034" type="level3" subtype="Pisqa" ana="5"/>
+               <div xml:id="ref.MekhY.7.17.6" n="1035" type="level3" subtype="Pisqa" ana="6"/>
+               <div xml:id="ref.MekhY.7.17.7" n="1036" type="level3" subtype="Pisqa" ana="7"/>
+               <div xml:id="ref.MekhY.7.17.8" n="1037" type="level3" subtype="Pisqa" ana="8"/>
+               <div xml:id="ref.MekhY.7.17.9" n="1038" type="level3" subtype="Pisqa" ana="9"/>
+               <div xml:id="ref.MekhY.7.17.10" n="1039" type="level3" subtype="Pisqa" ana="10"/>
+               <div xml:id="ref.MekhY.7.17.11" n="1040" type="level3" subtype="Pisqa" ana="11"/>
+               <div xml:id="ref.MekhY.7.17.12" n="1041" type="level3" subtype="Pisqa" ana="12"/>
+            </div>
+            <div xml:id="ref.MekhY.7.18" type="level2" subtype="Parasha" ana="18">
+               <div xml:id="ref.MekhY.7.18.1" n="1042" type="level3" subtype="Pisqa" ana="1"/>
+               <div xml:id="ref.MekhY.7.18.2" n="1043" type="level3" subtype="Pisqa" ana="2"/>
+               <div xml:id="ref.MekhY.7.18.3" n="1044" type="level3" subtype="Pisqa" ana="3"/>
+               <div xml:id="ref.MekhY.7.18.4" n="1045" type="level3" subtype="Pisqa" ana="4"/>
+               <div xml:id="ref.MekhY.7.18.5" n="1046" type="level3" subtype="Pisqa" ana="5"/>
+               <div xml:id="ref.MekhY.7.18.6" n="1047" type="level3" subtype="Pisqa" ana="6"/>
+               <div xml:id="ref.MekhY.7.18.7" n="1048" type="level3" subtype="Pisqa" ana="7"/>
+            </div>
+         </div>
+         <div xml:id="ref.MekhY.8" type="level1" subtype="Massekhet" ana="Kaspa">
+            <div xml:id="ref.MekhY.8.1" type="level2" subtype="Parasha" ana="1">
+               <div xml:id="ref.MekhY.8.1.1" n="1049" type="level3" subtype="Pisqa" ana="1"/>
+               <div xml:id="ref.MekhY.8.1.2" n="1050" type="level3" subtype="Pisqa" ana="2"/>
+               <div xml:id="ref.MekhY.8.1.3" n="1051" type="level3" subtype="Pisqa" ana="3"/>
+               <div xml:id="ref.MekhY.8.1.4" n="1052" type="level3" subtype="Pisqa" ana="4"/>
+               <div xml:id="ref.MekhY.8.1.5" n="1053" type="level3" subtype="Pisqa" ana="5"/>
+               <div xml:id="ref.MekhY.8.1.6" n="1054" type="level3" subtype="Pisqa" ana="6"/>
+               <div xml:id="ref.MekhY.8.1.7" n="1055" type="level3" subtype="Pisqa" ana="7"/>
+               <div xml:id="ref.MekhY.8.1.8" n="1056" type="level3" subtype="Pisqa" ana="8"/>
+               <div xml:id="ref.MekhY.8.1.9" n="1057" type="level3" subtype="Pisqa" ana="9"/>
+               <div xml:id="ref.MekhY.8.1.10" n="1058" type="level3" subtype="Pisqa" ana="10"/>
+               <div xml:id="ref.MekhY.8.1.11" n="1059" type="level3" subtype="Pisqa" ana="11"/>
+               <div xml:id="ref.MekhY.8.1.12" n="1060" type="level3" subtype="Pisqa" ana="12"/>
+               <div xml:id="ref.MekhY.8.1.13" n="1061" type="level3" subtype="Pisqa" ana="13"/>
+               <div xml:id="ref.MekhY.8.1.14" n="1062" type="level3" subtype="Pisqa" ana="14"/>
+               <div xml:id="ref.MekhY.8.1.15" n="1063" type="level3" subtype="Pisqa" ana="15"/>
+               <div xml:id="ref.MekhY.8.1.16" n="1064" type="level3" subtype="Pisqa" ana="16"/>
+               <div xml:id="ref.MekhY.8.1.17" n="1065" type="level3" subtype="Pisqa" ana="17"/>
+               <div xml:id="ref.MekhY.8.1.18" n="1066" type="level3" subtype="Pisqa" ana="18"/>
+               <div xml:id="ref.MekhY.8.1.19" n="1067" type="level3" subtype="Pisqa" ana="19"/>
+               <div xml:id="ref.MekhY.8.1.20" n="1068" type="level3" subtype="Pisqa" ana="20"/>
+               <div xml:id="ref.MekhY.8.1.21" n="1069" type="level3" subtype="Pisqa" ana="21"/>
+            </div>
+            <div xml:id="ref.MekhY.8.2" type="level2" subtype="Parasha" ana="2">
+               <div xml:id="ref.MekhY.8.2.1" n="1070" type="level3" subtype="Pisqa" ana="1"/>
+               <div xml:id="ref.MekhY.8.2.2" n="1071" type="level3" subtype="Pisqa" ana="2"/>
+               <div xml:id="ref.MekhY.8.2.3" n="1072" type="level3" subtype="Pisqa" ana="3"/>
+               <div xml:id="ref.MekhY.8.2.4" n="1073" type="level3" subtype="Pisqa" ana="4"/>
+               <div xml:id="ref.MekhY.8.2.5" n="1074" type="level3" subtype="Pisqa" ana="5"/>
+               <div xml:id="ref.MekhY.8.2.6" n="1075" type="level3" subtype="Pisqa" ana="6"/>
+               <div xml:id="ref.MekhY.8.2.7" n="1076" type="level3" subtype="Pisqa" ana="7"/>
+               <div xml:id="ref.MekhY.8.2.8" n="1077" type="level3" subtype="Pisqa" ana="8"/>
+               <div xml:id="ref.MekhY.8.2.9" n="1078" type="level3" subtype="Pisqa" ana="9"/>
+               <div xml:id="ref.MekhY.8.2.10" n="1079" type="level3" subtype="Pisqa" ana="10"/>
+               <div xml:id="ref.MekhY.8.2.11" n="1080" type="level3" subtype="Pisqa" ana="11"/>
+               <div xml:id="ref.MekhY.8.2.12" n="1081" type="level3" subtype="Pisqa" ana="12"/>
+               <div xml:id="ref.MekhY.8.2.13" n="1082" type="level3" subtype="Pisqa" ana="13"/>
+               <div xml:id="ref.MekhY.8.2.14" n="1083" type="level3" subtype="Pisqa" ana="14"/>
+               <div xml:id="ref.MekhY.8.2.15" n="1084" type="level3" subtype="Pisqa" ana="15"/>
+               <div xml:id="ref.MekhY.8.2.16" n="1085" type="level3" subtype="Pisqa" ana="16"/>
+               <div xml:id="ref.MekhY.8.2.17" n="1086" type="level3" subtype="Pisqa" ana="17"/>
+               <div xml:id="ref.MekhY.8.2.18" n="1087" type="level3" subtype="Pisqa" ana="18"/>
+               <div xml:id="ref.MekhY.8.2.19" n="1088" type="level3" subtype="Pisqa" ana="19"/>
+               <div xml:id="ref.MekhY.8.2.20" n="1089" type="level3" subtype="Pisqa" ana="20"/>
+               <div xml:id="ref.MekhY.8.2.21" n="1090" type="level3" subtype="Pisqa" ana="21"/>
+               <div xml:id="ref.MekhY.8.2.22" n="1091" type="level3" subtype="Pisqa" ana="22"/>
+               <div xml:id="ref.MekhY.8.2.23" n="1092" type="level3" subtype="Pisqa" ana="23"/>
+               <div xml:id="ref.MekhY.8.2.24" n="1093" type="level3" subtype="Pisqa" ana="24"/>
+               <div xml:id="ref.MekhY.8.2.25" n="1094" type="level3" subtype="Pisqa" ana="25"/>
+            </div>
+            <div xml:id="ref.MekhY.8.3" type="level2" subtype="Parasha" ana="3">
+               <div xml:id="ref.MekhY.8.3.1" n="1095" type="level3" subtype="Pisqa" ana="1"/>
+               <div xml:id="ref.MekhY.8.3.2" n="1096" type="level3" subtype="Pisqa" ana="2"/>
+               <div xml:id="ref.MekhY.8.3.3" n="1097" type="level3" subtype="Pisqa" ana="3"/>
+               <div xml:id="ref.MekhY.8.3.4" n="1098" type="level3" subtype="Pisqa" ana="4"/>
+               <div xml:id="ref.MekhY.8.3.5" n="1099" type="level3" subtype="Pisqa" ana="5"/>
+               <div xml:id="ref.MekhY.8.3.6" n="1100" type="level3" subtype="Pisqa" ana="6"/>
+               <div xml:id="ref.MekhY.8.3.7" n="1101" type="level3" subtype="Pisqa" ana="7"/>
+               <div xml:id="ref.MekhY.8.3.8" n="1102" type="level3" subtype="Pisqa" ana="8"/>
+               <div xml:id="ref.MekhY.8.3.9" n="1103" type="level3" subtype="Pisqa" ana="9"/>
+               <div xml:id="ref.MekhY.8.3.10" n="1104" type="level3" subtype="Pisqa" ana="10"/>
+               <div xml:id="ref.MekhY.8.3.11" n="1105" type="level3" subtype="Pisqa" ana="11"/>
+               <div xml:id="ref.MekhY.8.3.12" n="1106" type="level3" subtype="Pisqa" ana="12"/>
+               <div xml:id="ref.MekhY.8.3.13" n="1107" type="level3" subtype="Pisqa" ana="13"/>
+               <div xml:id="ref.MekhY.8.3.14" n="1108" type="level3" subtype="Pisqa" ana="14"/>
+               <div xml:id="ref.MekhY.8.3.15" n="1109" type="level3" subtype="Pisqa" ana="15"/>
+               <div xml:id="ref.MekhY.8.3.16" n="1110" type="level3" subtype="Pisqa" ana="16"/>
+               <div xml:id="ref.MekhY.8.3.17" n="1111" type="level3" subtype="Pisqa" ana="17"/>
+               <div xml:id="ref.MekhY.8.3.18" n="1112" type="level3" subtype="Pisqa" ana="18"/>
+               <div xml:id="ref.MekhY.8.3.19" n="1113" type="level3" subtype="Pisqa" ana="19"/>
+            </div>
+            <div xml:id="ref.MekhY.8.4" type="level2" subtype="Parasha" ana="4">
+               <div xml:id="ref.MekhY.8.4.1" n="1114" type="level3" subtype="Pisqa" ana="1"/>
+               <div xml:id="ref.MekhY.8.4.2" n="1115" type="level3" subtype="Pisqa" ana="2"/>
+               <div xml:id="ref.MekhY.8.4.3" n="1116" type="level3" subtype="Pisqa" ana="3"/>
+               <div xml:id="ref.MekhY.8.4.4" n="1117" type="level3" subtype="Pisqa" ana="4"/>
+               <div xml:id="ref.MekhY.8.4.5" n="1118" type="level3" subtype="Pisqa" ana="5"/>
+               <div xml:id="ref.MekhY.8.4.6" n="1119" type="level3" subtype="Pisqa" ana="6"/>
+               <div xml:id="ref.MekhY.8.4.7" n="1120" type="level3" subtype="Pisqa" ana="7"/>
+               <div xml:id="ref.MekhY.8.4.8" n="1121" type="level3" subtype="Pisqa" ana="8"/>
+               <div xml:id="ref.MekhY.8.4.9" n="1122" type="level3" subtype="Pisqa" ana="9"/>
+               <div xml:id="ref.MekhY.8.4.10" n="1123" type="level3" subtype="Pisqa" ana="10"/>
+               <div xml:id="ref.MekhY.8.4.11" n="1124" type="level3" subtype="Pisqa" ana="11"/>
+               <div xml:id="ref.MekhY.8.4.12" n="1125" type="level3" subtype="Pisqa" ana="12"/>
+               <div xml:id="ref.MekhY.8.4.13" n="1126" type="level3" subtype="Pisqa" ana="13"/>
+               <div xml:id="ref.MekhY.8.4.14" n="1127" type="level3" subtype="Pisqa" ana="14"/>
+               <div xml:id="ref.MekhY.8.4.15" n="1128" type="level3" subtype="Pisqa" ana="15"/>
+            </div>
+            <div xml:id="ref.MekhY.8.5" type="level2" subtype="Parasha" ana="5">
+               <div xml:id="ref.MekhY.8.5.1" n="1129" type="level3" subtype="Pisqa" ana="1"/>
+               <div xml:id="ref.MekhY.8.5.2" n="1130" type="level3" subtype="Pisqa" ana="2"/>
+               <div xml:id="ref.MekhY.8.5.3" n="1131" type="level3" subtype="Pisqa" ana="3"/>
+               <div xml:id="ref.MekhY.8.5.4" n="1132" type="level3" subtype="Pisqa" ana="4"/>
+               <div xml:id="ref.MekhY.8.5.5" n="1133" type="level3" subtype="Pisqa" ana="5"/>
+               <div xml:id="ref.MekhY.8.5.6" n="1134" type="level3" subtype="Pisqa" ana="6"/>
+               <div xml:id="ref.MekhY.8.5.7" n="1135" type="level3" subtype="Pisqa" ana="7"/>
+            </div>
+         </div>
+         <div xml:id="ref.MekhY.9" type="level1" subtype="Massekhet" ana="Shabbeta">
+            <div xml:id="ref.MekhY.9.1" type="level2" subtype="Parasha" ana="1">
+               <div xml:id="ref.MekhY.9.1.1" n="1136" type="level3" subtype="Pisqa" ana="1"/>
+               <div xml:id="ref.MekhY.9.1.2" n="1137" type="level3" subtype="Pisqa" ana="2"/>
+               <div xml:id="ref.MekhY.9.1.3" n="1138" type="level3" subtype="Pisqa" ana="3"/>
+               <div xml:id="ref.MekhY.9.1.4" n="1139" type="level3" subtype="Pisqa" ana="4"/>
+               <div xml:id="ref.MekhY.9.1.5" n="1140" type="level3" subtype="Pisqa" ana="5"/>
+               <div xml:id="ref.MekhY.9.1.6" n="1141" type="level3" subtype="Pisqa" ana="6"/>
+               <div xml:id="ref.MekhY.9.1.7" n="1142" type="level3" subtype="Pisqa" ana="7"/>
+               <div xml:id="ref.MekhY.9.1.8" n="1143" type="level3" subtype="Pisqa" ana="8"/>
+               <div xml:id="ref.MekhY.9.1.9" n="1144" type="level3" subtype="Pisqa" ana="9"/>
+               <div xml:id="ref.MekhY.9.1.10" n="1145" type="level3" subtype="Pisqa" ana="10"/>
+               <div xml:id="ref.MekhY.9.1.11" n="1146" type="level3" subtype="Pisqa" ana="11"/>
+               <div xml:id="ref.MekhY.9.1.12" n="1147" type="level3" subtype="Pisqa" ana="12"/>
+               <div xml:id="ref.MekhY.9.1.13" n="1148" type="level3" subtype="Pisqa" ana="13"/>
+               <div xml:id="ref.MekhY.9.1.14" n="1149" type="level3" subtype="Pisqa" ana="14"/>
+               <div xml:id="ref.MekhY.9.1.15" n="1150" type="level3" subtype="Pisqa" ana="15"/>
+               <div xml:id="ref.MekhY.9.1.16" n="1151" type="level3" subtype="Pisqa" ana="16"/>
+               <div xml:id="ref.MekhY.9.1.17" n="1152" type="level3" subtype="Pisqa" ana="17"/>
+               <div xml:id="ref.MekhY.9.1.18" n="1153" type="level3" subtype="Pisqa" ana="18"/>
+            </div>
+            <div xml:id="ref.MekhY.9.2" type="level2" subtype="Parasha" ana="2">
+               <div xml:id="ref.MekhY.9.2.1" n="1154" type="level3" subtype="Pisqa" ana="1"/>
+               <div xml:id="ref.MekhY.9.2.2" n="1155" type="level3" subtype="Pisqa" ana="2"/>
+               <div xml:id="ref.MekhY.9.2.3" n="1156" type="level3" subtype="Pisqa" ana="3"/>
+               <div xml:id="ref.MekhY.9.2.4" n="1157" type="level3" subtype="Pisqa" ana="4"/>
+               <div xml:id="ref.MekhY.9.2.5" n="1158" type="level3" subtype="Pisqa" ana="5"/>
+               <div xml:id="ref.MekhY.9.2.6" n="1159" type="level3" subtype="Pisqa" ana="6"/>
+               <div xml:id="ref.MekhY.9.2.7" n="1160" type="level3" subtype="Pisqa" ana="7"/>
+            </div>
+         </div>
+
+      </body>
+   </text>
+</TEI>

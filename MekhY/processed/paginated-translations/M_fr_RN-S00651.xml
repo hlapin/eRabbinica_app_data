@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+            <author>Ron Naiweld</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2018-02-22</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>eRabbinica and the Digital Mishnah Project</publisher>
+            <pubPlace>Department of History and Joseph and Rebecca Meyerhoff Center for Jewish
+               Studies</pubPlace>
+            <address>
+               <addrLine>2115 Francis Scott Key Hall</addrLine>
+               <addrLine>University of Maryland</addrLine>
+               <addrLine>College Park, MD</addrLine>
+            </address>
+            <idno type="local">fr_RN</idno>
+            <availability status="restricted">
+               <p>Daniel Stökl Ben Ezra, the École pratique des hautes études (Paris, France),
+                  and Hayim Lapin and the Joseph and Rebecca Meyerhoff Center for Jewish
+                  Studies and licensed under a and licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative
+                     Commons Attribution International 4.0
+                     Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA
+                     4.0)</ref>.</p>
+            </availability>
+            <date>2018-10-05</date>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Converted from a Word document</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <appInfo>
+            <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+               <label>DOCX to TEI</label>
+            </application>
+         </appInfo>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <date>2018-02-22T20:35:51Z</date>
+               <name>Ron Naiweld</name>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+    <text>
+        <body>
+            <div xmlns="" xml:id="M_fr_RN.M.S00651.2_183"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S00651.2_184"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S00651.2_185"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S00651.2_186"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S00651.2_187"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S00651.2_188"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S00651.2_189"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S00651.2_190"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S00651.2_191"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S00651.2_192"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S00651.2_193"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S00651.2_194"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S00651.2_195"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S00651.2_196"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S00651.2_197"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S00651.2_198"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S00651.2_199"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S00651.2_200"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S00651.2_201"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S00651.2_202"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S00651.2_203"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S00651.2_204"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S00651.2_205"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S00651.2_206"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S00651.2_207"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S00651.2_208"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S00651.2_209"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S00651.2_210"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S00651.2_211"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S00651.2_212"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S00651.2_213"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S00651.2_214"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S00651.2_215"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S00651.2_216"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S00651.2_217"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S00651.2_218"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S00651.2_219"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S00651.2_220"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S00651.2_221"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S00651.2_222"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S00651.2_223"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S00651.2_224"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S00651.2_225"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S00651.2_226"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S00651.2_227"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S00651.2_228"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S00651.2_229"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S00651.2_230"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S00651.2_231"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S00651.2_232"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S00651.2_233"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S00651.2_234"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S00651.2_235"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S00651.2_236"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S00651.2_237"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S00651.2_238"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S00651.2_239"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S00651.2_240"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S00651.2_241"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S00651.2_242"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S00651.2_243"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S00651.2_244"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S00651.2_245"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S00651.2_246"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S00651.2_247"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S00651.2_248"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S00651.2_249"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S00651.2_250"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S00651.2_251"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S00651.2_252"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S00651.2_253"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S00651.2_254"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S00651.2_255"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S00651.2_256"/>
+        </body>
+    </text>
+</TEI>

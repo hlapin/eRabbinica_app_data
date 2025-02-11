@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+            <author>Ron Naiweld</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2018-02-22</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>eRabbinica and the Digital Mishnah Project</publisher>
+            <pubPlace>Department of History and Joseph and Rebecca Meyerhoff Center for Jewish
+               Studies</pubPlace>
+            <address>
+               <addrLine>2115 Francis Scott Key Hall</addrLine>
+               <addrLine>University of Maryland</addrLine>
+               <addrLine>College Park, MD</addrLine>
+            </address>
+            <idno type="local">fr_RN</idno>
+            <availability status="restricted">
+               <p>Daniel Stökl Ben Ezra, the École pratique des hautes études (Paris, France),
+                  and Hayim Lapin and the Joseph and Rebecca Meyerhoff Center for Jewish
+                  Studies and licensed under a and licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative
+                     Commons Attribution International 4.0
+                     Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA
+                     4.0)</ref>.</p>
+            </availability>
+            <date>2018-10-05</date>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Converted from a Word document</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <appInfo>
+            <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+               <label>DOCX to TEI</label>
+            </application>
+         </appInfo>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <date>2018-02-22T20:35:51Z</date>
+               <name>Ron Naiweld</name>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+    <text>
+        <body>
+            <div xmlns="" xml:id="M_fr_RN.M.S05134.1v"/>
+            <div xmlns="" xml:id="M_fr_RN.M.S05134.1r"/>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,4784 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="app.M117.94v">
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.13.0002900" corresp="M117.94v.A.1" n="1">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>מן</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.13.0002900"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.13.0002900"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.13.0003000"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.13.0003000" corresp="M117.94v.A.1" n="1">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>הדין</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.13.0003000"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.13.0003000"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.13.0003100"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.13.0003100" corresp="M117.94v.A.1" n="1">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>לכך</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.13.0003100"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.13.0003100"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.13.0003200"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.13.0003200" corresp="M117.94v.A.1" n="1">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>נאמר</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.13.0003200"/>
+                  </rdg>
+            </rdgGrp>
+            <rdgGrp n="2" type="alternate">
+                <lem>נא'</lem>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.13.0003200"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.13.0003300"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.13.0003300" corresp="M117.94v.A.1" n="1">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>או</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.13.0003300"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.13.0003400"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.13.0003400" corresp="M117.94v.A.1" n="1">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>מכרו</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.13.0003400"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.13.0003500"/>
+                  </rdg>
+            </rdgGrp>
+            <rdgGrp n="2" type="alternate">
+                <lem>ומכרו</lem>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.13.0003300"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.13.0003500" corresp="M117.94v.A.1" n="1">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>ללמדך</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.13.0003500"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.13.0003400"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.13.0003600"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.13.0003600" corresp="M117.94v.A.1" n="1">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>שאין</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.13.0003600"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.13.0003500"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.13.0003700"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.13.0003700" corresp="M117.94v.A.1" n="1">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>עונשין</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.13.0003700"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.13.0003600"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.13.0003800"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.13.0003800" corresp="M117.94v.A.1" n="1">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>מן</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.13.0003800"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.13.0003700"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.13.0003900"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.13.0003900" corresp="M117.94v.A.1" n="1">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>הדין</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.13.0003900"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.13.0003800"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.13.0004000"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.13.0004000" corresp="M117.94v.A.1" n="1">
+        <rdgGrp type="normalized">
+            <rdgGrp n="" type="base">
+                <lem>˙</lem>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.14.0000100" corresp="M117.94v.A.1" n="1">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>ד'</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.14.0000100"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.14.0000100"/>
+                  </rdg>
+            </rdgGrp>
+            <rdgGrp n="2" type="alternate">
+                <lem>ד'</lem>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.14.0000100"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.14.0000200" corresp="M117.94v.A.1" n="1">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>א'</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.14.0000200"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.14.0000200"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.14.0000200"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.14.0000300" corresp="M117.94v.A.1" n="1">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>הקיש</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.14.0000300"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.14.0000300"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.14.0000300"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.14.0000400" corresp="M117.94v.A.2" n="2">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>טובח</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.14.0000400"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.14.0000400"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.14.0000400"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.14.0000500" corresp="M117.94v.A.2" n="2">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>למוכר</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.14.0000500"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.14.0000500"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.14.0000500"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.14.0000600" corresp="M117.94v.A.2" n="2">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>ומוכר</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.14.0000600"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.14.0000600"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.14.0000600"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.14.0000700" corresp="M117.94v.A.2" n="2">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>לטובח</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.14.0000700"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.14.0000700"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.14.0000700"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.14.0000800" corresp="M117.94v.A.2" n="2">
+        <rdgGrp type="normalized">
+            <rdgGrp n="" type="base">
+                <lem>˙</lem>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.14.0000900" corresp="M117.94v.A.2" n="2">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>מה</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.14.0000900"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.14.0000800"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.14.0000800"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.14.0001000" corresp="M117.94v.A.2" n="2">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>מכירה</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.14.0001000"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.14.0000900"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.14.0000900"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.14.0001100" corresp="M117.94v.A.2" n="2">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>חוץ</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.14.0001100"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.14.0001000"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.14.0001000"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.14.0001200" corresp="M117.94v.A.2" n="2">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>לרשותו</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.14.0001200"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.14.0001200"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.14.0001100"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.14.0001300" corresp="M117.94v.A.2" n="2">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>אף</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.14.0001300"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.14.0001300"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.14.0001200"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.14.0001400" corresp="M117.94v.A.2" n="2">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>טביחה</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.14.0001400"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.14.0001400"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.14.0001300"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.14.0001500" corresp="M117.94v.A.2" n="2">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>חוץ</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.14.0001500"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.14.0001500"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.14.0001400"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.14.0001600" corresp="M117.94v.A.2" n="2">
+        <rdgGrp type="normalized">
+            <rdgGrp n="" type="base">
+                <lem>לרש'</lem>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.14.0001700" corresp="M117.94v.A.3" n="3">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>לרשותו</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.14.0001700"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.14.0001600"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.14.0001500"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.14.0001800" corresp="M117.94v.A.3" n="3">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>מה</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.14.0001800"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.14.0001700"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.14.0001600"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.14.0001900" corresp="M117.94v.A.3" n="3">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>מכירה</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.14.0001900"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.14.0001800"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.14.0001700"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.14.0002000" corresp="M117.94v.A.3" n="3">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>מותרת</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.14.0002000"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.14.0001900"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.14.0001800"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.14.0002100" corresp="M117.94v.A.3" n="3">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>באכילה</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.14.0002100"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.14.0002000"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.14.0001900"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.14.0002200" corresp="M117.94v.A.3" n="3">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>אף</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.14.0002200"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.14.0002100"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.14.0002000"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.14.0002300" corresp="M117.94v.A.3" n="3">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>טביחה</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.14.0002300"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.14.0002200"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.14.0002100"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.14.0002400" corresp="M117.94v.A.3" n="3">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>מותר'</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.14.0002400"/>
+                  </rdg>
+            </rdgGrp>
+            <rdgGrp n="2" type="alternate">
+                <lem>מותרת</lem>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.14.0002300"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.14.0002200"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.14.0002500" corresp="M117.94v.A.3" n="3">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>באכילה</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.14.0002500"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.14.0002400"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.14.0002400"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.14.0002600" corresp="M117.94v.A.3" n="3">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>מה</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.14.0002600"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.14.0002500"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.14.0002500"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.14.0002700" corresp="M117.94v.A.3" n="3">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>מכירה</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.14.0002700"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.14.0002600"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.14.0002600"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.14.0002800" corresp="M117.94v.A.4" n="4">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>מותרת</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.14.0002800"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.14.0002700"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.14.0002700"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.14.0002900" corresp="M117.94v.A.4" n="4">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>בהנאה</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.14.0002900"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.14.0002800"/>
+                  </rdg>
+            </rdgGrp>
+            <rdgGrp n="2" type="alternate">
+                <lem>בהנייה</lem>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.14.0002800"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.14.0003000" corresp="M117.94v.A.4" n="4">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>אף</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.14.0003000"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.14.0002900"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.14.0002900"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.14.0003100" corresp="M117.94v.A.4" n="4">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>טביחה</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.14.0003100"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.14.0003000"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.14.0003000"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.14.0003200" corresp="M117.94v.A.4" n="4">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>מות'</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.14.0003200"/>
+                  </rdg>
+            </rdgGrp>
+            <rdgGrp n="2" type="alternate">
+                <lem>מותרת</lem>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.14.0003100"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.14.0003100"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.14.0003300" corresp="M117.94v.A.4" n="4">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>בהנאה</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.14.0003300"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.14.0003200"/>
+                  </rdg>
+            </rdgGrp>
+            <rdgGrp n="2" type="alternate">
+                <lem>בהנייה</lem>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.14.0003200"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.14.0003400" corresp="M117.94v.A.4" n="4">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>מה</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.14.0003400"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.14.0003300"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.14.0003300"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.14.0003500" corresp="M117.94v.A.4" n="4">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>טביחה</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.14.0003500"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.14.0003400"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.14.0003400"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.14.0003600" corresp="M117.94v.A.4" n="4">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>שאינ'</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.14.0003600"/>
+                  </rdg>
+            </rdgGrp>
+            <rdgGrp n="2" type="alternate">
+                <lem>שאינה</lem>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.14.0003500"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.14.0003500"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.14.0003700" corresp="M117.94v.A.4" n="4">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>יכולה</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.14.0003700"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.14.0003600"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.14.0003600"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.14.0003800" corresp="M117.94v.A.4" n="4">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>לחזור</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.14.0003800"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.14.0003800"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.14.0003700"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.14.0003900" corresp="M117.94v.A.5" n="5">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>אף</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.14.0003900"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.14.0003900"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.14.0003800"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.14.0004000" corresp="M117.94v.A.5" n="5">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>מכירה</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.14.0004000"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.14.0004000"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.14.0003900"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.14.0004100" corresp="M117.94v.A.5" n="5">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>שאינה</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.14.0004100"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.14.0004100"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.14.0004000"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.14.0004200" corresp="M117.94v.A.5" n="5">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>יכולה</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.14.0004200"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.14.0004200"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.14.0004100"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.14.0004300" corresp="M117.94v.A.5" n="5">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>לחזור</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.14.0004300"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.14.0004300"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.14.0004200"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.14.0004400" corresp="M117.94v.A.5" n="5">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>מה</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.14.0004400"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.14.0004400"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.14.0004300"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.14.0004500" corresp="M117.94v.A.5" n="5">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>טביחה</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.14.0004500"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.14.0004500"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.14.0004400"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.14.0004600" corresp="M117.94v.A.5" n="5">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>כולה</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.14.0004600"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.14.0004600"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.14.0004500"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.14.0004700" corresp="M117.94v.A.5" n="5">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>אף</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.14.0004700"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.14.0004700"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.14.0004600"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.14.0004800" corresp="M117.94v.A.5" n="5">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>מכירה</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.14.0004800"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.14.0004800"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.14.0004700"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.14.0004900" corresp="M117.94v.A.5" n="5">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>כולה</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.14.0004900"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.14.0004900"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.14.0004800"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.15.0000100" corresp="M117.94v.A.6" n="6">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>וכי</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.15.0000100"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.15.0000200"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.15.0000200"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.15.0000200" corresp="M117.94v.A.6" n="6">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>יגנוב</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.15.0000200"/>
+                  </rdg>
+            </rdgGrp>
+            <rdgGrp n="2" type="alternate">
+                <lem>יגנב</lem>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.15.0000300"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.15.0000300"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.15.0000300" corresp="M117.94v.A.6" n="6">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>איש</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.15.0000300"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.15.0000400"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.15.0000400"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.15.0000400" corresp="M117.94v.A.6" n="6">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>אף</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.15.0000400"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.15.0000500"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.15.0000500"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.15.0000500" corresp="M117.94v.A.6" n="6">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>המוקדשין</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.15.0000500"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.15.0000600"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.15.0000600"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.15.0000600" corresp="M117.94v.A.6" n="6">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>היו</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.15.0000600"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.15.0000700"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.15.0000700"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.15.0000700" corresp="M117.94v.A.6" n="6">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>בכלל</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.15.0000700"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.15.0000800"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.15.0000800"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.15.0000800" corresp="M117.94v.A.6" n="6">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>שאם</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.15.0000800"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.15.0000900"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.15.0000900"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.15.0000900" corresp="M117.94v.A.6" n="6">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>גנבו</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.15.0000900"/>
+                  </rdg>
+            </rdgGrp>
+            <rdgGrp n="2" type="alternate">
+                <lem>גונבן</lem>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.15.0001000"/>
+                  </rdg>
+            </rdgGrp>
+            <rdgGrp n="3" type="alternate">
+                <lem>גונבו</lem>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.15.0001000"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.15.0001000" corresp="M117.94v.A.6" n="6">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>ושוחטו</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.15.0001000"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.15.0001100"/>
+                  </rdg>
+            </rdgGrp>
+            <rdgGrp n="2" type="alternate">
+                <lem>ושוחטן</lem>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.15.0001100"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.15.0001100" corresp="M117.94v.A.6" n="6">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>בחוץ</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.15.0001100"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.15.0001200"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.15.0001200"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.15.0001200" corresp="M117.94v.A.6" n="6">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>משלם</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.15.0001200"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.15.0001300"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.15.0001300"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.15.0001300" corresp="M117.94v.A.7" n="7">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>תשלומי</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.15.0001300"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.15.0001400"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.15.0001400"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.15.0001400" corresp="M117.94v.A.7" n="7">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>ארבעה</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.15.0001400"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.15.0001500"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.15.0001500"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.15.0001500" corresp="M117.94v.A.7" n="7">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>וחמשה</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.15.0001500"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.15.0001600"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.15.0001600"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.15.0001600" corresp="M117.94v.A.7" n="7">
+        <rdgGrp type="normalized">
+            <rdgGrp n="" type="base">
+                <lem>˙</lem>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.15.0001700" corresp="M117.94v.A.7" n="7">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>והרי</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.15.0001700"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.15.0001700"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.15.0001700"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.15.0001800" corresp="M117.94v.A.7" n="7">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>הכת'</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.15.0001800"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.15.0001800"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.15.0001800"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.15.0001900" corresp="M117.94v.A.7" n="7">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>מוציאן</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.15.0001900"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.15.0001900"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.15.0001900"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.15.0002000" corresp="M117.94v.A.7" n="7">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>מכללן</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.15.0002000"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.15.0002000"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.15.0002000"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.15.0002100" corresp="M117.94v.A.7" n="7">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>להחמיר</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.15.0002100"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.15.0002100"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.15.0002100"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.15.0002200" corresp="M117.94v.A.7" n="7">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>עליהן</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.15.0002200"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.15.0002200"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.15.0002200"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.15.0002300" corresp="M117.94v.A.8" n="8">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>לזוקקן</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.15.0002300"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.15.0002300"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.15.0002300"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.15.0002400" corresp="M117.94v.A.8" n="8">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>להכרת</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.15.0002400"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.15.0002400"/>
+                  </rdg>
+            </rdgGrp>
+            <rdgGrp n="2" type="alternate">
+                <lem>להיכרת</lem>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.15.0002400"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.15.0002500" corresp="M117.94v.A.8" n="8">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>שהיו</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.15.0002500"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.15.0002500"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.15.0002500"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.15.0002600" corresp="M117.94v.A.8" n="8">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>חייבין</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.15.0002600"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.15.0002600"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.15.0002600"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.15.0002700" corresp="M117.94v.A.8" n="8">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>בתשלומין</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.15.0002700"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.15.0002700"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.15.0002700"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.15.0002800" corresp="M117.94v.A.8" n="8">
+        <rdgGrp type="normalized">
+            <rdgGrp n="" type="base">
+                <lem>˙</lem>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.15.0002900" corresp="M117.94v.A.8" n="8">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>והדין</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.15.0002900"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.15.0002800"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.15.0002800"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.15.0003000" corresp="M117.94v.A.8" n="8">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>נותן</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.15.0003000"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.15.0002900"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.15.0002900"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.15.0003100" corresp="M117.94v.A.8" n="8">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>אם</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.15.0003100"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.15.0003000"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.15.0003000"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.15.0003200" corresp="M117.94v.A.8" n="8">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>חייבין</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.15.0003200"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.15.0003100"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.15.0003100"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.15.0003300" corresp="M117.94v.A.8" n="8">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>על</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.15.0003300"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.15.0003200"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.15.0003200"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.15.0003400" corresp="M117.94v.A.8" n="8">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>כרת</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.15.0003400"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.15.0003300"/>
+                  </rdg>
+            </rdgGrp>
+            <rdgGrp n="2" type="alternate">
+                <lem>הכרת</lem>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.15.0003300"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.15.0003500" corresp="M117.94v.A.8" n="8">
+        <rdgGrp type="normalized">
+            <rdgGrp n="" type="base">
+                <lem>הח'</lem>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.15.0003600" corresp="M117.94v.A.9" n="9">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>החמור</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.15.0003600"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.15.0003400"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.15.0003400"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.15.0003700" corresp="M117.94v.A.9" n="9">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>לא</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.15.0003700"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.15.0003500"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.15.0003500"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.15.0003800" corresp="M117.94v.A.9" n="9">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>יהו</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.15.0003800"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.15.0003600"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.15.0003600"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.15.0003900" corresp="M117.94v.A.9" n="9">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>חייבין</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.15.0003900"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.15.0003700"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.15.0003700"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.15.0004000" corresp="M117.94v.A.9" n="9">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>בתשלומין</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.15.0004000"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.15.0003800"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.15.0003800"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.15.0004100" corresp="M117.94v.A.9" n="9">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>קלין</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.15.0004100"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.15.0003900"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.15.0003900"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.15.0004200" corresp="M117.94v.A.9" n="9">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>ת'</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.15.0004200"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.15.0004000"/>
+                  </rdg>
+            </rdgGrp>
+            <rdgGrp n="2" type="alternate">
+                <lem>תל'</lem>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.15.0004000"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.15.0004300" corresp="M117.94v.A.9" n="9">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>ל'</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.15.0004300"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.15.0004100"/>
+                  </rdg>
+            </rdgGrp>
+            <rdgGrp n="2" type="alternate">
+                <lem>לו'</lem>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.15.0004100"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.15.0004400" corresp="M117.94v.A.9" n="9">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>זה</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.15.0004400"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.15.0004200"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.15.0004200"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.15.0004500" corresp="M117.94v.A.9" n="9">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>הדבר</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.15.0004500"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.15.0004300"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.15.0004300"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.15.0004600" corresp="M117.94v.A.9" n="9">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>אשר</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.15.0004600"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.15.0004400"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.15.0004400"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.15.0004700" corresp="M117.94v.A.9" n="9">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>צוה</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.15.0004700"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.15.0004500"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.15.0004500"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.15.0004800" corresp="M117.94v.A.9" n="9">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>ייי</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.15.0004800"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.15.0004600"/>
+                  </rdg>
+            </rdgGrp>
+            <rdgGrp n="2" type="alternate">
+                <lem>יהוה</lem>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.15.0004600"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.15.0004900" corresp="M117.94v.A.9" n="9">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>מכלל</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.15.0004900"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.15.0004700"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.15.0004700"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.15.0005000" corresp="M117.94v.A.10" n="10">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>כרת</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.15.0005000"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.15.0004800"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.15.0004800"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.15.0005100" corresp="M117.94v.A.10" n="10">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>יצאו</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.15.0005100"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.15.0004900"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.15.0004900"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.15.0005200" corresp="M117.94v.A.10" n="10">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>ולא</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.15.0005200"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.15.0005000"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.15.0005000"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.15.0005300" corresp="M117.94v.A.10" n="10">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>יצאו</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.15.0005300"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.15.0005100"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.15.0005100"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.15.0005400" corresp="M117.94v.A.10" n="10">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>מכלל</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.15.0005400"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.15.0005200"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.15.0005200"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.15.0005500" corresp="M117.94v.A.10" n="10">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>תשלומין</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.15.0005500"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.15.0005300"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.15.0005300"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.15.0005600" corresp="M117.94v.A.10" n="10">
+        <rdgGrp type="normalized">
+            <rdgGrp n="" type="base">
+                <lem>˙</lem>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.15.0005700" corresp="M117.94v.A.10" n="10">
+        <rdgGrp type="normalized">
+            <rdgGrp n="" type="base">
+                <lem>˙</lem>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0000100" corresp="M117.94v.A.10" n="10">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>חמשה</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0000100"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0000100"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0000100"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0000200" corresp="M117.94v.A.10" n="10">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>בקר</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0000200"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0000200"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0000200"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0000300" corresp="M117.94v.A.10" n="10">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>ישלם</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0000300"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0000300"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0000300"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0000400" corresp="M117.94v.A.10" n="10">
+        <rdgGrp type="normalized">
+            <rdgGrp n="" type="base">
+                <lem>˙</lem>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0000500" corresp="M117.94v.A.10" n="10">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>ארבעה</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0000500"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0000400"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0000400"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0000600" corresp="M117.94v.A.11" n="11">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>והוא</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0000600"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0000500"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0000500"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0000700" corresp="M117.94v.A.11" n="11">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>שלשה</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0000700"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0000600"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0000600"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0000800" corresp="M117.94v.A.11" n="11">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>והוא</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0000800"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0000700"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0000700"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0000900" corresp="M117.94v.A.11" n="11">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>ר'</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0000900"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0000800"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0000800"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0001000" corresp="M117.94v.A.11" n="11">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>מאיר</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0001000"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0000900"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0000900"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0001100" corresp="M117.94v.A.11" n="11">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>אומר</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0001100"/>
+                  </rdg>
+            </rdgGrp>
+            <rdgGrp n="2" type="alternate">
+                <lem>או'</lem>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0001000"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0001000"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0001200" corresp="M117.94v.A.11" n="11">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>בוא</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0001200"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0001100"/>
+                  </rdg>
+            </rdgGrp>
+            <rdgGrp n="2" type="alternate">
+                <lem>בא</lem>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0001100"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0001300" corresp="M117.94v.A.11" n="11">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>וראה</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0001300"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0001200"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0001200"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0001400" corresp="M117.94v.A.11" n="11">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>כמה</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0001400"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0001300"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0001300"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0001500" corresp="M117.94v.A.11" n="11">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>חביבה</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0001500"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0001400"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0001400"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0001600" corresp="M117.94v.A.11" n="11">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>מלאכה</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0001600"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0001500"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0001500"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0001700" corresp="M117.94v.A.11" n="11">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>לפני</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0001700"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0001600"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0001600"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0001800" corresp="M117.94v.A.12" n="12">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>מי</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0001800"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0001700"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0001700"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0001900" corresp="M117.94v.A.12" n="12">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>שאמ'</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0001900"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0001800"/>
+                  </rdg>
+            </rdgGrp>
+            <rdgGrp n="2" type="alternate">
+                <lem>שא'</lem>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0001800"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0002000" corresp="M117.94v.A.12" n="12">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>והיה</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0002000"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0001900"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0001900"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0002100" corresp="M117.94v.A.12" n="12">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>העולם</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0002100"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0002000"/>
+                  </rdg>
+            </rdgGrp>
+            <rdgGrp n="2" type="alternate">
+                <lem>העו'</lem>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0002000"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0002200" corresp="M117.94v.A.12" n="12">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>שור</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0002200"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0002100"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0002100"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0002300" corresp="M117.94v.A.12" n="12">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>לפי</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0002300"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0002200"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0002200"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0002400" corresp="M117.94v.A.12" n="12">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>שיש</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0002400"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0002400"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0002300"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0002500" corresp="M117.94v.A.12" n="12">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>לו</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0002500"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0002500"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0002400"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0002600" corresp="M117.94v.A.12" n="12">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>מלאכה</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0002600"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0002600"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0002500"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0002700" corresp="M117.94v.A.12" n="12">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>ישלם</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0002700"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0002700"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0002600"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0002800" corresp="M117.94v.A.12" n="12">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>חמשה</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0002800"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0002800"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0002700"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0002900" corresp="M117.94v.A.12" n="12">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>ושה</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0002900"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0002900"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0002800"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0003000" corresp="M117.94v.A.13" n="13">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>שאין</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0003000"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0002900"/>
+                  </rdg>
+            </rdgGrp>
+            <rdgGrp n="2" type="alternate">
+                <lem>אין</lem>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0003000"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0003100" corresp="M117.94v.A.13" n="13">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>לו</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0003100"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0003100"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0003000"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0003200" corresp="M117.94v.A.13" n="13">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>מלאכה</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0003200"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0003200"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0003100"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0003300" corresp="M117.94v.A.13" n="13">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>ישלם</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0003300"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0003300"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0003200"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0003400" corresp="M117.94v.A.13" n="13">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>ארבעה</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0003400"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0003400"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0003300"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0003500" corresp="M117.94v.A.13" n="13">
+        <rdgGrp type="normalized">
+            <rdgGrp n="" type="base">
+                <lem>˙</lem>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0003600" corresp="M117.94v.A.13" n="13">
+        <rdgGrp type="normalized">
+            <rdgGrp n="" type="base">
+                <lem>˙</lem>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0003700" corresp="M117.94v.A.13" n="13">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>רבן</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0003700"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0003500"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0003400"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0003800" corresp="M117.94v.A.13" n="13">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>יוחנן</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0003800"/>
+                  </rdg>
+            </rdgGrp>
+            <rdgGrp n="2" type="alternate">
+                <lem>יוחנ'</lem>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0003600"/>
+                  </rdg>
+            </rdgGrp>
+            <rdgGrp n="3" type="alternate">
+                <lem>יוח'</lem>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0003500"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0003900" corresp="M117.94v.A.13" n="13">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>בן</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0003900"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0003700"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0003600"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0004000" corresp="M117.94v.A.13" n="13">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>זכאי</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0004000"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0003800"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0003700"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0004100" corresp="M117.94v.A.13" n="13">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>אומ'</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0004100"/>
+                  </rdg>
+            </rdgGrp>
+            <rdgGrp n="2" type="alternate">
+                <lem>או'</lem>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0003900"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0003800"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0004200" corresp="M117.94v.A.13" n="13">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>חס</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0004200"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0004000"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0003900"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0004300" corresp="M117.94v.A.13" n="13">
+        <rdgGrp type="normalized">
+            <rdgGrp n="" type="base">
+                <lem>המק'</lem>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0004400" corresp="M117.94v.A.14" n="14">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>המקום</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0004400"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0004000"/>
+                  </rdg>
+            </rdgGrp>
+            <rdgGrp n="2" type="alternate">
+                <lem>המק'</lem>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0004100"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0004500" corresp="M117.94v.A.14" n="14">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>על</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0004500"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0004200"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0004100"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0004600" corresp="M117.94v.A.14" n="14">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>כבודו</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0004600"/>
+                  </rdg>
+            </rdgGrp>
+            <rdgGrp n="2" type="alternate">
+                <lem>כבודן</lem>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0004300"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0004200"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0004700" corresp="M117.94v.A.14" n="14">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>של</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0004700"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0004400"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0004300"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0004800" corresp="M117.94v.A.14" n="14">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>בריות</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0004800"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0004500"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0004400"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0004900" corresp="M117.94v.A.14" n="14">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>שור</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0004900"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0004600"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0004500"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0005000" corresp="M117.94v.A.14" n="14">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>לפי</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0005000"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0004700"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0004600"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0005100" corresp="M117.94v.A.14" n="14">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>שהולך</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0005100"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0004700"/>
+                  </rdg>
+            </rdgGrp>
+            <rdgGrp n="2" type="alternate">
+                <lem>שהילך</lem>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0004800"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0005200" corresp="M117.94v.A.14" n="14">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>ברגליו</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0005200"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0004900"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0004800"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0005300" corresp="M117.94v.A.14" n="14">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>ישלם</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0005300"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0005000"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0004900"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0005400" corresp="M117.94v.A.14" n="14">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>חמשה</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0005400"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0005100"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0005000"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0005500" corresp="M117.94v.A.15" n="15">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>שה</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0005500"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0005200"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0005100"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0005600" corresp="M117.94v.A.15" n="15">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>לפי</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0005600"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0005300"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0005200"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0005700" corresp="M117.94v.A.15" n="15">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>שטענו</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0005700"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0005400"/>
+                  </rdg>
+            </rdgGrp>
+            <rdgGrp n="2" type="alternate">
+                <lem>שטוענו</lem>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0005300"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0005800" corresp="M117.94v.A.15" n="15">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>ישלם</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0005800"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0005500"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0005400"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0005900" corresp="M117.94v.A.15" n="15">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>ארבעה</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0005900"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0005500"/>
+                  </rdg>
+            </rdgGrp>
+            <rdgGrp n="2" type="alternate">
+                <lem>ארבע'</lem>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0005600"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0006000" corresp="M117.94v.A.15" n="15">
+        <rdgGrp type="normalized">
+            <rdgGrp n="" type="base">
+                <lem>˙</lem>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0006100" corresp="M117.94v.A.15" n="15">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>ר'</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0006100"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0005800"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0005600"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0006200" corresp="M117.94v.A.15" n="15">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>עקיבא</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0006200"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0005900"/>
+                  </rdg>
+            </rdgGrp>
+            <rdgGrp n="2" type="alternate">
+                <lem>עקי'</lem>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0005700"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0006300" corresp="M117.94v.A.15" n="15">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>אומ'</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0006300"/>
+                  </rdg>
+            </rdgGrp>
+            <rdgGrp n="2" type="alternate">
+                <lem>או'</lem>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0006000"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0005800"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0006400" corresp="M117.94v.A.15" n="15">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>תחת</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0006400"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0006100"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0005900"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0006500" corresp="M117.94v.A.15" n="15">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>שור</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0006500"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0006200"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0006000"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0006600" corresp="M117.94v.A.15" n="15">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>תחת</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0006600"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0006300"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0006100"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0006700" corresp="M117.94v.A.15" n="15">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>שה</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0006700"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0006400"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0006200"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0006800" corresp="M117.94v.A.16" n="16">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>להוציא</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0006800"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0006500"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0006300"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0006900" corresp="M117.94v.A.16" n="16">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>את</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0006900"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0006600"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0006400"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0007000" corresp="M117.94v.A.16" n="16">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>החיה</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0007000"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0006700"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0006500"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0007100" corresp="M117.94v.A.16" n="16">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>שהיה</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0007100"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0006800"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0006600"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0007200" corresp="M117.94v.A.16" n="16">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>בדין</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0007200"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0006900"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0006700"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0007300" corresp="M117.94v.A.16" n="16">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>הואיל</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0007300"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0007000"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0006800"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0007400" corresp="M117.94v.A.16" n="16">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>ובהמה</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0007400"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0007100"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0006900"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0007500" corresp="M117.94v.A.16" n="16">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>בתשלומין</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0007500"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0007200"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0007000"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0007600" corresp="M117.94v.A.16" n="16">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>וחיה</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0007600"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0007300"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0007100"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0007700" corresp="M117.94v.A.17" n="17">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>בת ל ש לומין</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0007700"/>
+                  </rdg>
+            </rdgGrp>
+            <rdgGrp n="2" type="alternate">
+                <lem>בתשלומין</lem>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0007400"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0007200"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0007800" corresp="M117.94v.A.17" n="17">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>אם</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0007800"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0007500"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0007300"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0007900" corresp="M117.94v.A.17" n="17">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>למדת</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0007900"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0007600"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0007400"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0008000" corresp="M117.94v.A.17" n="17">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>על</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0008000"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0007700"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0007500"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0008100" corresp="M117.94v.A.17" n="17">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>בהמה</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0008100"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0007800"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0007600"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0008200" corresp="M117.94v.A.17" n="17">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>שהוא</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0008200"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0007900"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0007700"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0008300" corresp="M117.94v.A.17" n="17">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>משלם</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0008300"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0008000"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0007800"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0008400" corresp="M117.94v.A.17" n="17">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>תשלומי</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0008400"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0008100"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0007900"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0008500" corresp="M117.94v.A.17" n="17">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>ארבעה</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0008500"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0008200"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0008000"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0008600" corresp="M117.94v.A.18" n="18">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>וחמשה</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0008600"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0008300"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0008100"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0008700" corresp="M117.94v.A.18" n="18">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>אף</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0008700"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0008400"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0008200"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0008800" corresp="M117.94v.A.18" n="18">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>החיה</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0008800"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0008500"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0008300"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0008900" corresp="M117.94v.A.18" n="18">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>ישלם</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0008900"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0008400"/>
+                  </rdg>
+            </rdgGrp>
+            <rdgGrp n="2" type="alternate">
+                <lem>משלם</lem>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0008600"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0009000" corresp="M117.94v.A.18" n="18">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>תשלומי</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0009000"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0008700"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0008500"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0009100" corresp="M117.94v.A.18" n="18">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>ארבעה</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0009100"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0008600"/>
+                  </rdg>
+            </rdgGrp>
+            <rdgGrp n="2" type="alternate">
+                <lem>ארבע'</lem>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0008800"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0009200" corresp="M117.94v.A.18" n="18">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>וחמשה</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0009200"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0008700"/>
+                  </rdg>
+            </rdgGrp>
+            <rdgGrp n="2" type="alternate">
+                <lem>וחמש'</lem>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0008900"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0009300" corresp="M117.94v.A.18" n="18">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>לא</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0009300"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0009100"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0008800"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0009400" corresp="M117.94v.A.18" n="18">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>אם</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0009400"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0009200"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0008900"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0009500" corresp="M117.94v.A.18" n="18">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>אמרת</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0009500"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0009300"/>
+                  </rdg>
+            </rdgGrp>
+            <rdgGrp n="2" type="alternate">
+                <lem>אמרתה</lem>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0009000"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0009600" corresp="M117.94v.A.19" n="19">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>בבהמה</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0009600"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0009400"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0009100"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0009700" corresp="M117.94v.A.19" n="19">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>שהיא</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0009700"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0009500"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0009200"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0009800" corresp="M117.94v.A.19" n="19">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>קריבה</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0009800"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0009600"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0009300"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0009900" corresp="M117.94v.A.19" n="19">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>על</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0009900"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0009700"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0009400"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0010000" corresp="M117.94v.A.19" n="19">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>גבי</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0010000"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0009800"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0009500"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0010100" corresp="M117.94v.A.19" n="19">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>המזבח</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0010100"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0009900"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0009600"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0010200" corresp="M117.94v.A.19" n="19">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>לפיכך</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0010200"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0010000"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0009700"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0010300" corresp="M117.94v.A.19" n="19">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>משלם</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0010300"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0010100"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0009800"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0010400" corresp="M117.94v.A.19" n="19">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>תשלומי</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0010400"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0009900"/>
+                  </rdg>
+            </rdgGrp>
+            <rdgGrp n="2" type="alternate">
+                <lem>תשלומ'</lem>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0010200"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0010500" corresp="M117.94v.A.19" n="19">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>ארבע'</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0010500"/>
+                  </rdg>
+            </rdgGrp>
+            <rdgGrp n="2" type="alternate">
+                <lem>ארב'</lem>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0010300"/>
+                  </rdg>
+            </rdgGrp>
+            <rdgGrp n="3" type="alternate">
+                <lem>ארבעה</lem>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0010000"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0010600" corresp="M117.94v.A.20" n="20">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>וחמשה</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0010600"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0010100"/>
+                  </rdg>
+            </rdgGrp>
+            <rdgGrp n="2" type="alternate">
+                <lem>וחמ'</lem>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0010400"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0010700" corresp="M117.94v.A.20" n="20">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>תאמר</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0010700"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0010500"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0010200"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0010800" corresp="M117.94v.A.20" n="20">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>בחיה</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0010800"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0010600"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0010300"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0010900" corresp="M117.94v.A.20" n="20">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>שאינה</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0010900"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0010700"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0010400"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0011000" corresp="M117.94v.A.20" n="20">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>קריבה</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0011000"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0010800"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0010500"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0011100" corresp="M117.94v.A.20" n="20">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>על</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0011100"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0010900"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0010600"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0011200" corresp="M117.94v.A.20" n="20">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>גבי</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0011200"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0011000"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0010700"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0011300" corresp="M117.94v.A.20" n="20">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>המזבח</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0011300"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0011100"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0010800"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0011400" corresp="M117.94v.A.20" n="20">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>ומשלם</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0011400"/>
+                  </rdg>
+            </rdgGrp>
+            <rdgGrp n="2" type="alternate">
+                <lem>ישלם</lem>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0011400"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0011100"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0011500" corresp="M117.94v.A.20" n="20">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>תשלו'</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0011500"/>
+                  </rdg>
+            </rdgGrp>
+            <rdgGrp n="2" type="alternate">
+                <lem>תש'</lem>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0011500"/>
+                  </rdg>
+            </rdgGrp>
+            <rdgGrp n="3" type="alternate">
+                <lem>תשלומי</lem>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0011200"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0011600" corresp="M117.94v.A.21" n="21">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>ארבעה</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0011600"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0011300"/>
+                  </rdg>
+            </rdgGrp>
+            <rdgGrp n="2" type="alternate">
+                <lem>ארב'</lem>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0011600"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0011700" corresp="M117.94v.A.21" n="21">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>וחמשה</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0011700"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0011400"/>
+                  </rdg>
+            </rdgGrp>
+            <rdgGrp n="2" type="alternate">
+                <lem>וחמ'</lem>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0011700"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0011800" corresp="M117.94v.A.21" n="21">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>והרי</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0011800"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0011800"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0011500"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0011900" corresp="M117.94v.A.21" n="21">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>בעלת</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0011900"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0011900"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0011600"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0012000" corresp="M117.94v.A.21" n="21">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>מומין</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0012000"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0012000"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0011700"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0012100" corresp="M117.94v.A.21" n="21">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>תוכיח</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0012100"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0012100"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0011800"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0012200" corresp="M117.94v.A.21" n="21">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>שאינה</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0012200"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0012200"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0011900"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0012300" corresp="M117.94v.A.21" n="21">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>קריבה</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0012300"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0012300"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0012000"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0012400" corresp="M117.94v.A.21" n="21">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>על</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0012400"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0012400"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0012100"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0012500" corresp="M117.94v.A.21" n="21">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>גבי</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0012500"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0012500"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0012200"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0012600" corresp="M117.94v.A.21" n="21">
+        <rdgGrp type="normalized">
+            <rdgGrp n="" type="base">
+                <lem>המ'</lem>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0012700" corresp="M117.94v.A.22" n="22">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>המזבח</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0012700"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0012600"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0012300"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0012800" corresp="M117.94v.A.22" n="22">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>ומשלם</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0012800"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0012700"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0012400"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0012900" corresp="M117.94v.A.22" n="22">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>תשלומי</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0012900"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0012800"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0012500"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0013000" corresp="M117.94v.A.22" n="22">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>ארבעה</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0013000"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0012600"/>
+                  </rdg>
+            </rdgGrp>
+            <rdgGrp n="2" type="alternate">
+                <lem>ארב'</lem>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0012900"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0013100" corresp="M117.94v.A.22" n="22">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>וחמשה</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0013100"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0012700"/>
+                  </rdg>
+            </rdgGrp>
+            <rdgGrp n="2" type="alternate">
+                <lem>וחמש'</lem>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0013000"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0013200" corresp="M117.94v.A.22" n="22">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>היא</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0013200"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0013100"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0012800"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0013300" corresp="M117.94v.A.22" n="22">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>תוכיח</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0013300"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0013200"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0012900"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0013400" corresp="M117.94v.A.22" n="22">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>על</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0013400"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0013300"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0013000"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0013500" corresp="M117.94v.A.22" n="22">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>החיה</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0013500"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0013400"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0013100"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0013600" corresp="M117.94v.A.23" n="23">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>שא'</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0013600"/>
+                  </rdg>
+            </rdgGrp>
+            <rdgGrp n="2" type="alternate">
+                <lem>אף</lem>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0013500"/>
+                  </rdg>
+            </rdgGrp>
+            <rdgGrp n="3" type="alternate">
+                <lem>שאף</lem>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0013200"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0013700" corresp="M117.94v.A.23" n="23">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>ע'</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0013700"/>
+                  </rdg>
+            </rdgGrp>
+            <rdgGrp n="2" type="alternate">
+                <lem>על</lem>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0013600"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0013300"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0013800" corresp="M117.94v.A.23" n="23">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>פ'</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0013800"/>
+                  </rdg>
+            </rdgGrp>
+            <rdgGrp n="2" type="alternate">
+                <lem>פי</lem>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0013700"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0013400"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0013900" corresp="M117.94v.A.23" n="23">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>שאינה</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0013900"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0013800"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0013500"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0014000" corresp="M117.94v.A.23" n="23">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>קריבה</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0014000"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0013900"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0013600"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0014100" corresp="M117.94v.A.23" n="23">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>על</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0014100"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0014000"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0013700"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0014200" corresp="M117.94v.A.23" n="23">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>גבי</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0014200"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0014100"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0013800"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0014300" corresp="M117.94v.A.23" n="23">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>המזבח</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0014300"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0014200"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0013900"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0014400" corresp="M117.94v.A.23" n="23">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>ישלם</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0014400"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0014300"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0014000"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0014500" corresp="M117.94v.A.23" n="23">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>תשלומי</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0014500"/>
+                  </rdg>
+            </rdgGrp>
+            <rdgGrp n="2" type="alternate">
+                <lem>תשל'</lem>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0014400"/>
+                  </rdg>
+            </rdgGrp>
+            <rdgGrp n="3" type="alternate">
+                <lem>תש'</lem>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0014100"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0014600" corresp="M117.94v.A.23" n="23">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>ארבע'</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0014600"/>
+                  </rdg>
+            </rdgGrp>
+            <rdgGrp n="2" type="alternate">
+                <lem>אר'</lem>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0014500"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0014200"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0014700" corresp="M117.94v.A.23" n="23">
+        <rdgGrp type="normalized">
+            <rdgGrp n="" type="base">
+                <lem>וח'</lem>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0014800" corresp="M117.94v.A.24" n="24">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>וחמשה</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0014800"/>
+                  </rdg>
+            </rdgGrp>
+            <rdgGrp n="2" type="alternate">
+                <lem>וחמ'</lem>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0014600"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0014300"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0014900" corresp="M117.94v.A.24" n="24">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>לא</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0014900"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0014400"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0015000" corresp="M117.94v.A.24" n="24">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>אם</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0015000"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0014700"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0014500"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0015100" corresp="M117.94v.A.24" n="24">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>אמרת</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0015100"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0014800"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0014600"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0015200" corresp="M117.94v.A.24" n="24">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>בבעלת</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0015200"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0014900"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0014700"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0015300" corresp="M117.94v.A.24" n="24">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>מומין</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0015300"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0014800"/>
+                  </rdg>
+            </rdgGrp>
+            <rdgGrp n="2" type="alternate">
+                <lem>מום</lem>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0015000"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0015400" corresp="M117.94v.A.24" n="24">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>שמין</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0015400"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0014900"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0015500" corresp="M117.94v.A.24" n="24">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>מינה</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0015500"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0015000"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0015600" corresp="M117.94v.A.24" n="24">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>קרב</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0015600"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0015100"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0015700" corresp="M117.94v.A.24" n="24">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>על</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0015700"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0015200"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0015800" corresp="M117.94v.A.24" n="24">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>גבי</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0015800"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0015300"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0015900" corresp="M117.94v.A.25" n="25">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>המזבח</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0015900"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0015400"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0016000" corresp="M117.94v.A.25" n="25">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>לפיכך</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0016000"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0015500"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0016100" corresp="M117.94v.A.25" n="25">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>ישלם</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0016100"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0015600"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0016200" corresp="M117.94v.A.25" n="25">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>תשלו'</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0016200"/>
+                  </rdg>
+            </rdgGrp>
+            <rdgGrp n="2" type="alternate">
+                <lem>תשלומי</lem>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0015700"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0016300" corresp="M117.94v.A.25" n="25">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>ארבע'</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0016300"/>
+                  </rdg>
+            </rdgGrp>
+            <rdgGrp n="2" type="alternate">
+                <lem>ארבעה</lem>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0015800"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0016400" corresp="M117.94v.A.25" n="25">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>וחמש'</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0016400"/>
+                  </rdg>
+            </rdgGrp>
+            <rdgGrp n="2" type="alternate">
+                <lem>וחמשה</lem>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0015900"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0016500" corresp="M117.94v.A.25" n="25">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>תאמ'</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0016500"/>
+                  </rdg>
+            </rdgGrp>
+            <rdgGrp n="2" type="alternate">
+                <lem>תאמר</lem>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0016000"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0016600" corresp="M117.94v.A.25" n="25">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>בחיה</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0016600"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0016100"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0016700" corresp="M117.94v.A.25" n="25">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>שאין</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0016700"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0015100"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0016200"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0016800" corresp="M117.94v.A.25" n="25">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>ממינה</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0016800"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0016300"/>
+                  </rdg>
+            </rdgGrp>
+            <rdgGrp n="2" type="alternate">
+                <lem>מינה</lem>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0015200"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0016900" corresp="M117.94v.A.26" n="26">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>קרב</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0016900"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0016400"/>
+                  </rdg>
+            </rdgGrp>
+            <rdgGrp n="2" type="alternate">
+                <lem>קריבה</lem>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0015300"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0017000" corresp="M117.94v.A.26" n="26">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>על</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0017000"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0015400"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0016500"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0017100" corresp="M117.94v.A.26" n="26">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>גבי</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0017100"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0015500"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0016600"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0017200" corresp="M117.94v.A.26" n="26">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>המזבח</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0017200"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0015600"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0016700"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0017300" corresp="M117.94v.A.26" n="26">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>לפיכך</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0017300"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0015700"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0016800"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0017400" corresp="M117.94v.A.26" n="26">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>לא</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0017400"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0015800"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0016900"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0017500" corresp="M117.94v.A.26" n="26">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>ישלם</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0017500"/>
+                  </rdg>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0015900"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0017000"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0017600" corresp="M117.94v.A.26" n="26">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>תשלומי</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0017600"/>
+                  </rdg>
+            </rdgGrp>
+            <rdgGrp n="2" type="alternate">
+                <lem>תש'</lem>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0016000"/>
+                  </rdg>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0017100"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0017700" corresp="M117.94v.A.26" n="26">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>ארבעה</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0017700"/>
+                  </rdg>
+            </rdgGrp>
+            <rdgGrp n="2" type="alternate">
+                <lem>ארב'</lem>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0016100"/>
+                  </rdg>
+            </rdgGrp>
+            <rdgGrp n="3" type="alternate">
+                <lem>א'</lem>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0017200"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_MekhY.M117.7.12.16.0017800" corresp="M117.94v.A.26" n="26">
+        <rdgGrp type="normalized">
+            <rdgGrp n="1" type="base">
+                <lem>וחמשה</lem>
+                <rdg wit="MekhY.M117">
+                     <ptr target="#MekhY.M117.7.12.16.0017800"/>
+                  </rdg>
+            </rdgGrp>
+            <rdgGrp n="2" type="alternate">
+                <lem>וחמ'</lem>
+                <rdg wit="MekhY.Ox24">
+                     <ptr target="#MekhY.Ox24.7.12.16.0016200"/>
+                  </rdg>
+            </rdgGrp>
+            <rdgGrp n="3" type="alternate">
+                <lem>וח'</lem>
+                <rdg wit="MekhY.Vat299">
+                     <ptr target="#MekhY.Vat299.7.12.16.0017300"/>
+                  </rdg>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_M117.94v.comm1.27.0017900" corresp="M117.94v.comm1.27" n="1">
+        <rdgGrp type="normalized">
+            <rdgGrp n="" type="base">
+                <lem>טעם</lem>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_M117.94v.comm1.27.0018000" corresp="M117.94v.comm1.27" n="1">
+        <rdgGrp type="normalized">
+            <rdgGrp n="" type="base">
+                <lem>ארבעה</lem>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+    <app xml:id="app.M117.94v_M117.94v.comm1.27.0018100" corresp="M117.94v.comm1.27" n="1">
+        <rdgGrp type="normalized">
+            <rdgGrp n="" type="base">
+                <lem>וחמשה</lem>
+            </rdgGrp>
+        </rdgGrp>
+    </app>
+</div>
